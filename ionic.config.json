@@ -1,0 +1,8 @@
+{
+  "name": "Pasa Thai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "bf7e6d05"
+}
