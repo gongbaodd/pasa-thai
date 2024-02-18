@@ -21,3 +21,15 @@
       </ion-split-pane>
     </ion-app>
   </template>
+  
+<script lang="ts" setup>
+import {
+  IonApp,
+  IonSplitPane,
+  IonMenu,
+  IonContent,
+  IonList,
+  IonListHeader,
+  IonNote
+} from '@ionic/vue';
+</script>
