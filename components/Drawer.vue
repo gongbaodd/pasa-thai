@@ -1,7 +1,7 @@
 <template>
     <ion-app>
       <ion-split-pane content-id="main-content">
-        <ion-menu content-id="main-content" type="overlay">
+        <ion-menu content-id="main-content" type="reveal">
           <ion-content>
             <ion-list id="inbox-list">
               <ion-list-header>Words</ion-list-header>
@@ -16,7 +16,8 @@
   
           </ion-content>
         </ion-menu>
-        <slot />
+        <slot/>
+
       </ion-split-pane>
     </ion-app>
   </template>
