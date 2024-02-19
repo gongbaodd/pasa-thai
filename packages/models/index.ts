@@ -1,0 +1,1 @@
+export { type IWord, words } from "./words"

@@ -1,7 +1,7 @@
 <template>
-    <drawer>
+    <Drawer>
       <ion-router-outlet id="main-content"></ion-router-outlet>
-    </drawer>
+    </Drawer>
   </template>
   
   <script setup lang="ts">
@@ -24,5 +24,5 @@
   /* Theme variables */
   import './src/theme/variables.css';
   
-  import {Drawer} from "./packages/components";
+  import Drawer from "./components/Drawer.vue";
   </script>

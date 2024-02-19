@@ -1,26 +1,36 @@
 <template>
-    <ion-page>
-        <ion-header :translucent="true">
-            <ion-toolbar>
-                <ion-buttons slot="start">
-                    <ion-menu-button color="primary"></ion-menu-button>
-                </ion-buttons>
-                <ion-title>{{ $route.params.id }}</ion-title>
-            </ion-toolbar>
-        </ion-header>
+    <IonPage>
+        <Header title="Words"></Header>
 
-        <ion-content :fullscreen="true">
-            <ion-header collapse="condense">
-                <ion-toolbar>
-                    <ion-title size="large">{{ $route.params.id }}</ion-title>
-                </ion-toolbar>
-            </ion-header>
+        <IonContent :fullscreen="true">
+            <IonHeader collapse="condense">
+                <IonToolbar>
+                    <IonTitle size="large">{{ $route.params.id }}</IonTitle>
+                </IonToolbar>
+            </IonHeader>
 
             <div id="container">
-                <strong class="capitalize">{{ $route.params.id }}</strong>
-                <p>Explore <a target="_blank" rel="noopener noreferrer"
-                        href="https://ionicframework.com/docs/components">Hello</a></p>
+                <IonList>
+                    <IonItem v-for="word in words" :button="true" :onclick="onItemPress(word)">
+                        <IonLabel>{{ word.Chinese }}</IonLabel>
+                    </IonItem>
+                </IonList>
             </div>
-        </ion-content>
-    </ion-page>
+        </IonContent>
+    </IonPage>
 </template>
+
+<script setup lang="ts">
+import { IonContent, IonHeader, IonItem, IonLabel, IonList, IonPage, IonTitle, IonToolbar, IonButton } from "@ionic/vue";
+import { type IWord, words } from "../packages/models"
+import Header from "../components/Header.vue"
+import { useRouter } from "vue-router";
+
+const router = useRouter()
+
+function onItemPress(word: IWord) {
+    return () => {
+        router.push(`/word/${word.local_id}`)
+    }
+}
+</script>
