@@ -5,5 +5,6 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
     modules: ['@nuxtjs/ionic'],
     ssr: false,
+    buildDir: 'dist',
   })
   

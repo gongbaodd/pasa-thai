@@ -22,7 +22,7 @@
   import '@ionic/vue/css/display.css';
   
   /* Theme variables */
-  import './src/theme/variables.css';
+  import './theme/variables.css';
   
   import Drawer from "./components/Drawer.vue";
   </script>

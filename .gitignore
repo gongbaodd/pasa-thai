@@ -18,6 +18,7 @@ log.txt
 npm-debug.log*
 
 /.nuxt
+/.output
 /.idea
 /.ionic
 /.sass-cache
