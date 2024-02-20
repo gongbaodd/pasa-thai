@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { IonCard, IonCardHeader, IonPage, IonCardTitle, IonCardContent, IonCardSubtitle, IonNote } from '@ionic/vue';
+import { IonCard, IonCardHeader, IonPage, IonCardTitle, IonCardContent, IonCardSubtitle, IonNote, IonContent } from '@ionic/vue';
 import Header from '../../components/Header.vue';
 import { words } from "../../packages/models"
 import { useRoute, useRouter } from 'vue-router';
@@ -15,7 +15,7 @@ const goBack = () => router.back()
 <template>
     <IonPage>
         <Header :title="word?.Chinese" :go-back="goBack"></Header>
-        <div id="container">
+        <IonContent>
             <IonCard>
                 <IonCardHeader>
                     <IonCardTitle>
@@ -34,7 +34,7 @@ const goBack = () => router.back()
                     </p>
                 </IonCardContent>
             </IonCard>
-        </div>
+    </IonContent>
     </IonPage>
 </template>
 
