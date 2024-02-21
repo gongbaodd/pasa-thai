@@ -12,6 +12,7 @@
             <div id="container">
                 <IonList>
                     <IonItem v-for="word in words" :button="true" :onclick="onItemPress(word)">
+                        <ionBadge v-if="!word.known" slot="end">1</ionBadge>
                         <IonLabel>{{ word.Chinese }}</IonLabel>
                     </IonItem>
                 </IonList>
@@ -21,7 +22,7 @@
 </template>
 
 <script setup lang="ts">
-import { IonContent, IonHeader, IonItem, IonLabel, IonList, IonPage, IonTitle, IonToolbar, IonButton } from "@ionic/vue";
+import { IonContent, IonHeader, IonItem, IonLabel, IonList, IonPage, IonTitle, IonToolbar, IonBadge } from "@ionic/vue";
 import { type IWord, words } from "../packages/models"
 import Header from "../components/Header.vue"
 import { useRouter } from "vue-router";

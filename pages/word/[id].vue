@@ -1,14 +1,32 @@
 <script setup lang="ts">
-import { IonCard, IonCardHeader, IonPage, IonCardTitle, IonCardContent, IonCardSubtitle, IonNote, IonContent } from '@ionic/vue';
+import { IonCard, IonCardHeader, IonPage, IonCardTitle, IonCardContent, IonCardSubtitle, IonNote, IonContent, IonButton } from '@ionic/vue';
 import Header from '../../components/Header.vue';
-import { words } from "../../packages/models"
 import { useRoute, useRouter } from 'vue-router';
+import { findWordByLocalId, toggleWordKnownState } from '../../packages/models/words';
 
 const route = useRoute()
 const router = useRouter()
 
-const word = words.value.find(w => w.local_id === route.params.id)
+const localId = route.params.id as string
+
+const word = findWordByLocalId(localId)
 const goBack = () => router.back()
+
+function markAsKnown() {
+    if (word?.known) {
+        return
+    }
+
+    toggleWordKnownState(localId)
+}
+
+function markAsUnknown() {
+    if (!word?.known) {
+        return
+    }
+
+    toggleWordKnownState(localId)
+}
 
 </script>
 
@@ -33,6 +51,13 @@ const goBack = () => router.back()
                         {{ word?.English }}
                     </p>
                 </IonCardContent>
+            </IonCard>
+            <IonCard>
+                <IonButton expand="block" @click="markAsKnown">I know</IonButton>
+            </IonCard>
+
+            <IonCard>
+                <IonButton expand="block" fill="outline" @click="markAsUnknown">I don't know</IonButton>
             </IonCard>
     </IonContent>
     </IonPage>
