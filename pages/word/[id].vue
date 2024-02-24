@@ -52,11 +52,10 @@ function markAsUnknown() {
                     </p>
                 </IonCardContent>
             </IonCard>
-            <IonCard>
+            <IonCard class="button">
                 <IonButton expand="block" @click="markAsKnown">I know</IonButton>
             </IonCard>
-
-            <IonCard>
+            <IonCard class="button">
                 <IonButton expand="block" fill="outline" @click="markAsUnknown">I don't know</IonButton>
             </IonCard>
     </IonContent>
@@ -66,5 +65,9 @@ function markAsUnknown() {
 <style scoped>
     #container {
         flex: 1;
+    }
+
+    .buttoon {
+        box-shadow: none;
     }
 </style>
