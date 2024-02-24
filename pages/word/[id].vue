@@ -67,7 +67,8 @@ function markAsUnknown() {
         flex: 1;
     }
 
-    .buttoon {
+    .button {
+        -webkit-box-shadow: none;
         box-shadow: none;
     }
 </style>
