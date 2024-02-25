@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { type IWord } from '../packages/models';
+import { type IWord, seenWordByLocalId } from '../packages/models/words';
 import { useRouter } from "vue-router";
 import { IonList, IonItem, IonLabel } from "@ionic/vue";
 
@@ -8,6 +8,7 @@ const router = useRouter()
 function onItemPress(word: IWord) {
     return () => {
         router.push(`/word/${word.local_id}`)
+        seenWordByLocalId(word.local_id)
     }
 }
 
@@ -28,8 +29,8 @@ defineProps<{ words: IWord[], title?: string }>()
 
             <div id="container">
                 <IonList>
-                    <IonItem v-for="word in words" :button="true" :onclick="onItemPress(word)">
-                        <ionBadge v-if="!word.known" slot="end">1</ionBadge>
+                    <IonItem v-for="word in words" :key="word.local_id" :button="true" :onclick="onItemPress(word)">
+                        <ionBadge slot="end">∞</ionBadge>
                         <IonLabel>{{ word.Chinese }}</IonLabel>
                     </IonItem>
                 </IonList>

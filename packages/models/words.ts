@@ -3,34 +3,33 @@ import { reactive } from "vue"
 
 export type IWord = {
     local_id: string;
-    known: boolean;
+    lastRememberedDate: Date | null;
+    lastUpdateDate: Date | null;
 } & typeof words[number]
 
-const data = reactive(words.map((word, index) => {
+const raw = words.map((word, index) => {
     return {
         local_id: index.toString(),
         ...word,
-        known: false
+        lastRememberedDate: null,
+        lastUpdateDate: null,
     }
-}))
+})
+
+const data = reactive<IWord[]>(raw)
 
 export {
     data as words,
     findWordByLocalId,
-    toggleWordKnownState,
     getTypes,
     filterWordsByType,
+    seenWordByLocalId,
+    moveWordToBottomByLocalId,
 }
+
 
 function findWordByLocalId(local_id: string) {
-    return data.find(word => word.local_id === local_id)
-}
-
-function toggleWordKnownState(local_id: string) {
-    const word = findWordByLocalId(local_id)
-    if (word) {
-        word.known = !word.known
-    }
+    return raw.find(word => word.local_id === local_id)
 }
 
 function getTypes() {
@@ -42,3 +41,19 @@ function getTypes() {
 function filterWordsByType(type: IWord["type"]) {
     return data.filter(word => word.type === type)
 }
+
+function seenWordByLocalId(local_id: string) {
+    const index = data.findIndex(word => word.local_id === local_id)
+    data[index] = {
+        ...data[index],
+        lastUpdateDate: new Date(),
+    }
+}
+
+function moveWordToBottomByLocalId(local_id: string) {
+    const word = raw.find(word => word.local_id === local_id)!
+    data.splice(data.findIndex(word => word.local_id === local_id), 1)
+    data.push(word)
+}
+
+

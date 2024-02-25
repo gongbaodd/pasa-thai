@@ -1,1 +1,1 @@
-export { type IWord, words } from "./words"
+export { type IWord } from "./words"
