@@ -2,6 +2,7 @@
 import { type IWord, seenWordByLocalId } from '../packages/models/words';
 import { useRouter } from "vue-router";
 import { IonList, IonItem, IonLabel } from "@ionic/vue";
+import day from "dayjs";
 
 const router = useRouter()
 
@@ -18,7 +19,7 @@ defineProps<{ words: IWord[], title?: string }>()
 
 <template>
     <IonPage>
-        <Header :title="title ?? 'Words'"></Header>
+        <Header :title="(title ?? 'Words') + `(${words.length})`"></Header>
 
         <IonContent :fullscreen="true">
             <IonHeader collapse="condense">
@@ -30,7 +31,7 @@ defineProps<{ words: IWord[], title?: string }>()
             <div id="container">
                 <IonList>
                     <IonItem v-for="word in words" :key="word.local_id" :button="true" :onclick="onItemPress(word)">
-                        <ionBadge slot="end">∞</ionBadge>
+                        <ionBadge slot="end">{{ word.lastRememberedDate ? day(word.lastRememberedDate).diff(Date.now(), 'day') :"∞"}}</ionBadge>
                         <IonLabel>{{ word.Chinese }}</IonLabel>
                     </IonItem>
                 </IonList>

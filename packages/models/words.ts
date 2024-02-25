@@ -1,5 +1,5 @@
 import words from "../words"
-import { reactive } from "vue"
+import { computed, reactive } from "vue"
 
 export type IWord = {
     local_id: string;
@@ -25,11 +25,12 @@ export {
     filterWordsByType,
     seenWordByLocalId,
     moveWordToBottomByLocalId,
+    rememberWordByLocalId,
 }
 
 
 function findWordByLocalId(local_id: string) {
-    return raw.find(word => word.local_id === local_id)
+    return data.find(word => word.local_id === local_id)
 }
 
 function getTypes() {
@@ -39,7 +40,7 @@ function getTypes() {
 }
 
 function filterWordsByType(type: IWord["type"]) {
-    return data.filter(word => word.type === type)
+    return computed(() => data.filter(word => word.type === type))
 }
 
 function seenWordByLocalId(local_id: string) {
@@ -54,6 +55,14 @@ function moveWordToBottomByLocalId(local_id: string) {
     const word = raw.find(word => word.local_id === local_id)!
     data.splice(data.findIndex(word => word.local_id === local_id), 1)
     data.push(word)
+}
+
+function rememberWordByLocalId(local_id: string) {
+    const index = data.findIndex(word => word.local_id === local_id)
+    data[index] = {
+        ...data[index],
+        lastRememberedDate: new Date(),
+    }
 }
 
 

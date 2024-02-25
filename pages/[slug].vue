@@ -9,5 +9,5 @@ const words = filterWordsByType(route.params.slug as string)
 
 </script>
 <template>
-        <WordList :words="words"></WordList>
+        <WordList :words="words" :title="($route.params.slug as string)"></WordList>
 </template>
