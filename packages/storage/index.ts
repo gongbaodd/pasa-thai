@@ -1,11 +1,19 @@
-import type { IWord } from "../models"
+import type { IWord } from "../models";
 
-const key = "pasa_thay_word_list_0225"
+const key = "pasa_thay_word_list_0225";
 
 export async function load() {
-    return JSON.parse(localStorage.getItem(key) || "[]") as IWord[]
+  if (!globalThis.localStorage) {
+    return [];
+  }
+
+  return JSON.parse(globalThis.localStorage.getItem(key) || "[]") as IWord[];
 }
 
 export async function save(words: IWord[]) {
-    localStorage.setItem(key, JSON.stringify(words))
+  if (!globalThis.localStorage) {
+    return;
+  }
+
+  globalThis.localStorage.setItem(key, JSON.stringify(words));
 }
