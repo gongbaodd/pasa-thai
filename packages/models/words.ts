@@ -17,7 +17,9 @@ const data = reactive(words.map((word, index) => {
 export {
     data as words,
     findWordByLocalId,
-    toggleWordKnownState
+    toggleWordKnownState,
+    getTypes,
+    filterWordsByType,
 }
 
 function findWordByLocalId(local_id: string) {
@@ -29,4 +31,14 @@ function toggleWordKnownState(local_id: string) {
     if (word) {
         word.known = !word.known
     }
+}
+
+function getTypes() {
+    const types = new Set<string>()
+    words.forEach(word => types.add(word.type))
+    return Array.from(types)
+}
+
+function filterWordsByType(type: IWord["type"]) {
+    return data.filter(word => word.type === type)
 }

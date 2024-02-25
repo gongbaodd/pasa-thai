@@ -1,6 +1,7 @@
 <template>
   <Drawer>
-    <ion-router-outlet id="main-content"></ion-router-outlet>
+    <ion-router-outlet id="main-content">
+    </ion-router-outlet>
   </Drawer>
 </template>
   
@@ -23,8 +24,8 @@ import '@ionic/vue/css/display.css';
 
 /* Theme variables */
 import './theme/variables.css';
-
 import Drawer from "./components/Drawer.vue";
+import { IonRouterOutlet } from "@ionic/vue";
 
 import { SplashScreen } from "@capacitor/splash-screen"
 
@@ -35,4 +36,5 @@ async function init() {
   })
 }
 
+init()
 </script>
