@@ -1,5 +1,6 @@
+import { load, save } from "../storage";
 import words from "../words"
-import { computed, reactive } from "vue"
+import { computed, reactive, watchEffect } from "vue"
 
 export type IWord = {
     local_id: string;
@@ -18,6 +19,8 @@ const raw = words.map((word, index) => {
 
 const data = reactive<IWord[]>(raw)
 
+loadStoredWords()
+
 export {
     data as words,
     findWordByLocalId,
@@ -27,7 +30,6 @@ export {
     moveWordToBottomByLocalId,
     rememberWordByLocalId,
 }
-
 
 function findWordByLocalId(local_id: string) {
     return data.find(word => word.local_id === local_id)
@@ -65,4 +67,14 @@ function rememberWordByLocalId(local_id: string) {
     }
 }
 
+async function loadStoredWords() {
+    const stored = await load()
 
+    const rest = raw.filter(word => !stored.find(storedWord => storedWord.local_id === word.local_id))
+
+    data.splice(0, data.length, ...stored, ...rest)
+}
+
+watchEffect(() => {
+    save(data)
+})

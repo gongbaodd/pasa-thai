@@ -3,6 +3,7 @@ import { type IWord, seenWordByLocalId } from '../packages/models/words';
 import { useRouter } from "vue-router";
 import { IonList, IonItem, IonLabel } from "@ionic/vue";
 import day from "dayjs";
+import { computed } from 'vue';
 
 const router = useRouter()
 
@@ -13,7 +14,23 @@ function onItemPress(word: IWord) {
     }
 }
 
-defineProps<{ words: IWord[], title?: string }>()
+const { words } = defineProps<{ words: IWord[], title?: string }>()
+
+const sorted = computed(() => {
+    // move last remembered to the end
+    return words.sort((a, b) => {
+        if (a.lastRememberedDate && b.lastRememberedDate) {
+            return a.lastRememberedDate > b.lastRememberedDate ? 1 : -1
+        }
+        if (a.lastRememberedDate) {
+            return 1
+        }
+        if (b.lastRememberedDate) {
+            return -1
+        }
+        return 0
+    })
+})
 
 </script>
 
@@ -30,7 +47,7 @@ defineProps<{ words: IWord[], title?: string }>()
 
             <div id="container">
                 <IonList>
-                    <IonItem v-for="word in words" :key="word.local_id" :button="true" :onclick="onItemPress(word)">
+                    <IonItem v-for="word in sorted" :key="word.local_id" :button="true" :onclick="onItemPress(word)">
                         <ionBadge slot="end">{{ word.lastRememberedDate ? day(word.lastRememberedDate).diff(Date.now(), 'day') :"∞"}}</ionBadge>
                         <IonLabel>{{ word.Chinese }}</IonLabel>
                     </IonItem>
