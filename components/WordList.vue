@@ -48,7 +48,7 @@ const sorted = computed(() => {
             <div id="container">
                 <IonList>
                     <IonItem v-for="word in sorted" :key="word.local_id" :button="true" :onclick="onItemPress(word)">
-                        <ionBadge slot="end">{{ word.lastRememberedDate ? day(word.lastRememberedDate).diff(Date.now(), 'day') :"∞"}}</ionBadge>
+                        <ionBadge slot="end">{{ word.lastRememberedDate ? Math.abs(day(word.lastRememberedDate).diff(Date.now(), 'day')) :"∞"}}</ionBadge>
                         <IonLabel>{{ word.Chinese }}</IonLabel>
                     </IonItem>
                 </IonList>
