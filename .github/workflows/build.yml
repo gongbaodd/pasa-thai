@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: unsigned-ipa
-          path: ios/unsigned.xcarchive/Products/unsigned.ipa
+          path: ios/App/unsigned.xcarchive/Products/unsigned.ipa
 
   build-android:
     name: Android DEV build
