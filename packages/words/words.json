@@ -2182,5 +2182,236 @@
     "phonetic": "Mị̀ næ̀nxn",
     "English": "may n33 naun",
     "type": "conversation"
+  },
+  {
+    "Chinese": "数字",
+    "Thai": "เลข",
+    "phonetic": "Lek̄h",
+    "English": "leek",
+    "type": "noun"
+  },
+  {
+    "Chinese": "...什么",
+    "Thai": "อะไร",
+    "phonetic": "Xarị",
+    "English": "?aray",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "为什么...",
+    "Thai": "ทำไม",
+    "phonetic": "Thảmị",
+    "English": "thammay",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "...在哪儿",
+    "Thai": "ที่ไหน",
+    "phonetic": "Thī̀h̄ịn",
+    "English": "thi nay",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "...谁",
+    "Thai": "ใคร",
+    "phonetic": "Khır",
+    "English": "khray",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "...怎么",
+    "Thai": "ยังไง",
+    "phonetic": "Yạng ngị",
+    "English": "yang ngay",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "曼谷",
+    "Thai": "กรุงเทพ",
+    "phonetic": "Krungtheph",
+    "English": "krung theep",
+    "type": "noun"
+  },
+  {
+    "Chinese": "好吃",
+    "Thai": "อร่อย",
+    "phonetic": "Xr̀xy",
+    "English": "?arauy",
+    "type": "adjective"
+  },
+  {
+    "Chinese": "因为",
+    "Thai": "เพราะ",
+    "phonetic": "Pherāa",
+    "English": "phrau(+ waa)",
+    "type": "conjunction"
+  },
+  {
+    "Chinese": "起晚了",
+    "Thai": "ตื่นสาย",
+    "phonetic": "Tụ̄̀n s̄āy",
+    "English": "tvvn saay",
+    "type": "verb"
+  },
+  {
+    "Chinese": "波罗蜜",
+    "Thai": "ขนุน",
+    "phonetic": "K̄hnun",
+    "English": "kha nun",
+    "type": "noun"
+  },
+  {
+    "Chinese": "卡住 堵(车)",
+    "Thai": "ติด",
+    "phonetic": "Tid",
+    "English": "tit",
+    "type": "verb"
+  },
+  {
+    "Chinese": "淹水",
+    "Thai": "น้ำท่วม",
+    "phonetic": "N̂ả th̀wm",
+    "English": "naam thuam",
+    "type": "verb"
+  },
+  {
+    "Chinese": "为什么迟到",
+    "Thai": "ทำไมสาย",
+    "phonetic": "Thảmị s̄āy",
+    "English": "Tham may saay",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "孩子",
+    "Thai": "ลูก",
+    "phonetic": "Lūk",
+    "English": "luuk",
+    "type": "noun"
+  },
+  {
+    "Chinese": "还不知道",
+    "Thai": "ยังไม่รู้",
+    "phonetic": "Yạng mị̀rū̂",
+    "English": "yang may ruu",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "百货商店",
+    "Thai": "ห้าง",
+    "phonetic": "H̄̂āng",
+    "English": "haang",
+    "type": "noun"
+  },
+  {
+    "Chinese": "你家在哪",
+    "Thai": "บ้านงคุณอยู่ที่ไหน",
+    "phonetic": "B̂ā nng khuṇ xyū̀ thī̀h̄ịn",
+    "English": "baan khun yuu thii nay",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "机场",
+    "Thai": "สนามบิน",
+    "phonetic": "S̄nām bin",
+    "English": "sa naam bin",
+    "type": "noun"
+  },
+  {
+    "Chinese": "...和谁",
+    "Thai": "กับใคร",
+    "phonetic": "Kạb khır",
+    "English": "kap khray",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "一个人吃",
+    "Thai": "กินคนเดียว",
+    "phonetic": "Kin khn deīyw",
+    "English": "kin khon diaw",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "同事",
+    "Thai": "เพื่อนร่วมงาน",
+    "phonetic": "Pheụ̄̀xn r̀wm ngān",
+    "English": "phvan ruam ngaan",
+    "type": "noun"
+  },
+  {
+    "Chinese": "感觉怎么样",
+    "Thai": "รู้สึกอย่างไร",
+    "phonetic": "Rū̂s̄ụk xỳāngrị",
+    "English": "ruu svk yangngay",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "舒服的",
+    "Thai": "สบาย",
+    "phonetic": "S̄bāy",
+    "English": "sabaay",
+    "type": "adjective"
+  },
+  {
+    "Chinese": "桌",
+    "Thai": "โต๊ะ",
+    "phonetic": "Tóa",
+    "English": "to",
+    "type": "noun"
+  },
+  {
+    "Chinese": "感觉",
+    "Thai": "รู้สึก",
+    "phonetic": "Rū̂s̄ụk",
+    "English": "ruusvk",
+    "type": "verb"
+  },
+  {
+    "Chinese": "下午",
+    "Thai": "บ่าย",
+    "phonetic": "bay",
+    "English": "baay",
+    "type": "noun"
+  },
+  {
+    "Chinese": "啤酒",
+    "Thai": "เบียร์",
+    "phonetic": "Beīyr̒",
+    "English": "bia",
+    "type": "noun"
+  },
+  {
+    "Chinese": "慢慢",
+    "Thai": "ช้า",
+    "phonetic": "Cĥā",
+    "English": "chaaw",
+    "type": "adjective"
+  },
+  {
+    "Chinese": "可以",
+    "Thai": "ได้",
+    "phonetic": "Dị̂",
+    "English": "daay",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "走路",
+    "Thai": "เดิน",
+    "phonetic": "Dein",
+    "English": "dern",
+    "type": "verb"
+  },
+  {
+    "Chinese": "善良",
+    "Thai": "ใจดี",
+    "phonetic": "Cıdī",
+    "English": "jaydii",
+    "type": "adjective"
+  },
+  {
+    "Chinese": "心",
+    "Thai": "ใจ",
+    "phonetic": "Cı",
+    "English": "jay",
+    "type": "noun"
   }
 ]
