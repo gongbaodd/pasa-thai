@@ -2413,5 +2413,173 @@
     "phonetic": "Cı",
     "English": "jay",
     "type": "noun"
+  },
+  {
+    "Chinese": "吸烟",
+    "Thai": "สูบบุหรี่",
+    "phonetic": "S̄ūb buh̄rī̀",
+    "English": "suup burii",
+    "type": "verb"
+  },
+  {
+    "Chinese": "可以",
+    "Thai": "ได้",
+    "phonetic": "Dị̂",
+    "English": "daay",
+    "type": "verb"
+  },
+  {
+    "Chinese": "出去",
+    "Thai": "ออกไป",
+    "phonetic": "Xxk pị",
+    "English": "?auk pay",
+    "type": "verb"
+  },
+  {
+    "Chinese": "进来",
+    "Thai": "เข้ามา",
+    "phonetic": "K̄hêā mā",
+    "English": "khaw maa",
+    "type": "verb"
+  },
+  {
+    "Chinese": "借",
+    "Thai": "ยืม",
+    "phonetic": "Yụ̄m",
+    "English": "yvvm",
+    "type": "verb"
+  },
+  {
+    "Chinese": "换钱",
+    "Thai": "แลกเงิน",
+    "phonetic": "Læk ngein",
+    "English": "l33k ngern",
+    "type": "verb"
+  },
+  {
+    "Chinese": "菜单",
+    "Thai": "เมนู",
+    "phonetic": "Menū",
+    "English": "meenuu",
+    "type": "noun"
+  },
+  {
+    "Chinese": "用",
+    "Thai": "ใช้",
+    "phonetic": "Chı̂",
+    "English": "chay",
+    "type": "verb"
+  },
+  {
+    "Chinese": "笔",
+    "Thai": "ปากกา",
+    "phonetic": "Pākkā",
+    "English": "paakkaa",
+    "type": "noun"
+  },
+  {
+    "Chinese": "拍照",
+    "Thai": "ถ่ายรูป",
+    "phonetic": "T̄h̀āyrūp",
+    "English": "thaay ruup",
+    "type": "verb"
+  },
+  {
+    "Chinese": "文件",
+    "Thai": "เอกสาร",
+    "phonetic": "Xeks̄ār",
+    "English": "?eek ka saam",
+    "type": "noun"
+  },
+  {
+    "Chinese": "帮忙",
+    "Thai": "ช่วย",
+    "phonetic": "Ch̀wy",
+    "English": "chay",
+    "type": "verb"
+  },
+  {
+    "Chinese": "一样的。",
+    "Thai": "ก็เหมือนกัน",
+    "phonetic": "K̆ h̄emụ̄xn kạn",
+    "English": "kau mvankan",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "没及时收听",
+    "Thai": "ฟังไม่ทัน",
+    "phonetic": "Fạng mị̀thạn",
+    "English": "fang may than",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "门",
+    "Thai": "ประตู",
+    "phonetic": "Pratū",
+    "English": "pratuu",
+    "type": "noun"
+  },
+  {
+    "Chinese": "鸡蛋",
+    "Thai": "ไข่",
+    "phonetic": "K̄hị̀",
+    "English": "Kay",
+    "type": "noun"
+  },
+  {
+    "Chinese": "鸡",
+    "Thai": "ไก่",
+    "phonetic": "Kị̀",
+    "English": "khay",
+    "type": "noun"
+  },
+  {
+    "Chinese": "电灯",
+    "Thai": "ไฟ",
+    "phonetic": "Fị",
+    "English": "fay",
+    "type": "noun"
+  },
+  {
+    "Chinese": "大声",
+    "Thai": "ดัง",
+    "phonetic": "Dạng",
+    "English": "dang",
+    "type": "adjective"
+  },
+  {
+    "Chinese": "单词",
+    "Thai": "คำ",
+    "phonetic": "Khả",
+    "English": "kham",
+    "type": "noun"
+  },
+  {
+    "Chinese": "包",
+    "Thai": "กระเป๋า",
+    "phonetic": "Krapěā",
+    "English": "krapaw",
+    "type": "noun"
+  },
+  {
+    "Chinese": "轻轻",
+    "Thai": "เบา ๆ",
+    "phonetic": "Beā «",
+    "English": "baw baw",
+    "type": "adverb"
+  },
+  {
+    "Chinese": "还给",
+    "Thai": "คืนให้",
+    "phonetic": "Khụ̄nh̄ı̂",
+    "English": "khvvn hay",
+    "type": "verb"
+  },
+  {
+    "Chinese": "东西",
+    "Thai": "ของ",
+    "phonetic": "K̄hxng",
+    "English": "kaung",
+    "type": "noun"
   }
 ]
