@@ -2581,5 +2581,418 @@
     "phonetic": "K̄hxng",
     "English": "kaung",
     "type": "noun"
+  },
+  {
+    "Chinese": "一般甜",
+    "Thai": "ปกติก็หวาน.",
+    "phonetic": "Pkti k̆ h̄wān.",
+    "English": "pok ka ti wan",
+    "type": "adjective"
+  },
+  {
+    "Chinese": "女人",
+    "Thai": "ผู้หญิง",
+    "phonetic": "P̄hū̂ h̄ỵing",
+    "English": "phuuying",
+    "type": "noun"
+  },
+  {
+    "Chinese": "男人",
+    "Thai": "ผู้ชาย",
+    "phonetic": "P̄hū̂chāy",
+    "English": "phuuchaay",
+    "type": "noun"
+  },
+  {
+    "Chinese": "每一个",
+    "Thai": "ทุกๆ",
+    "phonetic": "Thuk«",
+    "English": "thuk",
+    "type": "adjective"
+  },
+  {
+    "Chinese": "里面",
+    "Thai": "ใน",
+    "phonetic": "Nı",
+    "English": "nay",
+    "type": "prep"
+  },
+  {
+    "Chinese": "课堂",
+    "Thai": "ห้องเรียน",
+    "phonetic": "H̄̂xngreīyn",
+    "English": "haung rian",
+    "type": "noun"
+  },
+  {
+    "Chinese": "房间",
+    "Thai": "ห้อง",
+    "phonetic": "H̄̂xng",
+    "English": "haung",
+    "type": "noun"
+  },
+  {
+    "Chinese": "学生",
+    "Thai": "นักเรียน",
+    "phonetic": "Nạkreīyn",
+    "English": "nakrian",
+    "type": "noun"
+  },
+  {
+    "Chinese": "超过",
+    "Thai": "เกิน",
+    "phonetic": "Kein",
+    "English": "kern",
+    "type": "verb"
+  },
+  {
+    "Chinese": "全部",
+    "Thai": "ทั้งหมด",
+    "phonetic": "Thậngh̄md",
+    "English": "thangmot",
+    "type": "noun"
+  },
+  {
+    "Chinese": "全部多少",
+    "Thai": "ทั้งหมดเท่าไหร่ครับ",
+    "phonetic": "Thậngh̄md thèā h̄ịr̀ khrạb",
+    "English": "thangmot thaw ray",
+    "type": "conversation"
+  },
+  {
+    "Chinese": "椅子",
+    "Thai": "เก้าอี้",
+    "phonetic": "Kêāxī̂",
+    "English": "kaaw ?ii",
+    "type": "noun"
+  },
+  {
+    "Chinese": "勺子",
+    "Thai": "ช้อน",
+    "phonetic": "Cĥxn",
+    "English": "chaun",
+    "type": "noun"
+  },
+  {
+    "Chinese": "叉子",
+    "Thai": "ส้อม",
+    "phonetic": "S̄̂xm",
+    "English": "saum",
+    "type": "noun"
+  },
+  {
+    "Chinese": "两把椅子",
+    "Thai": "เก้าอี้สองตัว",
+    "phonetic": "Kêāxī̂ s̄xng tạw",
+    "English": "tua",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "一个人",
+    "Thai": "หนึ่งคน",
+    "phonetic": "H̄nụ̀ng khn",
+    "English": "khon",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "三只猫",
+    "Thai": "แมวสามตัว",
+    "phonetic": "Mæw s̄ām tạw",
+    "English": "tua",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "猫",
+    "Thai": "แมว",
+    "phonetic": "Mæw",
+    "English": "m33w",
+    "type": "noun"
+  },
+  {
+    "Chinese": "五条鱼",
+    "Thai": "ปลาห้าตัว",
+    "phonetic": "Plā h̄̂ā tạw",
+    "English": "tua",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "伞",
+    "Thai": "ร่ม",
+    "phonetic": "R̀m",
+    "English": "raung",
+    "type": "noun"
+  },
+  {
+    "Chinese": "两辆车",
+    "Thai": "รถสองคัน",
+    "phonetic": "Rt̄h s̄xng khạn",
+    "English": "khan",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "2把雨伞",
+    "Thai": "ร่ม2คัน",
+    "phonetic": "R̀m2khạn",
+    "English": "khan",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "4桌",
+    "Thai": "โต๊ะ 4 ตัว",
+    "phonetic": "Tóa 4 tạw",
+    "English": "tua",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "2栋房子",
+    "Thai": "บ้าน 2 หลัง",
+    "phonetic": "B̂ān 2 h̄lạng",
+    "English": "lang",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "五本书",
+    "Thai": "หนังสือห้าเล่ม",
+    "phonetic": "H̄nạngs̄ụ̄x h̄̂ā lèm",
+    "English": "lem",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两颗橙子",
+    "Thai": "ส้มสองลูก",
+    "phonetic": "S̄̂m s̄xng lūk",
+    "English": "luuk",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "三块榴莲",
+    "Thai": "ทุเรียนสามชิ้น",
+    "phonetic": "Thureīyn s̄ām chîn",
+    "English": "chin",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两台电脑",
+    "Thai": "คอมพิวเตอร์สองเครื่อง",
+    "phonetic": "Khxmphiwtexr̒ s̄xng kherụ̄̀xng",
+    "English": "khrvang",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "6串葡萄",
+    "Thai": "องุ่น 6 พวง",
+    "phonetic": "Xngùn 6 phwng",
+    "English": "phuang",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "葡萄",
+    "Thai": "องุ่น",
+    "phonetic": "Xngùn",
+    "English": "?angun",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两支笔",
+    "Thai": "ปากกาสองอัน",
+    "phonetic": "Pākkā s̄xng xạn",
+    "English": "?an",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "三杯水",
+    "Thai": "น้ำสามแก้ว",
+    "phonetic": "N̂ả s̄ām kæ̂w",
+    "English": "k33w",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "四盘菜",
+    "Thai": "สี่จาน",
+    "phonetic": "S̄ī̀ cān",
+    "English": "jaan",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "一瓶咖啡",
+    "Thai": "กาแฟหนึ่งขวด",
+    "phonetic": "Kāfæ h̄nụ̀ng k̄hwd",
+    "English": "khuat",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "2个袋子",
+    "Thai": "2 ใบ",
+    "phonetic": "2 Bı",
+    "English": "Bay",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "3把刀",
+    "Thai": "มีด 3 เล่ม",
+    "phonetic": "Mīd 3 lèm",
+    "English": "lem",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "刀",
+    "Thai": "มีด",
+    "phonetic": "Mīd",
+    "English": "mid",
+    "type": "noun"
+  },
+  {
+    "Chinese": "袋",
+    "Thai": "ถุง",
+    "phonetic": "T̄hung",
+    "English": "thung",
+    "type": "noun"
+  },
+  {
+    "Chinese": "狗",
+    "Thai": "หมา",
+    "phonetic": "H̄mā",
+    "English": "maa",
+    "type": "noun"
+  },
+  {
+    "Chinese": "袜",
+    "Thai": "ถุงเท้า",
+    "phonetic": "T̄hungthêā",
+    "English": "thungthaaw",
+    "type": "noun"
+  },
+  {
+    "Chinese": "手套",
+    "Thai": "ถุงมือ",
+    "phonetic": "T̄hungmụ̄x",
+    "English": "thungmvv",
+    "type": "noun"
+  },
+  {
+    "Chinese": "2双袜子",
+    "Thai": "ถุงเท้า 2 คู่",
+    "phonetic": "T̄hungthêā 2 khū̀",
+    "English": "khuu",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "面条",
+    "Thai": "ก๋วยเตี๋ยว",
+    "phonetic": "Ǩwyteī̌yw",
+    "English": "kuay tiaw",
+    "type": "noun"
+  },
+  {
+    "Chinese": "两碗面条",
+    "Thai": "ก๋วยเตี๋ยวสองชาม",
+    "phonetic": "Ǩwyteī̌yw s̄xng chām",
+    "English": "chaam",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两罐可乐",
+    "Thai": "โค้กสองกระป๋อง",
+    "phonetic": "Khôk s̄xng krap̌xng",
+    "English": "kra baung",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两片面包",
+    "Thai": "ขนมปังสองแผ่น",
+    "phonetic": "K̄hnmpạng s̄xng p̄hæ̀n",
+    "English": "ph33n",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "面包",
+    "Thai": "ขนมปัง",
+    "phonetic": "K̄hnmpạng",
+    "English": "kha nom pang",
+    "type": "noun"
+  },
+  {
+    "Chinese": "许多",
+    "Thai": "หลาย",
+    "phonetic": "H̄lāy",
+    "English": "laay",
+    "type": "adjective"
+  },
+  {
+    "Chinese": "那边",
+    "Thai": "ตรงนั้น",
+    "phonetic": "Trng nận",
+    "English": "trong nan",
+    "type": "noun"
+  },
+  {
+    "Chinese": "苹果",
+    "Thai": "แอปเปิล",
+    "phonetic": "Xæppeil",
+    "English": "?3ppern",
+    "type": "noun"
+  },
+  {
+    "Chinese": "蛋糕",
+    "Thai": "เค้ก",
+    "phonetic": "Khêk",
+    "English": "kheek",
+    "type": "noun"
+  },
+  {
+    "Chinese": "两架飞机",
+    "Thai": "เครื่องบินสองลำ",
+    "phonetic": "Kherụ̄̀xng bin s̄xng lả",
+    "English": "lam",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两艘船",
+    "Thai": "เรือสองลำ",
+    "phonetic": "Reụ̄x s̄xng lả",
+    "English": "lam",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两个座位",
+    "Thai": "สองที่นั่ง",
+    "phonetic": "S̄xng thī̀ nạ̀ng",
+    "English": "thii",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两场电影",
+    "Thai": "หนังสองเรื่อง",
+    "phonetic": "H̄nạng s̄xng reụ̄̀xng",
+    "English": "rvang",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两朵花",
+    "Thai": "สองดอก",
+    "phonetic": "S̄xng dxk",
+    "English": "dauauk",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "一群学生",
+    "Thai": "กลุ่มนักเรียน",
+    "phonetic": "Klùm nạkreīyn",
+    "English": "klum",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "一群大象",
+    "Thai": "ฝูงช้าง",
+    "phonetic": "F̄ūng cĥāng",
+    "English": "fuung",
+    "type": "quantifier"
+  },
+  {
+    "Chinese": "两次",
+    "Thai": "สองครั้ง",
+    "phonetic": "S̄xng khrậng",
+    "English": "khrang",
+    "type": "quantifier"
   }
 ]
