@@ -1,2997 +1,3005 @@
 [
-  {
-      "Chinese": "你好",
-      "Thai": "สวัสดี",
-      "phonetic": "S̄wạs̄dī",
-      "English": "sawatdii",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "名字",
-      "Thai": "ชื่อ",
-      "phonetic": "Chụ̄̀x",
-      "English": "cheu",
-      "type": "noun"
-  },
-  {
-      "Chinese": "我（女）",
-      "Thai": "ฉัน",
-      "phonetic": "C̄hạn",
-      "English": "chan",
-      "type": "pronoun"
-  },
-  {
-      "Chinese": "我（男）",
-      "Thai": "ผม",
-      "phonetic": "Phom",
-      "English": "phom",
-      "type": "pronoun"
-  },
-  {
-      "Chinese": "国家",
-      "Thai": "ประเทศ",
-      "phonetic": "Pratheṣ̄",
-      "English": "prathet",
-      "type": "noun"
-  },
-  {
-      "Chinese": "哪里",
-      "Thai": "ที่ไหน",
-      "phonetic": "Thī̀h̄ịn",
-      "English": "thinnay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "年",
-      "Thai": "ปี",
-      "phonetic": "Pī",
-      "English": "pii",
-      "type": "noun"
-  },
-  {
-      "Chinese": "辣",
-      "Thai": "เผ็ด",
-      "phonetic": "P̄hĕd",
-      "English": "phet",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "家",
-      "Thai": "บ้าน",
-      "phonetic": "B̂ān",
-      "English": "baan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "桌子",
-      "Thai": "โต๊ะ",
-      "phonetic": "Tóa",
-      "English": "to",
-      "type": "noun"
-  },
-  {
-      "Chinese": "做",
-      "Thai": "ทำ",
-      "phonetic": "Thảm",
-      "English": "tham",
-      "type": "verb"
-  },
-  {
-      "Chinese": "小孩",
-      "Thai": "เด็ก",
-      "phonetic": "Dĕk",
-      "English": "dek",
-      "type": "noun"
-  },
-  {
-      "Chinese": "厉害",
-      "Thai": "เก่ง",
-      "phonetic": "Kèng",
-      "English": "keng",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "脖子",
-      "Thai": "คอ",
-      "phonetic": "Khx",
-      "English": "khau",
-      "type": "noun"
-  },
-  {
-      "Chinese": "什么",
-      "Thai": "อะไร",
-      "phonetic": "Xarị",
-      "English": "?aray",
-      "type": "noun"
-  },
-  {
-      "Chinese": "七",
-      "Thai": "เจ็ด",
-      "phonetic": "Cĕd",
-      "English": "jet",
-      "type": "number"
-  },
-  {
-      "Chinese": "大象",
-      "Thai": "ช้าง",
-      "phonetic": "Cĥāng",
-      "English": "chaang",
-      "type": "noun"
-  },
-  {
-      "Chinese": "天空",
-      "Thai": "ฟา",
-      "phonetic": "Fā",
-      "English": "faa",
-      "type": "noun"
-  },
-  {
-      "Chinese": "颜色",
-      "Thai": "สี",
-      "phonetic": "S̄ī",
-      "English": "sii",
-      "type": "noun"
-  },
-  {
-      "Chinese": "给",
-      "Thai": "ให้",
-      "phonetic": "H̄ı̂",
-      "English": "hay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "有",
-      "Thai": "มี",
-      "phonetic": "Mī",
-      "English": "mii",
-      "type": "verb"
-  },
-  {
-      "Chinese": "水",
-      "Thai": "น้ำ",
-      "phonetic": "N̂ả",
-      "English": "naam",
-      "type": "noun"
-  },
-  {
-      "Chinese": "工作",
-      "Thai": "งาน",
-      "phonetic": "Ngān",
-      "English": "ngaan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "快",
-      "Thai": "เร็ว",
-      "phonetic": "Rĕw",
-      "English": "rew",
-      "type": "adverb"
-  },
-  {
-      "Chinese": "猴子",
-      "Thai": "ลิง",
-      "phonetic": "Ling",
-      "English": "ling",
-      "type": "noun"
-  },
-  {
-      "Chinese": "寺庙",
-      "Thai": "วัด",
-      "phonetic": "Wạd",
-      "English": "wat",
-      "type": "noun"
-  },
-  {
-      "Chinese": "难",
-      "Thai": "ยาก",
-      "phonetic": "Yāk",
-      "English": "yaak",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "喜欢",
-      "Thai": "ชอบ",
-      "phonetic": "Chxb",
-      "English": "choop",
-      "type": "verb"
-  },
-  {
-      "Chinese": "准备好",
-      "Thai": "พร้อม",
-      "phonetic": "Phr̂xm",
-      "English": "phraum",
-      "type": "verb"
-  },
-  {
-      "Chinese": "直",
-      "Thai": "ตรง",
-      "phonetic": "Trng",
-      "English": "trong",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "谁",
-      "Thai": "ใคร",
-      "phonetic": "Khır",
-      "English": "khray",
-      "type": "pronoun"
-  },
-  {
-      "Chinese": "鱼",
-      "Thai": "ปลา",
-      "phonetic": "Plā",
-      "English": "plaa",
-      "type": "noun"
-  },
-  {
-      "Chinese": "歌",
-      "Thai": "เพลง",
-      "phonetic": "Phelng",
-      "English": "phleeng",
-      "type": "noun"
-  },
-  {
-      "Chinese": "远",
-      "Thai": "ไกล",
-      "phonetic": "Kịl",
-      "English": "klay",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "牙齿",
-      "Thai": "ฟัน",
-      "phonetic": "Fạn",
-      "English": "fan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "十",
-      "Thai": "สิบ",
-      "phonetic": "S̄ib",
-      "English": "sip",
-      "type": "number"
-  },
-  {
-      "Chinese": "你",
-      "Thai": "คุณ",
-      "phonetic": "Khuṇ",
-      "English": "khun",
-      "type": "pronoun"
-  },
-  {
-      "Chinese": "一",
-      "Thai": "หนึ่ง",
-      "phonetic": "H̄nụ̀ng",
-      "English": "nvng",
-      "type": "number"
-  },
-  {
-      "Chinese": "结束",
-      "Thai": "เสร็จ",
-      "phonetic": "S̄er̆c",
-      "English": "set",
-      "type": "verb"
-  },
-  {
-      "Chinese": "和",
-      "Thai": "และ",
-      "phonetic": "Læa",
-      "English": "lei",
-      "type": "conjunction"
-  },
-  {
-      "Chinese": "岛",
-      "Thai": "เกาะ",
-      "phonetic": "Keāa",
-      "English": "kau",
-      "type": "noun"
-  },
-  {
-      "Chinese": "来",
-      "Thai": "มา",
-      "phonetic": "Mā",
-      "English": "maa",
-      "type": "verb"
-  },
-  {
-      "Chinese": "零",
-      "Thai": "ศูนย์",
-      "phonetic": "Ṣ̄ūny̒",
-      "English": "suun",
-      "type": "number"
-  },
-  {
-      "Chinese": "手",
-      "Thai": "มือ",
-      "phonetic": "Mụ̄x",
-      "English": "mvv",
-      "type": "noun"
-  },
-  {
-      "Chinese": "歌曲",
-      "Thai": "เพลง",
-      "phonetic": "Phelng",
-      "English": "phleeng",
-      "type": "noun"
-  },
-  {
-      "Chinese": "红色",
-      "Thai": "แดง",
-      "phonetic": "dæng",
-      "English": "deieing",
-      "type": "color"
-  },
-  {
-      "Chinese": "睡觉",
-      "Thai": "นอน",
-      "phonetic": "Nxn",
-      "English": "nauaun",
-      "type": "verb"
-  },
-  {
-      "Chinese": "老师",
-      "Thai": "ครู",
-      "phonetic": "Khrū",
-      "English": "khruu",
-      "type": "noun"
-  },
-  {
-      "Chinese": "看",
-      "Thai": "ดู",
-      "phonetic": "Dū",
-      "English": "duu",
-      "type": "verb"
-  },
-  {
-      "Chinese": "茶",
-      "Thai": "ชา",
-      "phonetic": "Chā",
-      "English": "chaa",
-      "type": "noun"
-  },
-  {
-      "Chinese": "好",
-      "Thai": "ดี",
-      "phonetic": "Dī",
-      "English": "dii",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "等",
-      "Thai": "รอ",
-      "phonetic": "Rx",
-      "English": "rauau",
-      "type": "verb"
-  },
-  {
-      "Chinese": "吃",
-      "Thai": "กิน",
-      "phonetic": "Kin",
-      "English": "kin",
-      "type": "verb"
-  },
-  {
-      "Chinese": "记住",
-      "Thai": "จำ",
-      "phonetic": "Cả",
-      "English": "jam",
-      "type": "verb"
-  },
-  {
-      "Chinese": "走路",
-      "Thai": "เดิน",
-      "phonetic": "Dein",
-      "English": "derern",
-      "type": "noun"
-  },
-  {
-      "Chinese": "贵",
-      "Thai": "แพง",
-      "phonetic": "Phæng",
-      "English": "phaeng",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "牛",
-      "Thai": "วัว",
-      "phonetic": "Wạw",
-      "English": "wua",
-      "type": "noun"
-  },
-  {
-      "Chinese": "肉",
-      "Thai": "เนื้อ",
-      "phonetic": "Neụ̄̂x",
-      "English": "nva",
-      "type": "noun"
-  },
-  {
-      "Chinese": "城市",
-      "Thai": "เมือง",
-      "phonetic": "Meụ̄xng",
-      "English": "mvang",
-      "type": "noun"
-  },
-  {
-      "Chinese": "月份",
-      "Thai": "เดือน",
-      "phonetic": "Deụ̄xn",
-      "English": "dvan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "日子",
-      "Thai": "วัน",
-      "phonetic": "Wạn",
-      "English": "wan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "拳击",
-      "Thai": "มวย",
-      "phonetic": "Mwy",
-      "English": "muay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "拿",
-      "Thai": "เอา",
-      "phonetic": "Xeā",
-      "English": "?aw",
-      "type": "verb"
-  },
-  {
-      "Chinese": "卖",
-      "Thai": "ขาย",
-      "phonetic": "K̄hāy",
-      "English": "khaa2",
-      "type": "verb"
-  },
-  {
-      "Chinese": "腿",
-      "Thai": "ขา",
-      "phonetic": "K̄hā",
-      "English": "khaa3",
-      "type": "noun"
-  },
-  {
-      "Chinese": "米饭",
-      "Thai": "ข้าว",
-      "phonetic": "K̄ĥāw",
-      "English": "khaaw3",
-      "type": "noun"
-  },
-  {
-      "Chinese": "害羞",
-      "Thai": "อาย",
-      "phonetic": "Xāy",
-      "English": "?aay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "五",
-      "Thai": "ห้า",
-      "phonetic": "H̄̂ā",
-      "English": "haa",
-      "type": "number"
-  },
-  {
-      "Chinese": "九",
-      "Thai": "เก้า",
-      "phonetic": "Kêā",
-      "English": "kaaw",
-      "type": "number"
-  },
-  {
-      "Chinese": "这",
-      "Thai": "นี้",
-      "phonetic": "Nī̂",
-      "English": "nii",
-      "type": "pronoun"
-  },
-  {
-      "Chinese": "书",
-      "Thai": "หนังสือ",
-      "phonetic": "H̄nạngs̄ụ̄x",
-      "English": "nangsuu",
-      "type": "noun"
-  },
-  {
-      "Chinese": "进入",
-      "Thai": "เข้า",
-      "phonetic": "K̄hêā",
-      "English": "khaaw",
-      "type": "verb"
-  },
-  {
-      "Chinese": "他",
-      "Thai": "เขา",
-      "phonetic": "K̄heā",
-      "English": "khaw2",
-      "type": "pronoun"
-  },
-  {
-      "Chinese": "用",
-      "Thai": "ใช้",
-      "phonetic": "Chı̂",
-      "English": "chay2",
-      "type": "verb"
-  },
-  {
-      "Chinese": "回",
-      "Thai": "กลับ",
-      "phonetic": "Klạb",
-      "English": "klap",
-      "type": "verb"
-  },
-  {
-      "Chinese": "炒",
-      "Thai": "ผัด",
-      "phonetic": "P̄hạd",
-      "English": "phat",
-      "type": "verb"
-  },
-  {
-      "Chinese": "钱",
-      "Thai": "เงิน",
-      "phonetic": "Ngein",
-      "English": "ngern",
-      "type": "noun"
-  },
-  {
-      "Chinese": "朋友",
-      "Thai": "เพื่อน",
-      "phonetic": "Pheụ̄̀xn",
-      "English": "phuan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "跑",
-      "Thai": "วิ่ง",
-      "phonetic": "Wìng",
-      "English": "wing",
-      "type": "verb"
-  },
-  {
-      "Chinese": "买",
-      "Thai": "ซื้อ",
-      "phonetic": "Sụ̄̂x",
-      "English": "svv",
-      "type": "verb"
-  },
-  {
-      "Chinese": "食物",
-      "Thai": "อาหาร",
-      "phonetic": "Xāh̄ār",
-      "English": "?aahaan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "学校",
-      "Thai": "โรงเรียน",
-      "phonetic": "Rongreīyn",
-      "English": "roongrian",
-      "type": "noun"
-  },
-  {
-      "Chinese": "路",
-      "Thai": "ถนน",
-      "phonetic": "T̄hnn",
-      "English": "thanon",
-      "type": "noun"
-  },
-  {
-      "Chinese": "漂亮",
-      "Thai": "สวย",
-      "phonetic": "S̄wy",
-      "English": "suay",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "辣",
-      "Thai": "เผ็ด",
-      "phonetic": "P̄hĕd",
-      "English": "phet",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "甜",
-      "Thai": "หวาน",
-      "phonetic": "H̄wān",
-      "English": "waan",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "咸",
-      "Thai": "เค็ม",
-      "phonetic": "Khĕm",
-      "English": "khem",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "酸",
-      "Thai": "เปรี้ยว",
-      "phonetic": "Perī̂yw",
-      "English": "priaw",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "苦",
-      "Thai": "ขม",
-      "phonetic": "K̄hm",
-      "English": "kham",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "热",
-      "Thai": "ร้อน",
-      "phonetic": "R̂xn",
-      "English": "rauaun",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "凉",
-      "Thai": "เย็น",
-      "phonetic": "Yĕn",
-      "English": "yen",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "河",
-      "Thai": "แม่น้ำ",
-      "phonetic": "Mæ̀n̂ả",
-      "English": "meenaan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "药",
-      "Thai": "ยา",
-      "phonetic": "Yā",
-      "English": "yaak",
-      "type": "noun"
-  },
-  {
-      "Chinese": "我们",
-      "Thai": "เรา",
-      "phonetic": "Reā",
-      "English": "raw",
-      "type": "pronoun"
-  },
-  {
-      "Chinese": "他们",
-      "Thai": "พวกเขา",
-      "phonetic": "Phwk k̄heā",
-      "English": "phuak khaw",
-      "type": "pronoun"
-  },
-  {
-      "Chinese": "它",
-      "Thai": "มัน",
-      "phonetic": "Mạn",
-      "English": "man",
-      "type": "pronoun"
-  },
-  {
-      "Chinese": "语言",
-      "Thai": "ภาษา",
-      "phonetic": "P̣hās̄ʹā",
-      "English": "phaasaa",
-      "type": "noun"
-  },
-  {
-      "Chinese": "榴莲",
-      "Thai": "ทุเรียน",
-      "phonetic": "Thureīyn",
-      "English": "thurian",
-      "type": "noun"
-  },
-  {
-      "Chinese": "学习",
-      "Thai": "เรียน",
-      "phonetic": "Reīyn",
-      "English": "rian",
-      "type": "verb"
-  },
-  {
-      "Chinese": "说话",
-      "Thai": "พูด",
-      "phonetic": "Phūd",
-      "English": "phuut",
-      "type": "verb"
-  },
-  {
-      "Chinese": "好吃",
-      "Thai": "อร่อย",
-      "phonetic": "Xr̀xy",
-      "English": "?arauy",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "便宜的",
-      "Thai": "ถูก",
-      "phonetic": "T̄hūk",
-      "English": "thuuk4",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "读",
-      "Thai": "อ่าน",
-      "phonetic": "X̀ān",
-      "English": "?an",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "大",
-      "Thai": "ใหญ่",
-      "phonetic": "H̄ıỵ̀",
-      "English": "ya4y",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "小",
-      "Thai": "เล็ก",
-      "phonetic": "Lĕk",
-      "English": "lek",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "洗手间",
-      "Thai": "ห้องน้ำ",
-      "phonetic": "H̄̂xngn̂ả",
-      "English": "haung naam",
-      "type": "noun"
-  },
-  {
-      "Chinese": "练习",
-      "Thai": "ฝึกฝน",
-      "phonetic": "F̄ụk",
-      "English": "fvk",
-      "type": "verb"
-  },
-  {
-      "Chinese": "听",
-      "Thai": "ฟัง",
-      "phonetic": "Fạng",
-      "English": "fang",
-      "type": "verb"
-  },
-  {
-      "Chinese": "写",
-      "Thai": "เขียน",
-      "phonetic": "K̄heīyn",
-      "English": "khian",
-      "type": "verb"
-  },
-  {
-      "Chinese": "明白",
-      "Thai": "เข้าใจ",
-      "phonetic": "K̄hêācı",
-      "English": "khawjay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "问题",
-      "Thai": "คำถาม",
-      "phonetic": "Khảt̄hām",
-      "English": "khamthaam",
-      "type": "noun"
-  },
-  {
-      "Chinese": "准备",
-      "Thai": "พร้อม",
-      "phonetic": "Phr̂xm",
-      "English": "phraum",
-      "type": "verb"
-  },
-  {
-      "Chinese": "结束",
-      "Thai": "เสร็จ",
-      "phonetic": "S̄er̆c",
-      "English": "set",
-      "type": "verb"
-  },
-  {
-      "Chinese": "接下来",
-      "Thai": "ต่อไป",
-      "phonetic": "T̀x pị",
-      "English": "taupay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "谢谢",
-      "Thai": "ขอบคุณ",
-      "phonetic": "K̄hxbkhuṇ",
-      "English": "khaupkhun",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "对不起",
-      "Thai": "ขอโทษ",
-      "phonetic": "K̄hxthos̄ʹ",
-      "English": "khauthoot",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "现在",
-      "Thai": "ตอนนี้",
-      "phonetic": "Txn nī̂",
-      "English": "taunnii",
-      "type": "prep"
-  },
-  {
-      "Chinese": "开",
-      "Thai": "เปิด",
-      "phonetic": "Peid",
-      "English": "pert",
-      "type": "verb"
-  },
-  {
-      "Chinese": "...了没",
-      "Thai": "รือยัง",
-      "phonetic": "Rụ̄x yạng",
-      "English": "rv yang",
-      "type": "prep"
-  },
-  {
-      "Chinese": "还没",
-      "Thai": "ยังไม่",
-      "phonetic": "Yạng may",
-      "English": "yang may",
-      "type": "prep"
-  },
-  {
-      "Chinese": "关",
-      "Thai": "ปิด",
-      "phonetic": "Pid",
-      "English": "pit",
-      "type": "verb"
-  },
-  {
-      "Chinese": "将会",
-      "Thai": "จะ",
-      "phonetic": "Ca",
-      "English": "ja",
-      "type": "prep"
-  },
-  {
-      "Chinese": "第1日",
-      "Thai": "วันที่ 1",
-      "phonetic": "Wạn thī̀ 1",
-      "English": "wan thii 1",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "费用",
-      "Thai": "ค่า",
-      "phonetic": "Kh̀ā",
-      "English": "khaa",
-      "type": "noun"
-  },
-  {
-      "Chinese": "数字",
-      "Thai": "ตัวเลข",
-      "phonetic": "Tạwlek̄h",
-      "English": "tualeek",
-      "type": "noun"
-  },
-  {
-      "Chinese": "到",
-      "Thai": "ถึง",
-      "phonetic": "T̄hụng",
-      "English": "thvng",
-      "type": "verb"
-  },
-  {
-      "Chinese": "零",
-      "Thai": "ศูนย์",
-      "phonetic": "Ṣ̄ūny̒",
-      "English": "suun",
-      "type": "number"
-  },
-  {
-      "Chinese": "一",
-      "Thai": "หนึ่ง",
-      "phonetic": "H̄nụ̀ng",
-      "English": "nvng",
-      "type": "number"
-  },
-  {
-      "Chinese": "二",
-      "Thai": "สอง",
-      "phonetic": "S̄xng",
-      "English": "saung",
-      "type": "number"
-  },
-  {
-      "Chinese": "三",
-      "Thai": "สาม",
-      "phonetic": "S̄ām",
-      "English": "saam",
-      "type": "number"
-  },
-  {
-      "Chinese": "四",
-      "Thai": "สี่",
-      "phonetic": "S̄ī̀",
-      "English": "sii",
-      "type": "number"
-  },
-  {
-      "Chinese": "五",
-      "Thai": "ห้า",
-      "phonetic": "H̄̂ā",
-      "English": "haa",
-      "type": "number"
-  },
-  {
-      "Chinese": "六",
-      "Thai": "หก",
-      "phonetic": "H̄k",
-      "English": "hok",
-      "type": "number"
-  },
-  {
-      "Chinese": "七",
-      "Thai": "เจ็ด",
-      "phonetic": "Cĕd",
-      "English": "jet",
-      "type": "number"
-  },
-  {
-      "Chinese": "八",
-      "Thai": "แปด",
-      "phonetic": "Pæd",
-      "English": "peet",
-      "type": "number"
-  },
-  {
-      "Chinese": "九",
-      "Thai": "เก้า",
-      "phonetic": "Kêā",
-      "English": "kaaw",
-      "type": "number"
-  },
-  {
-      "Chinese": "十",
-      "Thai": "สิบ",
-      "phonetic": "S̄ib",
-      "English": "sip",
-      "type": "number"
-  },
-  {
-      "Chinese": "十一",
-      "Thai": "สิบเอ็ด",
-      "phonetic": "S̄ib xĕd",
-      "English": "sip ?et",
-      "type": "number"
-  },
-  {
-      "Chinese": "二十一",
-      "Thai": "ยี่สิบเอ็ด",
-      "phonetic": "Yī̀s̄ib xĕd",
-      "English": "yii sip ?et",
-      "type": "number"
-  },
-  {
-      "Chinese": "百",
-      "Thai": "ร้อย",
-      "phonetic": "R̂xy",
-      "English": "rauy",
-      "type": "number"
-  },
-  {
-      "Chinese": "千",
-      "Thai": "พัน",
-      "phonetic": "Phạn",
-      "English": "phan",
-      "type": "number"
-  },
-  {
-      "Chinese": "万",
-      "Thai": "หมื่น",
-      "phonetic": "H̄mụ̄̀n",
-      "English": "mvvn",
-      "type": "number"
-  },
-  {
-      "Chinese": "十万",
-      "Thai": "แสน",
-      "phonetic": "S̄æn",
-      "English": "seen",
-      "type": "number"
-  },
-  {
-      "Chinese": "百万",
-      "Thai": "ล้าน",
-      "phonetic": "L̂ān",
-      "English": "laan",
-      "type": "number"
-  },
-  {
-      "Chinese": "车",
-      "Thai": "รถ",
-      "phonetic": "Rt̄h",
-      "English": "rot",
-      "type": "noun"
-  },
-  {
-      "Chinese": "价格",
-      "Thai": "ราคา",
-      "phonetic": "Rākhā",
-      "English": "raakhaa",
-      "type": "noun"
-  },
-  {
-      "Chinese": "多少",
-      "Thai": "เท่าไหร่",
-      "phonetic": "Thèā h̄ịr̀",
-      "English": "thawray",
-      "type": "noun"
-  },
-  {
-      "Chinese": "了",
-      "Thai": "แล้ว",
-      "phonetic": "Læ̂w",
-      "English": "l33w",
-      "type": "prep"
-  },
-  {
-      "Chinese": "电",
-      "Thai": "ไฟฟ้า",
-      "phonetic": "Fịf̂ā",
-      "English": "fay faa",
-      "type": "noun"
-  },
-  {
-      "Chinese": "餐饮",
-      "Thai": "อาหาร",
-      "phonetic": "Xāh̄ār",
-      "English": "?aahaan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "今天",
-      "Thai": "วันนี้",
-      "phonetic": "Wạn nī̂",
-      "English": "wan ni",
-      "type": "time"
-  },
-  {
-      "Chinese": "几点",
-      "Thai": "กี่โมง",
-      "phonetic": "Kī̀ mong",
-      "English": "kii moong",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "现在",
-      "Thai": "ตอนนี้",
-      "phonetic": "Txn nī̂",
-      "English": "taun nii",
-      "type": "time"
-  },
-  {
-      "Chinese": "半",
-      "Thai": "ครึ่ง",
-      "phonetic": "Khrụ̀ng",
-      "English": "khrvng",
-      "type": "noun"
-  },
-  {
-      "Chinese": "早上",
-      "Thai": "เช้า",
-      "phonetic": "Chêā",
-      "English": "chaaw",
-      "type": "time"
-  },
-  {
-      "Chinese": "下午",
-      "Thai": "บ่าย",
-      "phonetic": "B̀āy",
-      "English": "baay",
-      "type": "time"
-  },
-  {
-      "Chinese": "然后",
-      "Thai": "แล้วก็",
-      "phonetic": "Læ̂w k̆",
-      "English": "l33w kau",
-      "type": "conjunction"
-  },
-  {
-      "Chinese": "一起",
-      "Thai": "ด้วยกัน",
-      "phonetic": "D̂wy kạn",
-      "English": "duaykan",
-      "type": "adverb"
-  },
-  {
-      "Chinese": "下课",
-      "Thai": "เลิกเรียน",
-      "phonetic": "Leik reīyn",
-      "English": "lerk rian",
-      "type": "verb"
-  },
-  {
-      "Chinese": "中午",
-      "Thai": "เที่ยง",
-      "phonetic": "Theī̀yng",
-      "English": "thiang",
-      "type": "time"
-  },
-  {
-      "Chinese": "时候",
-      "Thai": "ตอน",
-      "phonetic": "Txn",
-      "English": "taun",
-      "type": "noun"
-  },
-  {
-      "Chinese": "傍晚",
-      "Thai": "เย็น",
-      "phonetic": "Yĕn",
-      "English": "yen",
-      "type": "time"
-  },
-  {
-      "Chinese": "夜晚",
-      "Thai": "กลางคืน",
-      "phonetic": "Klāngkhụ̄n",
-      "English": "klaang khvvn",
-      "type": "time"
-  },
-  {
-      "Chinese": "白天",
-      "Thai": "กลางวัน",
-      "phonetic": "klāngwạn",
-      "English": "klaang wan",
-      "type": "time"
-  },
-  {
-      "Chinese": "晚上",
-      "Thai": "ค่ำ",
-      "phonetic": "Kh̀ả",
-      "English": "kham",
-      "type": "time"
-  },
-  {
-      "Chinese": "深夜",
-      "Thai": "ดึก",
-      "phonetic": "Dụk",
-      "English": "dvk",
-      "type": "time"
-  },
-  {
-      "Chinese": "洗澡",
-      "Thai": "อาบน้ำ",
-      "phonetic": "Xāb n̂ả",
-      "English": "?aap naam",
-      "type": "verb"
-  },
-  {
-      "Chinese": "分钟",
-      "Thai": "นาที",
-      "phonetic": "Nāthī",
-      "English": "naathii",
-      "type": "time"
-  },
-  {
-      "Chinese": "早上6点",
-      "Thai": "6 โมงเช้า",
-      "phonetic": "6 Mong chêā",
-      "English": "hok mong chaaw",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "傍晚4点",
-      "Thai": "4 โมงเย็น",
-      "phonetic": "4 Mong yĕn",
-      "English": "si mong yen",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "大概",
-      "Thai": "บางที",
-      "phonetic": "Bāngthī",
-      "English": "pramaan",
-      "type": "prep"
-  },
-  {
-      "Chinese": "小时",
-      "Thai": "ชั่วโมง",
-      "phonetic": "Chạ̀wmong",
-      "English": "chvamoong",
-      "type": "time"
-  },
-  {
-      "Chinese": "秒钟",
-      "Thai": "วินาที",
-      "phonetic": "Wināthī",
-      "English": "wi naa thii",
-      "type": "time"
-  },
-  {
-      "Chinese": "有",
-      "Thai": "มี",
-      "phonetic": "Mī",
-      "English": "mii",
-      "type": "verb"
-  },
-  {
-      "Chinese": "睡",
-      "Thai": "นอน",
-      "phonetic": "Nxn",
-      "English": "naun",
-      "type": "verb"
-  },
-  {
-      "Chinese": "起床",
-      "Thai": "ลุก",
-      "phonetic": "Luk",
-      "English": "luk",
-      "type": "verb"
-  },
-  {
-      "Chinese": "回家",
-      "Thai": "กลับบ้าน",
-      "phonetic": "Klạb b̂ān",
-      "English": "klab baan",
-      "type": "verb"
-  },
-  {
-      "Chinese": "早饭",
-      "Thai": "ข้าวเช้า",
-      "phonetic": "K̄ĥāw chêā",
-      "English": "khaaw chaaw",
-      "type": "noun"
-  },
-  {
-      "Chinese": "洗手",
-      "Thai": "ล้างมือ",
-      "phonetic": "L̂āngmụ̄x",
-      "English": "laang mvv",
-      "type": "verb"
-  },
-  {
-      "Chinese": "洗脸",
-      "Thai": "ล้างหน้า",
-      "phonetic": "L̂āng h̄n̂ā",
-      "English": "laang naa",
-      "type": "verb"
-  },
-  {
-      "Chinese": "洗菜",
-      "Thai": "ล้างผัก",
-      "phonetic": "L̂āng p̄hạk",
-      "English": "laang phak",
-      "type": "verb"
-  },
-  {
-      "Chinese": "开会",
-      "Thai": "ประชุม",
-      "phonetic": "Prachum",
-      "English": "pra chum",
-      "type": "verb"
-  },
-  {
-      "Chinese": "洗衣服",
-      "Thai": "ซักผ้า",
-      "phonetic": "Sạk p̄ĥā",
-      "English": "sak phaa",
-      "type": "verb"
-  },
-  {
-      "Chinese": "店铺",
-      "Thai": "ร้าน",
-      "phonetic": "R̂ān",
-      "English": "raan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "鞋",
-      "Thai": "รองเท้า",
-      "phonetic": "Rxngthêā",
-      "English": "raungthaaw",
-      "type": "noun"
-  },
-  {
-      "Chinese": "碗",
-      "Thai": "ชาม",
-      "phonetic": "Chām",
-      "English": "jaan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "被子",
-      "Thai": "ผ้าห่ม",
-      "phonetic": "P̄ĥāh̄̀m",
-      "English": "phaahom",
-      "type": "noun"
-  },
-  {
-      "Chinese": "衬衫",
-      "Thai": "เสื้",
-      "phonetic": "S̄eụ̄̂",
-      "English": "sva",
-      "type": "noun"
-  },
-  {
-      "Chinese": "裤子",
-      "Thai": "กางเกง",
-      "phonetic": "Kāngkeng",
-      "English": "kaangkeeng",
-      "type": "noun"
-  },
-  {
-      "Chinese": "裙子",
-      "Thai": "กระโปรง",
-      "phonetic": "Kraporng",
-      "English": "kra proong",
-      "type": "noun"
-  },
-  {
-      "Chinese": "一些",
-      "Thai": "บาง",
-      "phonetic": "Bāng",
-      "English": "baang",
-      "type": "noun"
-  },
-  {
-      "Chinese": "昨天",
-      "Thai": "เมื่อวานนี้",
-      "phonetic": "Meụ̄̀x wān nī̂",
-      "English": "mva waan nii",
-      "type": "time"
-  },
-  {
-      "Chinese": "吃了一些东西",
-      "Thai": "กินอะไรบาง",
-      "phonetic": "Kin xarị bāng",
-      "English": "kin ?aray baang",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "看到",
-      "Thai": "ดู",
-      "phonetic": "Dū",
-      "English": "duu",
-      "type": "verb"
-  },
-  {
-      "Chinese": "在...地",
-      "Thai": "ที่",
-      "phonetic": "Thī̀",
-      "English": "thi",
-      "type": "prep"
-  },
-  {
-      "Chinese": "停...动作",
-      "Thai": "หยุด",
-      "phonetic": "H̄yud",
-      "English": "yut",
-      "type": "verb"
-  },
-  {
-      "Chinese": "跑步",
-      "Thai": "วิ่ง",
-      "phonetic": "Wìng",
-      "English": "wing",
-      "type": "verb"
-  },
-  {
-      "Chinese": "里面",
-      "Thai": "ใน",
-      "phonetic": "Nı",
-      "English": "nay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "公园",
-      "Thai": "สวน",
-      "phonetic": "S̄wn",
-      "English": "suan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "星期日",
-      "Thai": "วันอาทิตย์",
-      "phonetic": "Wạn xāthity̒",
-      "English": "wan ?aathit",
-      "type": "time"
-  },
-  {
-      "Chinese": "星期一",
-      "Thai": "วันจันทร์",
-      "phonetic": "Wạn cạnthr̒",
-      "English": "wan jan",
-      "type": "time"
-  },
-  {
-      "Chinese": "星期二",
-      "Thai": "วันอังคาร",
-      "phonetic": "Wạn xạngkhār",
-      "English": "wan ?ang khan",
-      "type": "time"
-  },
-  {
-      "Chinese": "星期三",
-      "Thai": "วันพุธ",
-      "phonetic": "Wạn phuṭh",
-      "English": "wan phut",
-      "type": "time"
-  },
-  {
-      "Chinese": "星期四",
-      "Thai": "วันพฤหัสบดี",
-      "phonetic": "Wạn phvh̄ạs̄bdī",
-      "English": "wan pharuhat(sabaudii)",
-      "type": "time"
-  },
-  {
-      "Chinese": "星期五",
-      "Thai": "วันศุกร์",
-      "phonetic": "Wạn ṣ̄ukr̒",
-      "English": "wan suk",
-      "type": "time"
-  },
-  {
-      "Chinese": "星期六",
-      "Thai": "วันเสาร์",
-      "phonetic": "Wạn s̄eār̒",
-      "English": "wan saw",
-      "type": "time"
-  },
-  {
-      "Chinese": "等待",
-      "Thai": "หยุรอ",
-      "phonetic": "H̄yu rx",
-      "English": "yut rau",
-      "type": "verb"
-  },
-  {
-      "Chinese": "红色（周日）",
-      "Thai": "สีแดง",
-      "phonetic": "S̄ī dæng",
-      "English": "sii d33ng",
-      "type": "color"
-  },
-  {
-      "Chinese": "黄色（周一）",
-      "Thai": "เหลือง",
-      "phonetic": "H̄elụ̄xng",
-      "English": "lvng",
-      "type": "color"
-  },
-  {
-      "Chinese": "粉色（周二）",
-      "Thai": "สีชมพู",
-      "phonetic": "S̄īchmphū",
-      "English": "sii chomphuu",
-      "type": "color"
-  },
-  {
-      "Chinese": "绿色（周三）",
-      "Thai": "สีเขียว",
-      "phonetic": "S̄ī k̄heīyw",
-      "English": "sii khiaw",
-      "type": "color"
-  },
-  {
-      "Chinese": "橙色（周四·）",
-      "Thai": "สีส้ม",
-      "phonetic": "S̄ī s̄̂m",
-      "English": "sii som",
-      "type": "color"
-  },
-  {
-      "Chinese": "天蓝色（周五）",
-      "Thai": "สีฟ้า",
-      "phonetic": "S̄ī f̂ā",
-      "English": "sii faa",
-      "type": "color"
-  },
-  {
-      "Chinese": "紫色（周六）",
-      "Thai": "สีม่วง",
-      "phonetic": "S̄ī m̀wng",
-      "English": "sii muang",
-      "type": "color"
-  },
-  {
-      "Chinese": "昨天",
-      "Thai": "เมื่อวานนี้",
-      "phonetic": "Meụ̄̀x wān nī̂",
-      "English": "mva waan nii",
-      "type": "time"
-  },
-  {
-      "Chinese": "明天",
-      "Thai": "พรุ่งนี้",
-      "phonetic": "Phrùngnī̂",
-      "English": "phrung nii",
-      "type": "time"
-  },
-  {
-      "Chinese": "后天",
-      "Thai": "วันมะรืนนี้",
-      "phonetic": "Wạn marụ̄n nī̂",
-      "English": "wan mvan nii",
-      "type": "time"
-  },
-  {
-      "Chinese": "再两天（后天）",
-      "Thai": "อีกสองวัน",
-      "phonetic": "Xīk s̄xng wạn",
-      "English": "?iik 2 wan",
-      "type": "time"
-  },
-  {
-      "Chinese": "2天前(前天)",
-      "Thai": "2 วันที่แล้ว",
-      "phonetic": "2 Wạn thī̀ læ̂w",
-      "English": "2 wan thi l33w",
-      "type": "time"
-  },
-  {
-      "Chinese": "周末",
-      "Thai": "วันเสารอาทิตย์",
-      "phonetic": "Wạn s̄eār̒ xāthity̒",
-      "English": "wan saw  ?aathit",
-      "type": "time"
-  },
-  {
-      "Chinese": "这周",
-      "Thai": "อาทิตย์นี้",
-      "phonetic": "Xāthity̒ nī̂",
-      "English": "?aathit nii",
-      "type": "time"
-  },
-  {
-      "Chinese": "上星期",
-      "Thai": "อาทิตย์ที่แล้ว",
-      "phonetic": "Xāthity̒ thī̀ læ̂w",
-      "English": "?aathit thiil33w",
-      "type": "time"
-  },
-  {
-      "Chinese": "下星期",
-      "Thai": "อาทิตย์หน้า",
-      "phonetic": "Xāthity̒ h̄n̂ā",
-      "English": "?aathit naa",
-      "type": "time"
-  },
-  {
-      "Chinese": "每天",
-      "Thai": "ทุกวัน",
-      "phonetic": "Thuk wạn",
-      "English": "thuk wan",
-      "type": "time"
-  },
-  {
-      "Chinese": "星期",
-      "Thai": "สัปดาห์",
-      "phonetic": "S̄ạpdāh̄̒",
-      "English": "sap daa",
-      "type": "time"
-  },
-  {
-      "Chinese": "每周",
-      "Thai": "ทุกอาทิตย์",
-      "phonetic": "Thuk xāthity̒",
-      "English": "thuk ?aathit",
-      "type": "time"
-  },
-  {
-      "Chinese": "平日",
-      "Thai": "วันธรรมดา",
-      "phonetic": "Wạn ṭhrrmdā",
-      "English": "wan tham ma daa",
-      "type": "time"
-  },
-  {
-      "Chinese": "假期",
-      "Thai": "วันหยุด",
-      "phonetic": "Wạn h̄yud",
-      "English": "wan yut",
-      "type": "time"
-  },
-  {
-      "Chinese": "工作日",
-      "Thai": "วันทำงาน",
-      "phonetic": "Wạn thảngān",
-      "English": "wan thangan",
-      "type": "time"
-  },
-  {
-      "Chinese": "日期",
-      "Thai": "วันที่",
-      "phonetic": "Wạn thī̀",
-      "English": "wan thi",
-      "type": "noun"
-  },
-  {
-      "Chinese": "今天几号",
-      "Thai": "วันนี้วันที่เท่าไหร่?",
-      "phonetic": "Wạn nī̂ wạn thī̀ thèā h̄ịr̀?",
-      "English": "wan nii wan thi thawray",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "今天星期几",
-      "Thai": "วันนี้วันอะไร?",
-      "phonetic": "Wạn nī̂ wạn xarị?",
-      "English": "wan ni wan ?aray",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "和...一起",
-      "Thai": "กับ",
-      "phonetic": "Kạb",
-      "English": "kap",
-      "type": "prep"
-  },
-  {
-      "Chinese": "周一到周五",
-      "Thai": "วันจันทร์ถึงวันศุกร์",
-      "phonetic": "Wạn cạnthr̒ t̄hụng wạn ṣ̄ukr̒",
-      "English": "wan jan thvng suk",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "出生",
-      "Thai": "เกิด",
-      "phonetic": "Keid",
-      "English": "kert",
-      "type": "verb"
-  },
-  {
-      "Chinese": "看电影",
-      "Thai": "ดูหนัง",
-      "phonetic": "Dū h̄nạng",
-      "English": "duu nang",
-      "type": "verb"
-  },
-  {
-      "Chinese": "锻炼",
-      "Thai": "ออกกำลังกาย",
-      "phonetic": "Xxkkảlạng kāy",
-      "English": "?auk kam lang kaay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "身体",
-      "Thai": "กาย",
-      "phonetic": "Kāy",
-      "English": "kaay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "博物馆",
-      "Thai": "พิพิธภัณฑ์",
-      "phonetic": "Phiphiṭhp̣hạṇṯh̒",
-      "English": "phi phit ta phan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "图书馆",
-      "Thai": "ห้องสมุด",
-      "phonetic": "H̄̂xngs̄mud",
-      "English": "haung samut",
-      "type": "noun"
-  },
-  {
-      "Chinese": "房间",
-      "Thai": "ห้อง",
-      "phonetic": "H̄̂xng",
-      "English": "haung",
-      "type": "noun"
-  },
-  {
-      "Chinese": "笔记本",
-      "Thai": "สมุด",
-      "phonetic": "S̄mud",
-      "English": "samut",
-      "type": "noun"
-  },
-  {
-      "Chinese": "游泳",
-      "Thai": "ว่ายน้ำ",
-      "phonetic": "Ẁāy n̂ả",
-      "English": "waay naam",
-      "type": "verb"
-  },
-  {
-      "Chinese": "泰国",
-      "Thai": "เมืองไทย",
-      "phonetic": "Meụ̄xng thịy",
-      "English": "mvang thai",
-      "type": "noun"
-  },
-  {
-      "Chinese": "月份",
-      "Thai": "เดือน",
-      "phonetic": "Deụ̄xn",
-      "English": "dvan",
-      "type": "time"
-  },
-  {
-      "Chinese": "年",
-      "Thai": "ปี",
-      "phonetic": "Pī",
-      "English": "pii",
-      "type": "time"
-  },
-  {
-      "Chinese": "宋干节",
-      "Thai": "สงกรานต์",
-      "phonetic": "S̄ngkrānt̒",
-      "English": "songkraan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "开始",
-      "Thai": "เริ่ม",
-      "phonetic": "Reìm",
-      "English": "rerm",
-      "type": "verb"
-  },
-  {
-      "Chinese": "刚",
-      "Thai": "เพิ่ง",
-      "phonetic": "Pheìng",
-      "English": "pherng",
-      "type": "adverb"
-  },
-  {
-      "Chinese": "一月份",
-      "Thai": "มกราคม",
-      "phonetic": "Mkrākhm",
-      "English": "ma ka raa khom",
-      "type": "time"
-  },
-  {
-      "Chinese": "二月份",
-      "Thai": "กุมภาพันธ์",
-      "phonetic": "Kump̣hāphạnṭh̒",
-      "English": "kum phaa phan",
-      "type": "time"
-  },
-  {
-      "Chinese": "三月份",
-      "Thai": "มีนาคม",
-      "phonetic": "Mīnākhm",
-      "English": "mii naa khom",
-      "type": "time"
-  },
-  {
-      "Chinese": "四月份",
-      "Thai": "เมษายน",
-      "phonetic": "Mes̄ʹāyn",
-      "English": "mee saa yon",
-      "type": "time"
-  },
-  {
-      "Chinese": "五月",
-      "Thai": "พฤษภาคม",
-      "phonetic": "Phvs̄ʹp̣hākhm",
-      "English": "phvt sa phaa khom",
-      "type": "time"
-  },
-  {
-      "Chinese": "六月",
-      "Thai": "มิถุนายน",
-      "phonetic": "Mit̄hunāyn",
-      "English": "mi thu naa yon",
-      "type": "time"
-  },
-  {
-      "Chinese": "七月",
-      "Thai": "กรกฎาคม",
-      "phonetic": "Krkḍākhm",
-      "English": "ka ra ka daa khom",
-      "type": "time"
-  },
-  {
-      "Chinese": "八月",
-      "Thai": "สิงหาคม",
-      "phonetic": "S̄ingh̄ākhm",
-      "English": "sing haa khom",
-      "type": "time"
-  },
-  {
-      "Chinese": "九月",
-      "Thai": "กันยายน",
-      "phonetic": "Kạnyāyn",
-      "English": "kan yaa yon",
-      "type": "time"
-  },
-  {
-      "Chinese": "十月",
-      "Thai": "ตุลาคม",
-      "phonetic": "Tulākhm",
-      "English": "tu laa khom",
-      "type": "time"
-  },
-  {
-      "Chinese": "十一月",
-      "Thai": "พฤศจิกายน",
-      "phonetic": "Phvṣ̄cikāyn",
-      "English": "phrvt sa ji kaa yon",
-      "type": "time"
-  },
-  {
-      "Chinese": "十二月",
-      "Thai": "ธันวาคม",
-      "phonetic": "Ṭhạnwākhm",
-      "English": "than waa khom",
-      "type": "time"
-  },
-  {
-      "Chinese": "月初",
-      "Thai": "ต้นเดือน",
-      "phonetic": "T̂n deụ̄xn",
-      "English": "taun dvan",
-      "type": "time"
-  },
-  {
-      "Chinese": "月中",
-      "Thai": "กลางเดือน",
-      "phonetic": "Klāngdeụ̄xn",
-      "English": "klang dvan",
-      "type": "time"
-  },
-  {
-      "Chinese": "月底",
-      "Thai": "สิ้นเดือน",
-      "phonetic": "S̄în deụ̄xn",
-      "English": "sin dvan",
-      "type": "time"
-  },
-  {
-      "Chinese": "一月初",
-      "Thai": "ต้นเดือนมกราคม",
-      "phonetic": "T̂n deụ̄xn mkrākhm",
-      "English": "taun dvan ma ka raa khom",
-      "type": "time"
-  },
-  {
-      "Chinese": "厉害",
-      "Thai": "คม",
-      "phonetic": "Khm",
-      "English": "keng",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "居住",
-      "Thai": "อยู่",
-      "phonetic": "Xyū̀",
-      "English": "yuu",
-      "type": "verb"
-  },
-  {
-      "Chinese": "很",
-      "Thai": "มาก",
-      "phonetic": "Māk",
-      "English": "maak",
-      "type": "adverb"
-  },
-  {
-      "Chinese": "时间长的",
-      "Thai": "นาน",
-      "phonetic": "Nān",
-      "English": "naan",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "自从",
-      "Thai": "ตั้งแต่",
-      "phonetic": "Tậngtæ̀",
-      "English": "tangt33",
-      "type": "prep"
-  },
-  {
-      "Chinese": "去年",
-      "Thai": "ปีที่แล้ว",
-      "phonetic": "Pī thī̀ læ̂w",
-      "English": "pii thiil33w",
-      "type": "time"
-  },
-  {
-      "Chinese": "下个月",
-      "Thai": "เดือนหน้า",
-      "phonetic": "Deụ̄xn h̄n̂ā",
-      "English": "dvan naa",
-      "type": "time"
-  },
-  {
-      "Chinese": "再2年",
-      "Thai": "อีก 2 ปี",
-      "phonetic": "Xīk 2 pī",
-      "English": "?iik 2 pi",
-      "type": "time"
-  },
-  {
-      "Chinese": "2年前",
-      "Thai": "2 ปีที่แล้ว",
-      "phonetic": "2 Pī thī̀ læ̂w",
-      "English": "2 pii thi l33w",
-      "type": "time"
-  },
-  {
-      "Chinese": "打开",
-      "Thai": "เปิด",
-      "phonetic": "Peid",
-      "English": "pert",
-      "type": "verb"
-  },
-  {
-      "Chinese": "海",
-      "Thai": "ทะเล",
-      "phonetic": "Thale",
-      "English": "thalee",
-      "type": "noun"
-  },
-  {
-      "Chinese": "将会",
-      "Thai": "จะ",
-      "phonetic": "Ca",
-      "English": "ja",
-      "type": "adverb"
-  },
-  {
-      "Chinese": "闲暇时间",
-      "Thai": "ว่าง",
-      "phonetic": "Ẁāng",
-      "English": "waang",
-      "type": "noun"
-  },
-  {
-      "Chinese": "忙",
-      "Thai": "ยุ่ง",
-      "phonetic": "Yùng",
-      "English": "yung",
-      "type": "verb"
-  },
-  {
-      "Chinese": "什么时候有空",
-      "Thai": "วางเมื่อไหร่?",
-      "phonetic": "Wāng meụ̄̀x h̄ịr̀?",
-      "English": "waang mva ray",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "什么时候",
-      "Thai": "เมื่อไหร่",
-      "phonetic": "Meụ̄̀x h̄ịr̀",
-      "English": "mva ray",
-      "type": "time"
-  },
-  {
-      "Chinese": "句子",
-      "Thai": "ประโยค",
-      "phonetic": "Prayokh",
-      "English": "prayook",
-      "type": "noun"
-  },
-  {
-      "Chinese": "问题",
-      "Thai": "คำถาม",
-      "phonetic": "Khảt̄hām",
-      "English": "khamthaam",
-      "type": "noun"
-  },
-  {
-      "Chinese": "贵吗",
-      "Thai": "แพงมั้ย?",
-      "phonetic": "Phæng mậy?",
-      "English": "ph33ng may",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "明白",
-      "Thai": "เข้าใจ",
-      "phonetic": "K̄hêācı",
-      "English": "khaw jay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "便宜的",
-      "Thai": "ถูก",
-      "phonetic": "T̄hūk",
-      "English": "thuk",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "是对的吗？",
-      "Thai": "ถูกมั้ย?",
-      "phonetic": "T̄hūk mậy?",
-      "English": "thuk may",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "错",
-      "Thai": "ผิด",
-      "phonetic": "P̄hid",
-      "English": "phit",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "快乐",
-      "Thai": "ความสุข",
-      "phonetic": "Khwām s̄uk̄h",
-      "English": "khwaan suk",
-      "type": "noun"
-  },
-  {
-      "Chinese": "臭",
-      "Thai": "หม็น",
-      "phonetic": "H̄m̆n",
-      "English": "men",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "香",
-      "Thai": "หอม",
-      "phonetic": "H̄xm",
-      "English": "haum",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "杯",
-      "Thai": "แก้ว",
-      "phonetic": "Kæ̂w",
-      "English": "k33w",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "瓶",
-      "Thai": "ขวด",
-      "phonetic": "K̄hwd",
-      "English": "khuat",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "盘",
-      "Thai": "จาน",
-      "phonetic": "Cān",
-      "English": "jaan",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "1对",
-      "Thai": "1คู่",
-      "phonetic": "1Khū̀",
-      "English": "khuu",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "30度",
-      "Thai": "30 องศา",
-      "phonetic": "30 Xngṣ̄ā",
-      "English": "?ong saa",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "天气",
-      "Thai": "ากาศ",
-      "phonetic": "Ākāṣ̄",
-      "English": "?aakaat",
-      "type": "noun"
-  },
-  {
-      "Chinese": "看到哪一个人？",
-      "Thai": "ดูคนไหน",
-      "phonetic": "Dū khn h̄ịn",
-      "English": "duu khon nay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "哪条路",
-      "Thai": "ทางไหน",
-      "phonetic": "Thāng h̄ịn",
-      "English": "thaang nay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "洗手间哪条路",
-      "Thai": "ห้องน้ำไปทางไหน?",
-      "phonetic": "H̄̂xngn̂ả pị thāng h̄ịn?",
-      "English": "hong naam pay thaang nay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "价格",
-      "Thai": "ราคา",
-      "phonetic": "Rākhā",
-      "English": "raa kha",
-      "type": "noun"
-  },
-  {
-      "Chinese": "椰子水",
-      "Thai": "น้ำมะพร้าว",
-      "phonetic": "N̂ả maphr̂āw",
-      "English": "naam ma phraaw",
-      "type": "noun"
-  },
-  {
-      "Chinese": "重",
-      "Thai": "หนัก",
-      "phonetic": "H̄nạk",
-      "English": "nak",
-      "type": "noun"
-  },
-  {
-      "Chinese": "大小",
-      "Thai": "ขนาด",
-      "phonetic": "K̄hnād",
-      "English": "kha naat",
-      "type": "noun"
-  },
-  {
-      "Chinese": "忘",
-      "Thai": "ลืม",
-      "phonetic": "Lụ̄m",
-      "English": "lvvn",
-      "type": "verb"
-  },
-  {
-      "Chinese": "高",
-      "Thai": "สูง",
-      "phonetic": "S̄ūng",
-      "English": "suung",
-      "type": "noun"
-  },
-  {
-      "Chinese": "1台",
-      "Thai": "1 เครื่อง",
-      "phonetic": "1 kherụ̄̀xng",
-      "English": "khuang",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "冰箱",
-      "Thai": "ตู้เย็น",
-      "phonetic": "Tū̂ yĕn",
-      "English": "tuu yen",
-      "type": "noun"
-  },
-  {
-      "Chinese": "什么时候",
-      "Thai": "เมื่อไร",
-      "phonetic": "Meụ̄̀xrị",
-      "English": "mvaray",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "多少",
-      "Thai": "เท่าไหร่",
-      "phonetic": "Thèā h̄ịr̀",
-      "English": "thawray",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "出",
-      "Thai": "ออก",
-      "phonetic": "Xxk",
-      "English": "?auk",
-      "type": "verb"
-  },
-  {
-      "Chinese": "从",
-      "Thai": "จาก",
-      "phonetic": "Cāk",
-      "English": "jaak",
-      "type": "prep"
-  },
-  {
-      "Chinese": "不确定",
-      "Thai": "ไม่แน่นอน",
-      "phonetic": "Mị̀ næ̀nxn",
-      "English": "may n33 naun",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "数字",
-      "Thai": "เลข",
-      "phonetic": "Lek̄h",
-      "English": "leek",
-      "type": "noun"
-  },
-  {
-      "Chinese": "...什么",
-      "Thai": "อะไร",
-      "phonetic": "Xarị",
-      "English": "?aray",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "为什么...",
-      "Thai": "ทำไม",
-      "phonetic": "Thảmị",
-      "English": "thammay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "...在哪儿",
-      "Thai": "ที่ไหน",
-      "phonetic": "Thī̀h̄ịn",
-      "English": "thi nay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "...谁",
-      "Thai": "ใคร",
-      "phonetic": "Khır",
-      "English": "khray",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "...怎么",
-      "Thai": "ยังไง",
-      "phonetic": "Yạng ngị",
-      "English": "yang ngay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "曼谷",
-      "Thai": "กรุงเทพ",
-      "phonetic": "Krungtheph",
-      "English": "krung theep",
-      "type": "noun"
-  },
-  {
-      "Chinese": "好吃",
-      "Thai": "อร่อย",
-      "phonetic": "Xr̀xy",
-      "English": "?arauy",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "因为",
-      "Thai": "เพราะ",
-      "phonetic": "Pherāa",
-      "English": "phrau(+ waa)",
-      "type": "conjunction"
-  },
-  {
-      "Chinese": "起晚了",
-      "Thai": "ตื่นสาย",
-      "phonetic": "Tụ̄̀n s̄āy",
-      "English": "tvvn saay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "波罗蜜",
-      "Thai": "ขนุน",
-      "phonetic": "K̄hnun",
-      "English": "kha nun",
-      "type": "noun"
-  },
-  {
-      "Chinese": "卡住 堵(车)",
-      "Thai": "ติด",
-      "phonetic": "Tid",
-      "English": "tit",
-      "type": "verb"
-  },
-  {
-      "Chinese": "淹水",
-      "Thai": "น้ำท่วม",
-      "phonetic": "N̂ả th̀wm",
-      "English": "naam thuam",
-      "type": "verb"
-  },
-  {
-      "Chinese": "为什么迟到",
-      "Thai": "ทำไมสาย",
-      "phonetic": "Thảmị s̄āy",
-      "English": "Tham may saay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "孩子",
-      "Thai": "ลูก",
-      "phonetic": "Lūk",
-      "English": "luuk",
-      "type": "noun"
-  },
-  {
-      "Chinese": "还不知道",
-      "Thai": "ยังไม่รู้",
-      "phonetic": "Yạng mị̀rū̂",
-      "English": "yang may ruu",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "百货商店",
-      "Thai": "ห้าง",
-      "phonetic": "H̄̂āng",
-      "English": "haang",
-      "type": "noun"
-  },
-  {
-      "Chinese": "你家在哪",
-      "Thai": "บ้านงคุณอยู่ที่ไหน",
-      "phonetic": "B̂ā nng khuṇ xyū̀ thī̀h̄ịn",
-      "English": "baan khun yuu thii nay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "机场",
-      "Thai": "สนามบิน",
-      "phonetic": "S̄nām bin",
-      "English": "sa naam bin",
-      "type": "noun"
-  },
-  {
-      "Chinese": "...和谁",
-      "Thai": "กับใคร",
-      "phonetic": "Kạb khır",
-      "English": "kap khray",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "一个人吃",
-      "Thai": "กินคนเดียว",
-      "phonetic": "Kin khn deīyw",
-      "English": "kin khon diaw",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "同事",
-      "Thai": "เพื่อนร่วมงาน",
-      "phonetic": "Pheụ̄̀xn r̀wm ngān",
-      "English": "phvan ruam ngaan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "感觉怎么样",
-      "Thai": "รู้สึกอย่างไร",
-      "phonetic": "Rū̂s̄ụk xỳāngrị",
-      "English": "ruu svk yangngay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "舒服的",
-      "Thai": "สบาย",
-      "phonetic": "S̄bāy",
-      "English": "sabaay",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "桌",
-      "Thai": "โต๊ะ",
-      "phonetic": "Tóa",
-      "English": "to",
-      "type": "noun"
-  },
-  {
-      "Chinese": "感觉",
-      "Thai": "รู้สึก",
-      "phonetic": "Rū̂s̄ụk",
-      "English": "ruusvk",
-      "type": "verb"
-  },
-  {
-      "Chinese": "下午",
-      "Thai": "บ่าย",
-      "phonetic": "bay",
-      "English": "baay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "啤酒",
-      "Thai": "เบียร์",
-      "phonetic": "Beīyr̒",
-      "English": "bia",
-      "type": "noun"
-  },
-  {
-      "Chinese": "慢慢",
-      "Thai": "ช้า",
-      "phonetic": "Cĥā",
-      "English": "chaaw",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "可以",
-      "Thai": "ได้",
-      "phonetic": "Dị̂",
-      "English": "daay",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "走路",
-      "Thai": "เดิน",
-      "phonetic": "Dein",
-      "English": "dern",
-      "type": "verb"
-  },
-  {
-      "Chinese": "善良",
-      "Thai": "ใจดี",
-      "phonetic": "Cıdī",
-      "English": "jaydii",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "心",
-      "Thai": "ใจ",
-      "phonetic": "Cı",
-      "English": "jay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "吸烟",
-      "Thai": "สูบบุหรี่",
-      "phonetic": "S̄ūb buh̄rī̀",
-      "English": "suup burii",
-      "type": "verb"
-  },
-  {
-      "Chinese": "可以",
-      "Thai": "ได้",
-      "phonetic": "Dị̂",
-      "English": "daay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "出去",
-      "Thai": "ออกไป",
-      "phonetic": "Xxk pị",
-      "English": "?auk pay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "进来",
-      "Thai": "เข้ามา",
-      "phonetic": "K̄hêā mā",
-      "English": "khaw maa",
-      "type": "verb"
-  },
-  {
-      "Chinese": "借",
-      "Thai": "ยืม",
-      "phonetic": "Yụ̄m",
-      "English": "yvvm",
-      "type": "verb"
-  },
-  {
-      "Chinese": "换钱",
-      "Thai": "แลกเงิน",
-      "phonetic": "Læk ngein",
-      "English": "l33k ngern",
-      "type": "verb"
-  },
-  {
-      "Chinese": "菜单",
-      "Thai": "เมนู",
-      "phonetic": "Menū",
-      "English": "meenuu",
-      "type": "noun"
-  },
-  {
-      "Chinese": "用",
-      "Thai": "ใช้",
-      "phonetic": "Chı̂",
-      "English": "chay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "笔",
-      "Thai": "ปากกา",
-      "phonetic": "Pākkā",
-      "English": "paakkaa",
-      "type": "noun"
-  },
-  {
-      "Chinese": "拍照",
-      "Thai": "ถ่ายรูป",
-      "phonetic": "T̄h̀āyrūp",
-      "English": "thaay ruup",
-      "type": "verb"
-  },
-  {
-      "Chinese": "文件",
-      "Thai": "เอกสาร",
-      "phonetic": "Xeks̄ār",
-      "English": "?eek ka saam",
-      "type": "noun"
-  },
-  {
-      "Chinese": "帮忙",
-      "Thai": "ช่วย",
-      "phonetic": "Ch̀wy",
-      "English": "chay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "一样的。",
-      "Thai": "ก็เหมือนกัน",
-      "phonetic": "K̆ h̄emụ̄xn kạn",
-      "English": "kau mvankan",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "没及时收听",
-      "Thai": "ฟังไม่ทัน",
-      "phonetic": "Fạng mị̀thạn",
-      "English": "fang may than",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "门",
-      "Thai": "ประตู",
-      "phonetic": "Pratū",
-      "English": "pratuu",
-      "type": "noun"
-  },
-  {
-      "Chinese": "鸡蛋",
-      "Thai": "ไข่",
-      "phonetic": "K̄hị̀",
-      "English": "Kay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "鸡",
-      "Thai": "ไก่",
-      "phonetic": "Kị̀",
-      "English": "khay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "电灯",
-      "Thai": "ไฟ",
-      "phonetic": "Fị",
-      "English": "fay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "大声",
-      "Thai": "ดัง",
-      "phonetic": "Dạng",
-      "English": "dang",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "单词",
-      "Thai": "คำ",
-      "phonetic": "Khả",
-      "English": "kham",
-      "type": "noun"
-  },
-  {
-      "Chinese": "包",
-      "Thai": "กระเป๋า",
-      "phonetic": "Krapěā",
-      "English": "krapaw",
-      "type": "noun"
-  },
-  {
-      "Chinese": "轻轻",
-      "Thai": "เบา ๆ",
-      "phonetic": "Beā «",
-      "English": "baw baw",
-      "type": "adverb"
-  },
-  {
-      "Chinese": "还给",
-      "Thai": "คืนให้",
-      "phonetic": "Khụ̄nh̄ı̂",
-      "English": "khvvn hay",
-      "type": "verb"
-  },
-  {
-      "Chinese": "东西",
-      "Thai": "ของ",
-      "phonetic": "K̄hxng",
-      "English": "kaung",
-      "type": "noun"
-  },
-  {
-      "Chinese": "一般甜",
-      "Thai": "ปกติก็หวาน.",
-      "phonetic": "Pkti k̆ h̄wān.",
-      "English": "pok ka ti wan",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "女人",
-      "Thai": "ผู้หญิง",
-      "phonetic": "P̄hū̂ h̄ỵing",
-      "English": "phuuying",
-      "type": "noun"
-  },
-  {
-      "Chinese": "男人",
-      "Thai": "ผู้ชาย",
-      "phonetic": "P̄hū̂chāy",
-      "English": "phuuchaay",
-      "type": "noun"
-  },
-  {
-      "Chinese": "每一个",
-      "Thai": "ทุกๆ",
-      "phonetic": "Thuk«",
-      "English": "thuk",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "里面",
-      "Thai": "ใน",
-      "phonetic": "Nı",
-      "English": "nay",
-      "type": "prep"
-  },
-  {
-      "Chinese": "课堂",
-      "Thai": "ห้องเรียน",
-      "phonetic": "H̄̂xngreīyn",
-      "English": "haung rian",
-      "type": "noun"
-  },
-  {
-      "Chinese": "房间",
-      "Thai": "ห้อง",
-      "phonetic": "H̄̂xng",
-      "English": "haung",
-      "type": "noun"
-  },
-  {
-      "Chinese": "学生",
-      "Thai": "นักเรียน",
-      "phonetic": "Nạkreīyn",
-      "English": "nakrian",
-      "type": "noun"
-  },
-  {
-      "Chinese": "超过",
-      "Thai": "เกิน",
-      "phonetic": "Kein",
-      "English": "kern",
-      "type": "verb"
-  },
-  {
-      "Chinese": "全部",
-      "Thai": "ทั้งหมด",
-      "phonetic": "Thậngh̄md",
-      "English": "thangmot",
-      "type": "noun"
-  },
-  {
-      "Chinese": "全部多少",
-      "Thai": "ทั้งหมดเท่าไหร่ครับ",
-      "phonetic": "Thậngh̄md thèā h̄ịr̀ khrạb",
-      "English": "thangmot thaw ray",
-      "type": "conversation"
-  },
-  {
-      "Chinese": "椅子",
-      "Thai": "เก้าอี้",
-      "phonetic": "Kêāxī̂",
-      "English": "kaaw ?ii",
-      "type": "noun"
-  },
-  {
-      "Chinese": "勺子",
-      "Thai": "ช้อน",
-      "phonetic": "Cĥxn",
-      "English": "chaun",
-      "type": "noun"
-  },
-  {
-      "Chinese": "叉子",
-      "Thai": "ส้อม",
-      "phonetic": "S̄̂xm",
-      "English": "saum",
-      "type": "noun"
-  },
-  {
-      "Chinese": "两把椅子",
-      "Thai": "เก้าอี้สองตัว",
-      "phonetic": "Kêāxī̂ s̄xng tạw",
-      "English": "tua",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "一个人",
-      "Thai": "หนึ่งคน",
-      "phonetic": "H̄nụ̀ng khn",
-      "English": "khon",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "三只猫",
-      "Thai": "แมวสามตัว",
-      "phonetic": "Mæw s̄ām tạw",
-      "English": "tua",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "猫",
-      "Thai": "แมว",
-      "phonetic": "Mæw",
-      "English": "m33w",
-      "type": "noun"
-  },
-  {
-      "Chinese": "五条鱼",
-      "Thai": "ปลาห้าตัว",
-      "phonetic": "Plā h̄̂ā tạw",
-      "English": "tua",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "伞",
-      "Thai": "ร่ม",
-      "phonetic": "R̀m",
-      "English": "raung",
-      "type": "noun"
-  },
-  {
-      "Chinese": "两辆车",
-      "Thai": "รถสองคัน",
-      "phonetic": "Rt̄h s̄xng khạn",
-      "English": "khan",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "2把雨伞",
-      "Thai": "ร่ม2คัน",
-      "phonetic": "R̀m2khạn",
-      "English": "khan",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "4桌",
-      "Thai": "โต๊ะ 4 ตัว",
-      "phonetic": "Tóa 4 tạw",
-      "English": "tua",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "2栋房子",
-      "Thai": "บ้าน 2 หลัง",
-      "phonetic": "B̂ān 2 h̄lạng",
-      "English": "lang",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "五本书",
-      "Thai": "หนังสือห้าเล่ม",
-      "phonetic": "H̄nạngs̄ụ̄x h̄̂ā lèm",
-      "English": "lem",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "两颗橙子",
-      "Thai": "ส้มสองลูก",
-      "phonetic": "S̄̂m s̄xng lūk",
-      "English": "luuk",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "三块榴莲",
-      "Thai": "ทุเรียนสามชิ้น",
-      "phonetic": "Thureīyn s̄ām chîn",
-      "English": "chin",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "两台电脑",
-      "Thai": "คอมพิวเตอร์สองเครื่อง",
-      "phonetic": "Khxmphiwtexr̒ s̄xng kherụ̄̀xng",
-      "English": "khrvang",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "6串葡萄",
-      "Thai": "องุ่น 6 พวง",
-      "phonetic": "Xngùn 6 phwng",
-      "English": "phuang",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "葡萄",
-      "Thai": "องุ่น",
-      "phonetic": "Xngùn",
-      "English": "?angun",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "两支笔",
-      "Thai": "ปากกาสองอัน",
-      "phonetic": "Pākkā s̄xng xạn",
-      "English": "?an",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "三杯水",
-      "Thai": "น้ำสามแก้ว",
-      "phonetic": "N̂ả s̄ām kæ̂w",
-      "English": "k33w",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "四盘菜",
-      "Thai": "สี่จาน",
-      "phonetic": "S̄ī̀ cān",
-      "English": "jaan",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "一瓶咖啡",
-      "Thai": "กาแฟหนึ่งขวด",
-      "phonetic": "Kāfæ h̄nụ̀ng k̄hwd",
-      "English": "khuat",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "2个袋子",
-      "Thai": "2 ใบ",
-      "phonetic": "2 Bı",
-      "English": "Bay",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "3把刀",
-      "Thai": "มีด 3 เล่ม",
-      "phonetic": "Mīd 3 lèm",
-      "English": "lem",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "刀",
-      "Thai": "มีด",
-      "phonetic": "Mīd",
-      "English": "mid",
-      "type": "noun"
-  },
-  {
-      "Chinese": "袋",
-      "Thai": "ถุง",
-      "phonetic": "T̄hung",
-      "English": "thung",
-      "type": "noun"
-  },
-  {
-      "Chinese": "狗",
-      "Thai": "หมา",
-      "phonetic": "H̄mā",
-      "English": "maa",
-      "type": "noun"
-  },
-  {
-      "Chinese": "袜",
-      "Thai": "ถุงเท้า",
-      "phonetic": "T̄hungthêā",
-      "English": "thungthaaw",
-      "type": "noun"
-  },
-  {
-      "Chinese": "手套",
-      "Thai": "ถุงมือ",
-      "phonetic": "T̄hungmụ̄x",
-      "English": "thungmvv",
-      "type": "noun"
-  },
-  {
-      "Chinese": "2双袜子",
-      "Thai": "ถุงเท้า 2 คู่",
-      "phonetic": "T̄hungthêā 2 khū̀",
-      "English": "khuu",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "面条",
-      "Thai": "ก๋วยเตี๋ยว",
-      "phonetic": "Ǩwyteī̌yw",
-      "English": "kuay tiaw",
-      "type": "noun"
-  },
-  {
-      "Chinese": "两碗面条",
-      "Thai": "ก๋วยเตี๋ยวสองชาม",
-      "phonetic": "Ǩwyteī̌yw s̄xng chām",
-      "English": "chaam",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "两罐可乐",
-      "Thai": "โค้กสองกระป๋อง",
-      "phonetic": "Khôk s̄xng krap̌xng",
-      "English": "kra baung",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "两片面包",
-      "Thai": "ขนมปังสองแผ่น",
-      "phonetic": "K̄hnmpạng s̄xng p̄hæ̀n",
-      "English": "ph33n",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "面包",
-      "Thai": "ขนมปัง",
-      "phonetic": "K̄hnmpạng",
-      "English": "kha nom pang",
-      "type": "noun"
-  },
-  {
-      "Chinese": "许多",
-      "Thai": "หลาย",
-      "phonetic": "H̄lāy",
-      "English": "laay",
-      "type": "adjective"
-  },
-  {
-      "Chinese": "那边",
-      "Thai": "ตรงนั้น",
-      "phonetic": "Trng nận",
-      "English": "trong nan",
-      "type": "noun"
-  },
-  {
-      "Chinese": "苹果",
-      "Thai": "แอปเปิล",
-      "phonetic": "Xæppeil",
-      "English": "?3ppern",
-      "type": "noun"
-  },
-  {
-      "Chinese": "蛋糕",
-      "Thai": "เค้ก",
-      "phonetic": "Khêk",
-      "English": "kheek",
-      "type": "noun"
-  },
-  {
-      "Chinese": "两架飞机",
-      "Thai": "เครื่องบินสองลำ",
-      "phonetic": "Kherụ̄̀xng bin s̄xng lả",
-      "English": "lam",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "两艘船",
-      "Thai": "เรือสองลำ",
-      "phonetic": "Reụ̄x s̄xng lả",
-      "English": "lam",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "两个座位",
-      "Thai": "สองที่นั่ง",
-      "phonetic": "S̄xng thī̀ nạ̀ng",
-      "English": "thii",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "两场电影",
-      "Thai": "หนังสองเรื่อง",
-      "phonetic": "H̄nạng s̄xng reụ̄̀xng",
-      "English": "rvang",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "两朵花",
-      "Thai": "สองดอก",
-      "phonetic": "S̄xng dxk",
-      "English": "dauauk",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "一群学生",
-      "Thai": "กลุ่มนักเรียน",
-      "phonetic": "Klùm nạkreīyn",
-      "English": "klum",
-      "type": "quantifier"
-  },
-  {
-      "Chinese": "一群大象",
-      "Thai": "ฝูงช้าง",
-      "phonetic": "F̄ūng cĥāng",
-      "English": "fuung",
-      "type": "quantifier"
-  },
+    {
+        "Chinese": "你好",
+        "Thai": "สวัสดี",
+        "phonetic": "S̄wạs̄dī",
+        "English": "sawatdii",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "名字",
+        "Thai": "ชื่อ",
+        "phonetic": "Chụ̄̀x",
+        "English": "cheu",
+        "type": "noun"
+    },
+    {
+        "Chinese": "我（女）",
+        "Thai": "ฉัน",
+        "phonetic": "C̄hạn",
+        "English": "chan",
+        "type": "pronoun"
+    },
+    {
+        "Chinese": "我（男）",
+        "Thai": "ผม",
+        "phonetic": "Phom",
+        "English": "phom",
+        "type": "pronoun"
+    },
+    {
+        "Chinese": "国家",
+        "Thai": "ประเทศ",
+        "phonetic": "Pratheṣ̄",
+        "English": "prathet",
+        "type": "noun"
+    },
+    {
+        "Chinese": "哪里",
+        "Thai": "ที่ไหน",
+        "phonetic": "Thī̀h̄ịn",
+        "English": "thinnay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "年",
+        "Thai": "ปี",
+        "phonetic": "Pī",
+        "English": "pii",
+        "type": "noun"
+    },
+    {
+        "Chinese": "辣",
+        "Thai": "เผ็ด",
+        "phonetic": "P̄hĕd",
+        "English": "phet",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "家",
+        "Thai": "บ้าน",
+        "phonetic": "B̂ān",
+        "English": "baan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "桌子",
+        "Thai": "โต๊ะ",
+        "phonetic": "Tóa",
+        "English": "to",
+        "type": "noun"
+    },
+    {
+        "Chinese": "做",
+        "Thai": "ทำ",
+        "phonetic": "Thảm",
+        "English": "tham",
+        "type": "verb"
+    },
+    {
+        "Chinese": "小孩",
+        "Thai": "เด็ก",
+        "phonetic": "Dĕk",
+        "English": "dek",
+        "type": "noun"
+    },
+    {
+        "Chinese": "厉害",
+        "Thai": "เก่ง",
+        "phonetic": "Kèng",
+        "English": "keng",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "脖子",
+        "Thai": "คอ",
+        "phonetic": "Khx",
+        "English": "khau",
+        "type": "noun"
+    },
+    {
+        "Chinese": "什么",
+        "Thai": "อะไร",
+        "phonetic": "Xarị",
+        "English": "?aray",
+        "type": "noun"
+    },
+    {
+        "Chinese": "七",
+        "Thai": "เจ็ด",
+        "phonetic": "Cĕd",
+        "English": "jet",
+        "type": "number"
+    },
+    {
+        "Chinese": "大象",
+        "Thai": "ช้าง",
+        "phonetic": "Cĥāng",
+        "English": "chaang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "天空",
+        "Thai": "ฟา",
+        "phonetic": "Fā",
+        "English": "faa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "颜色",
+        "Thai": "สี",
+        "phonetic": "S̄ī",
+        "English": "sii",
+        "type": "noun"
+    },
+    {
+        "Chinese": "给",
+        "Thai": "ให้",
+        "phonetic": "H̄ı̂",
+        "English": "hay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "有",
+        "Thai": "มี",
+        "phonetic": "Mī",
+        "English": "mii",
+        "type": "verb"
+    },
+    {
+        "Chinese": "水",
+        "Thai": "น้ำ",
+        "phonetic": "N̂ả",
+        "English": "naam",
+        "type": "noun"
+    },
+    {
+        "Chinese": "工作",
+        "Thai": "งาน",
+        "phonetic": "Ngān",
+        "English": "ngaan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "快",
+        "Thai": "เร็ว",
+        "phonetic": "Rĕw",
+        "English": "rew",
+        "type": "adverb"
+    },
+    {
+        "Chinese": "猴子",
+        "Thai": "ลิง",
+        "phonetic": "Ling",
+        "English": "ling",
+        "type": "noun"
+    },
+    {
+        "Chinese": "寺庙",
+        "Thai": "วัด",
+        "phonetic": "Wạd",
+        "English": "wat",
+        "type": "noun"
+    },
+    {
+        "Chinese": "难",
+        "Thai": "ยาก",
+        "phonetic": "Yāk",
+        "English": "yaak",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "喜欢",
+        "Thai": "ชอบ",
+        "phonetic": "Chxb",
+        "English": "choop",
+        "type": "verb"
+    },
+    {
+        "Chinese": "准备好",
+        "Thai": "พร้อม",
+        "phonetic": "Phr̂xm",
+        "English": "phraum",
+        "type": "verb"
+    },
+    {
+        "Chinese": "直",
+        "Thai": "ตรง",
+        "phonetic": "Trng",
+        "English": "trong",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "谁",
+        "Thai": "ใคร",
+        "phonetic": "Khır",
+        "English": "khray",
+        "type": "pronoun"
+    },
+    {
+        "Chinese": "鱼",
+        "Thai": "ปลา",
+        "phonetic": "Plā",
+        "English": "plaa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "歌",
+        "Thai": "เพลง",
+        "phonetic": "Phelng",
+        "English": "phleeng",
+        "type": "noun"
+    },
+    {
+        "Chinese": "远",
+        "Thai": "ไกล",
+        "phonetic": "Kịl",
+        "English": "klay",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "牙齿",
+        "Thai": "ฟัน",
+        "phonetic": "Fạn",
+        "English": "fan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "十",
+        "Thai": "สิบ",
+        "phonetic": "S̄ib",
+        "English": "sip",
+        "type": "number"
+    },
+    {
+        "Chinese": "你",
+        "Thai": "คุณ",
+        "phonetic": "Khuṇ",
+        "English": "khun",
+        "type": "pronoun"
+    },
+    {
+        "Chinese": "一",
+        "Thai": "หนึ่ง",
+        "phonetic": "H̄nụ̀ng",
+        "English": "nvng",
+        "type": "number"
+    },
+    {
+        "Chinese": "结束",
+        "Thai": "เสร็จ",
+        "phonetic": "S̄er̆c",
+        "English": "set",
+        "type": "verb"
+    },
+    {
+        "Chinese": "和",
+        "Thai": "และ",
+        "phonetic": "Læa",
+        "English": "lei",
+        "type": "conjunction"
+    },
+    {
+        "Chinese": "岛",
+        "Thai": "เกาะ",
+        "phonetic": "Keāa",
+        "English": "kau",
+        "type": "noun"
+    },
+    {
+        "Chinese": "来",
+        "Thai": "มา",
+        "phonetic": "Mā",
+        "English": "maa",
+        "type": "verb"
+    },
+    {
+        "Chinese": "零",
+        "Thai": "ศูนย์",
+        "phonetic": "Ṣ̄ūny̒",
+        "English": "suun",
+        "type": "number"
+    },
+    {
+        "Chinese": "手",
+        "Thai": "มือ",
+        "phonetic": "Mụ̄x",
+        "English": "mvv",
+        "type": "noun"
+    },
+    {
+        "Chinese": "歌曲",
+        "Thai": "เพลง",
+        "phonetic": "Phelng",
+        "English": "phleeng",
+        "type": "noun"
+    },
+    {
+        "Chinese": "红色",
+        "Thai": "แดง",
+        "phonetic": "dæng",
+        "English": "deieing",
+        "type": "color"
+    },
+    {
+        "Chinese": "睡觉",
+        "Thai": "นอน",
+        "phonetic": "Nxn",
+        "English": "nauaun",
+        "type": "verb"
+    },
+    {
+        "Chinese": "老师",
+        "Thai": "ครู",
+        "phonetic": "Khrū",
+        "English": "khruu",
+        "type": "noun"
+    },
+    {
+        "Chinese": "看",
+        "Thai": "ดู",
+        "phonetic": "Dū",
+        "English": "duu",
+        "type": "verb"
+    },
+    {
+        "Chinese": "茶",
+        "Thai": "ชา",
+        "phonetic": "Chā",
+        "English": "chaa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "好",
+        "Thai": "ดี",
+        "phonetic": "Dī",
+        "English": "dii",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "等",
+        "Thai": "รอ",
+        "phonetic": "Rx",
+        "English": "rauau",
+        "type": "verb"
+    },
+    {
+        "Chinese": "吃",
+        "Thai": "กิน",
+        "phonetic": "Kin",
+        "English": "kin",
+        "type": "verb"
+    },
+    {
+        "Chinese": "记住",
+        "Thai": "จำ",
+        "phonetic": "Cả",
+        "English": "jam",
+        "type": "verb"
+    },
+    {
+        "Chinese": "走路",
+        "Thai": "เดิน",
+        "phonetic": "Dein",
+        "English": "derern",
+        "type": "noun"
+    },
+    {
+        "Chinese": "贵",
+        "Thai": "แพง",
+        "phonetic": "Phæng",
+        "English": "phaeng",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "牛",
+        "Thai": "วัว",
+        "phonetic": "Wạw",
+        "English": "wua",
+        "type": "noun"
+    },
+    {
+        "Chinese": "肉",
+        "Thai": "เนื้อ",
+        "phonetic": "Neụ̄̂x",
+        "English": "nva",
+        "type": "noun"
+    },
+    {
+        "Chinese": "城市",
+        "Thai": "เมือง",
+        "phonetic": "Meụ̄xng",
+        "English": "mvang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "月份",
+        "Thai": "เดือน",
+        "phonetic": "Deụ̄xn",
+        "English": "dvan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "日子",
+        "Thai": "วัน",
+        "phonetic": "Wạn",
+        "English": "wan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "拳击",
+        "Thai": "มวย",
+        "phonetic": "Mwy",
+        "English": "muay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "拿",
+        "Thai": "เอา",
+        "phonetic": "Xeā",
+        "English": "?aw",
+        "type": "verb"
+    },
+    {
+        "Chinese": "卖",
+        "Thai": "ขาย",
+        "phonetic": "K̄hāy",
+        "English": "khaa2",
+        "type": "verb"
+    },
+    {
+        "Chinese": "腿",
+        "Thai": "ขา",
+        "phonetic": "K̄hā",
+        "English": "khaa3",
+        "type": "noun"
+    },
+    {
+        "Chinese": "米饭",
+        "Thai": "ข้าว",
+        "phonetic": "K̄ĥāw",
+        "English": "khaaw3",
+        "type": "noun"
+    },
+    {
+        "Chinese": "害羞",
+        "Thai": "อาย",
+        "phonetic": "Xāy",
+        "English": "?aay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "五",
+        "Thai": "ห้า",
+        "phonetic": "H̄̂ā",
+        "English": "haa",
+        "type": "number"
+    },
+    {
+        "Chinese": "九",
+        "Thai": "เก้า",
+        "phonetic": "Kêā",
+        "English": "kaaw",
+        "type": "number"
+    },
+    {
+        "Chinese": "这",
+        "Thai": "นี้",
+        "phonetic": "Nī̂",
+        "English": "nii",
+        "type": "pronoun"
+    },
+    {
+        "Chinese": "书",
+        "Thai": "หนังสือ",
+        "phonetic": "H̄nạngs̄ụ̄x",
+        "English": "nangsuu",
+        "type": "noun"
+    },
+    {
+        "Chinese": "进入",
+        "Thai": "เข้า",
+        "phonetic": "K̄hêā",
+        "English": "khaaw",
+        "type": "verb"
+    },
+    {
+        "Chinese": "他",
+        "Thai": "เขา",
+        "phonetic": "K̄heā",
+        "English": "khaw2",
+        "type": "pronoun"
+    },
+    {
+        "Chinese": "用",
+        "Thai": "ใช้",
+        "phonetic": "Chı̂",
+        "English": "chay2",
+        "type": "verb"
+    },
+    {
+        "Chinese": "回",
+        "Thai": "กลับ",
+        "phonetic": "Klạb",
+        "English": "klap",
+        "type": "verb"
+    },
+    {
+        "Chinese": "炒",
+        "Thai": "ผัด",
+        "phonetic": "P̄hạd",
+        "English": "phat",
+        "type": "verb"
+    },
+    {
+        "Chinese": "钱",
+        "Thai": "เงิน",
+        "phonetic": "Ngein",
+        "English": "ngern",
+        "type": "noun"
+    },
+    {
+        "Chinese": "朋友",
+        "Thai": "เพื่อน",
+        "phonetic": "Pheụ̄̀xn",
+        "English": "phuan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "跑",
+        "Thai": "วิ่ง",
+        "phonetic": "Wìng",
+        "English": "wing",
+        "type": "verb"
+    },
+    {
+        "Chinese": "买",
+        "Thai": "ซื้อ",
+        "phonetic": "Sụ̄̂x",
+        "English": "svv",
+        "type": "verb"
+    },
+    {
+        "Chinese": "食物",
+        "Thai": "อาหาร",
+        "phonetic": "Xāh̄ār",
+        "English": "?aahaan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "学校",
+        "Thai": "โรงเรียน",
+        "phonetic": "Rongreīyn",
+        "English": "roongrian",
+        "type": "noun"
+    },
+    {
+        "Chinese": "路",
+        "Thai": "ถนน",
+        "phonetic": "T̄hnn",
+        "English": "thanon",
+        "type": "noun"
+    },
+    {
+        "Chinese": "漂亮",
+        "Thai": "สวย",
+        "phonetic": "S̄wy",
+        "English": "suay",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "辣",
+        "Thai": "เผ็ด",
+        "phonetic": "P̄hĕd",
+        "English": "phet",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "甜",
+        "Thai": "หวาน",
+        "phonetic": "H̄wān",
+        "English": "waan",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "咸",
+        "Thai": "เค็ม",
+        "phonetic": "Khĕm",
+        "English": "khem",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "酸",
+        "Thai": "เปรี้ยว",
+        "phonetic": "Perī̂yw",
+        "English": "priaw",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "苦",
+        "Thai": "ขม",
+        "phonetic": "K̄hm",
+        "English": "kham",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "热",
+        "Thai": "ร้อน",
+        "phonetic": "R̂xn",
+        "English": "rauaun",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "凉",
+        "Thai": "เย็น",
+        "phonetic": "Yĕn",
+        "English": "yen",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "河",
+        "Thai": "แม่น้ำ",
+        "phonetic": "Mæ̀n̂ả",
+        "English": "meenaan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "药",
+        "Thai": "ยา",
+        "phonetic": "Yā",
+        "English": "yaak",
+        "type": "noun"
+    },
+    {
+        "Chinese": "我们",
+        "Thai": "เรา",
+        "phonetic": "Reā",
+        "English": "raw",
+        "type": "pronoun"
+    },
+    {
+        "Chinese": "他们",
+        "Thai": "พวกเขา",
+        "phonetic": "Phwk k̄heā",
+        "English": "phuak khaw",
+        "type": "pronoun"
+    },
+    {
+        "Chinese": "它",
+        "Thai": "มัน",
+        "phonetic": "Mạn",
+        "English": "man",
+        "type": "pronoun"
+    },
+    {
+        "Chinese": "语言",
+        "Thai": "ภาษา",
+        "phonetic": "P̣hās̄ʹā",
+        "English": "phaasaa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "榴莲",
+        "Thai": "ทุเรียน",
+        "phonetic": "Thureīyn",
+        "English": "thurian",
+        "type": "noun"
+    },
+    {
+        "Chinese": "学习",
+        "Thai": "เรียน",
+        "phonetic": "Reīyn",
+        "English": "rian",
+        "type": "verb"
+    },
+    {
+        "Chinese": "说话",
+        "Thai": "พูด",
+        "phonetic": "Phūd",
+        "English": "phuut",
+        "type": "verb"
+    },
+    {
+        "Chinese": "好吃",
+        "Thai": "อร่อย",
+        "phonetic": "Xr̀xy",
+        "English": "?arauy",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "便宜的",
+        "Thai": "ถูก",
+        "phonetic": "T̄hūk",
+        "English": "thuuk4",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "读",
+        "Thai": "อ่าน",
+        "phonetic": "X̀ān",
+        "English": "?an",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "大",
+        "Thai": "ใหญ่",
+        "phonetic": "H̄ıỵ̀",
+        "English": "ya4y",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "小",
+        "Thai": "เล็ก",
+        "phonetic": "Lĕk",
+        "English": "lek",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "洗手间",
+        "Thai": "ห้องน้ำ",
+        "phonetic": "H̄̂xngn̂ả",
+        "English": "haung naam",
+        "type": "noun"
+    },
+    {
+        "Chinese": "练习",
+        "Thai": "ฝึกฝน",
+        "phonetic": "F̄ụk",
+        "English": "fvk",
+        "type": "verb"
+    },
+    {
+        "Chinese": "听",
+        "Thai": "ฟัง",
+        "phonetic": "Fạng",
+        "English": "fang",
+        "type": "verb"
+    },
+    {
+        "Chinese": "写",
+        "Thai": "เขียน",
+        "phonetic": "K̄heīyn",
+        "English": "khian",
+        "type": "verb"
+    },
+    {
+        "Chinese": "明白",
+        "Thai": "เข้าใจ",
+        "phonetic": "K̄hêācı",
+        "English": "khawjay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "问题",
+        "Thai": "คำถาม",
+        "phonetic": "Khảt̄hām",
+        "English": "khamthaam",
+        "type": "noun"
+    },
+    {
+        "Chinese": "准备",
+        "Thai": "พร้อม",
+        "phonetic": "Phr̂xm",
+        "English": "phraum",
+        "type": "verb"
+    },
+    {
+        "Chinese": "结束",
+        "Thai": "เสร็จ",
+        "phonetic": "S̄er̆c",
+        "English": "set",
+        "type": "verb"
+    },
+    {
+        "Chinese": "接下来",
+        "Thai": "ต่อไป",
+        "phonetic": "T̀x pị",
+        "English": "taupay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "谢谢",
+        "Thai": "ขอบคุณ",
+        "phonetic": "K̄hxbkhuṇ",
+        "English": "khaupkhun",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "对不起",
+        "Thai": "ขอโทษ",
+        "phonetic": "K̄hxthos̄ʹ",
+        "English": "khauthoot",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "现在",
+        "Thai": "ตอนนี้",
+        "phonetic": "Txn nī̂",
+        "English": "taunnii",
+        "type": "prep"
+    },
+    {
+        "Chinese": "开",
+        "Thai": "เปิด",
+        "phonetic": "Peid",
+        "English": "pert",
+        "type": "verb"
+    },
+    {
+        "Chinese": "...了没",
+        "Thai": "รือยัง",
+        "phonetic": "Rụ̄x yạng",
+        "English": "rv yang",
+        "type": "prep"
+    },
+    {
+        "Chinese": "还没",
+        "Thai": "ยังไม่",
+        "phonetic": "Yạng may",
+        "English": "yang may",
+        "type": "prep"
+    },
+    {
+        "Chinese": "关",
+        "Thai": "ปิด",
+        "phonetic": "Pid",
+        "English": "pit",
+        "type": "verb"
+    },
+    {
+        "Chinese": "将会",
+        "Thai": "จะ",
+        "phonetic": "Ca",
+        "English": "ja",
+        "type": "prep"
+    },
+    {
+        "Chinese": "第1日",
+        "Thai": "วันที่ 1",
+        "phonetic": "Wạn thī̀ 1",
+        "English": "wan thii 1",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "费用",
+        "Thai": "ค่า",
+        "phonetic": "Kh̀ā",
+        "English": "khaa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "数字",
+        "Thai": "ตัวเลข",
+        "phonetic": "Tạwlek̄h",
+        "English": "tualeek",
+        "type": "noun"
+    },
+    {
+        "Chinese": "到",
+        "Thai": "ถึง",
+        "phonetic": "T̄hụng",
+        "English": "thvng",
+        "type": "verb"
+    },
+    {
+        "Chinese": "零",
+        "Thai": "ศูนย์",
+        "phonetic": "Ṣ̄ūny̒",
+        "English": "suun",
+        "type": "number"
+    },
+    {
+        "Chinese": "一",
+        "Thai": "หนึ่ง",
+        "phonetic": "H̄nụ̀ng",
+        "English": "nvng",
+        "type": "number"
+    },
+    {
+        "Chinese": "二",
+        "Thai": "สอง",
+        "phonetic": "S̄xng",
+        "English": "saung",
+        "type": "number"
+    },
+    {
+        "Chinese": "三",
+        "Thai": "สาม",
+        "phonetic": "S̄ām",
+        "English": "saam",
+        "type": "number"
+    },
+    {
+        "Chinese": "四",
+        "Thai": "สี่",
+        "phonetic": "S̄ī̀",
+        "English": "sii",
+        "type": "number"
+    },
+    {
+        "Chinese": "五",
+        "Thai": "ห้า",
+        "phonetic": "H̄̂ā",
+        "English": "haa",
+        "type": "number"
+    },
+    {
+        "Chinese": "六",
+        "Thai": "หก",
+        "phonetic": "H̄k",
+        "English": "hok",
+        "type": "number"
+    },
+    {
+        "Chinese": "七",
+        "Thai": "เจ็ด",
+        "phonetic": "Cĕd",
+        "English": "jet",
+        "type": "number"
+    },
+    {
+        "Chinese": "八",
+        "Thai": "แปด",
+        "phonetic": "Pæd",
+        "English": "peet",
+        "type": "number"
+    },
+    {
+        "Chinese": "九",
+        "Thai": "เก้า",
+        "phonetic": "Kêā",
+        "English": "kaaw",
+        "type": "number"
+    },
+    {
+        "Chinese": "十",
+        "Thai": "สิบ",
+        "phonetic": "S̄ib",
+        "English": "sip",
+        "type": "number"
+    },
+    {
+        "Chinese": "十一",
+        "Thai": "สิบเอ็ด",
+        "phonetic": "S̄ib xĕd",
+        "English": "sip ?et",
+        "type": "number"
+    },
+    {
+        "Chinese": "二十一",
+        "Thai": "ยี่สิบเอ็ด",
+        "phonetic": "Yī̀s̄ib xĕd",
+        "English": "yii sip ?et",
+        "type": "number"
+    },
+    {
+        "Chinese": "百",
+        "Thai": "ร้อย",
+        "phonetic": "R̂xy",
+        "English": "rauy",
+        "type": "number"
+    },
+    {
+        "Chinese": "千",
+        "Thai": "พัน",
+        "phonetic": "Phạn",
+        "English": "phan",
+        "type": "number"
+    },
+    {
+        "Chinese": "万",
+        "Thai": "หมื่น",
+        "phonetic": "H̄mụ̄̀n",
+        "English": "mvvn",
+        "type": "number"
+    },
+    {
+        "Chinese": "十万",
+        "Thai": "แสน",
+        "phonetic": "S̄æn",
+        "English": "seen",
+        "type": "number"
+    },
+    {
+        "Chinese": "百万",
+        "Thai": "ล้าน",
+        "phonetic": "L̂ān",
+        "English": "laan",
+        "type": "number"
+    },
+    {
+        "Chinese": "车",
+        "Thai": "รถ",
+        "phonetic": "Rt̄h",
+        "English": "rot",
+        "type": "noun"
+    },
+    {
+        "Chinese": "价格",
+        "Thai": "ราคา",
+        "phonetic": "Rākhā",
+        "English": "raakhaa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "多少",
+        "Thai": "เท่าไหร่",
+        "phonetic": "Thèā h̄ịr̀",
+        "English": "thawray",
+        "type": "noun"
+    },
+    {
+        "Chinese": "了",
+        "Thai": "แล้ว",
+        "phonetic": "Læ̂w",
+        "English": "l33w",
+        "type": "prep"
+    },
+    {
+        "Chinese": "电",
+        "Thai": "ไฟฟ้า",
+        "phonetic": "Fịf̂ā",
+        "English": "fay faa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "餐饮",
+        "Thai": "อาหาร",
+        "phonetic": "Xāh̄ār",
+        "English": "?aahaan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "今天",
+        "Thai": "วันนี้",
+        "phonetic": "Wạn nī̂",
+        "English": "wan ni",
+        "type": "time"
+    },
+    {
+        "Chinese": "几点",
+        "Thai": "กี่โมง",
+        "phonetic": "Kī̀ mong",
+        "English": "kii moong",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "现在",
+        "Thai": "ตอนนี้",
+        "phonetic": "Txn nī̂",
+        "English": "taun nii",
+        "type": "time"
+    },
+    {
+        "Chinese": "半",
+        "Thai": "ครึ่ง",
+        "phonetic": "Khrụ̀ng",
+        "English": "khrvng",
+        "type": "noun"
+    },
+    {
+        "Chinese": "早上",
+        "Thai": "เช้า",
+        "phonetic": "Chêā",
+        "English": "chaaw",
+        "type": "time"
+    },
+    {
+        "Chinese": "下午",
+        "Thai": "บ่าย",
+        "phonetic": "B̀āy",
+        "English": "baay",
+        "type": "time"
+    },
+    {
+        "Chinese": "然后",
+        "Thai": "แล้วก็",
+        "phonetic": "Læ̂w k̆",
+        "English": "l33w kau",
+        "type": "conjunction"
+    },
+    {
+        "Chinese": "一起",
+        "Thai": "ด้วยกัน",
+        "phonetic": "D̂wy kạn",
+        "English": "duaykan",
+        "type": "adverb"
+    },
+    {
+        "Chinese": "下课",
+        "Thai": "เลิกเรียน",
+        "phonetic": "Leik reīyn",
+        "English": "lerk rian",
+        "type": "verb"
+    },
+    {
+        "Chinese": "中午",
+        "Thai": "เที่ยง",
+        "phonetic": "Theī̀yng",
+        "English": "thiang",
+        "type": "time"
+    },
+    {
+        "Chinese": "时候",
+        "Thai": "ตอน",
+        "phonetic": "Txn",
+        "English": "taun",
+        "type": "noun"
+    },
+    {
+        "Chinese": "傍晚",
+        "Thai": "เย็น",
+        "phonetic": "Yĕn",
+        "English": "yen",
+        "type": "time"
+    },
+    {
+        "Chinese": "夜晚",
+        "Thai": "กลางคืน",
+        "phonetic": "Klāngkhụ̄n",
+        "English": "klaang khvvn",
+        "type": "time"
+    },
+    {
+        "Chinese": "白天",
+        "Thai": "กลางวัน",
+        "phonetic": "klāngwạn",
+        "English": "klaang wan",
+        "type": "time"
+    },
+    {
+        "Chinese": "晚上",
+        "Thai": "ค่ำ",
+        "phonetic": "Kh̀ả",
+        "English": "kham",
+        "type": "time"
+    },
+    {
+        "Chinese": "深夜",
+        "Thai": "ดึก",
+        "phonetic": "Dụk",
+        "English": "dvk",
+        "type": "time"
+    },
+    {
+        "Chinese": "洗澡",
+        "Thai": "อาบน้ำ",
+        "phonetic": "Xāb n̂ả",
+        "English": "?aap naam",
+        "type": "verb"
+    },
+    {
+        "Chinese": "分钟",
+        "Thai": "นาที",
+        "phonetic": "Nāthī",
+        "English": "naathii",
+        "type": "time"
+    },
+    {
+        "Chinese": "早上6点",
+        "Thai": "6 โมงเช้า",
+        "phonetic": "6 Mong chêā",
+        "English": "hok mong chaaw",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "傍晚4点",
+        "Thai": "4 โมงเย็น",
+        "phonetic": "4 Mong yĕn",
+        "English": "si mong yen",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "大概",
+        "Thai": "บางที",
+        "phonetic": "Bāngthī",
+        "English": "pramaan",
+        "type": "prep"
+    },
+    {
+        "Chinese": "小时",
+        "Thai": "ชั่วโมง",
+        "phonetic": "Chạ̀wmong",
+        "English": "chvamoong",
+        "type": "time"
+    },
+    {
+        "Chinese": "秒钟",
+        "Thai": "วินาที",
+        "phonetic": "Wināthī",
+        "English": "wi naa thii",
+        "type": "time"
+    },
+    {
+        "Chinese": "有",
+        "Thai": "มี",
+        "phonetic": "Mī",
+        "English": "mii",
+        "type": "verb"
+    },
+    {
+        "Chinese": "睡",
+        "Thai": "นอน",
+        "phonetic": "Nxn",
+        "English": "naun",
+        "type": "verb"
+    },
+    {
+        "Chinese": "起床",
+        "Thai": "ลุก",
+        "phonetic": "Luk",
+        "English": "luk",
+        "type": "verb"
+    },
+    {
+        "Chinese": "回家",
+        "Thai": "กลับบ้าน",
+        "phonetic": "Klạb b̂ān",
+        "English": "klab baan",
+        "type": "verb"
+    },
+    {
+        "Chinese": "早饭",
+        "Thai": "ข้าวเช้า",
+        "phonetic": "K̄ĥāw chêā",
+        "English": "khaaw chaaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "洗手",
+        "Thai": "ล้างมือ",
+        "phonetic": "L̂āngmụ̄x",
+        "English": "laang mvv",
+        "type": "verb"
+    },
+    {
+        "Chinese": "洗脸",
+        "Thai": "ล้างหน้า",
+        "phonetic": "L̂āng h̄n̂ā",
+        "English": "laang naa",
+        "type": "verb"
+    },
+    {
+        "Chinese": "洗菜",
+        "Thai": "ล้างผัก",
+        "phonetic": "L̂āng p̄hạk",
+        "English": "laang phak",
+        "type": "verb"
+    },
+    {
+        "Chinese": "开会",
+        "Thai": "ประชุม",
+        "phonetic": "Prachum",
+        "English": "pra chum",
+        "type": "verb"
+    },
+    {
+        "Chinese": "洗衣服",
+        "Thai": "ซักผ้า",
+        "phonetic": "Sạk p̄ĥā",
+        "English": "sak phaa",
+        "type": "verb"
+    },
+    {
+        "Chinese": "店铺",
+        "Thai": "ร้าน",
+        "phonetic": "R̂ān",
+        "English": "raan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "鞋",
+        "Thai": "รองเท้า",
+        "phonetic": "Rxngthêā",
+        "English": "raungthaaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "碗",
+        "Thai": "ชาม",
+        "phonetic": "Chām",
+        "English": "jaan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "被子",
+        "Thai": "ผ้าห่ม",
+        "phonetic": "P̄ĥāh̄̀m",
+        "English": "phaahom",
+        "type": "noun"
+    },
+    {
+        "Chinese": "衬衫",
+        "Thai": "เสื้",
+        "phonetic": "S̄eụ̄̂",
+        "English": "sva",
+        "type": "noun"
+    },
+    {
+        "Chinese": "裤子",
+        "Thai": "กางเกง",
+        "phonetic": "Kāngkeng",
+        "English": "kaangkeeng",
+        "type": "noun"
+    },
+    {
+        "Chinese": "裙子",
+        "Thai": "กระโปรง",
+        "phonetic": "Kraporng",
+        "English": "kra proong",
+        "type": "noun"
+    },
+    {
+        "Chinese": "一些",
+        "Thai": "บาง",
+        "phonetic": "Bāng",
+        "English": "baang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "昨天",
+        "Thai": "เมื่อวานนี้",
+        "phonetic": "Meụ̄̀x wān nī̂",
+        "English": "mva waan nii",
+        "type": "time"
+    },
+    {
+        "Chinese": "吃了一些东西",
+        "Thai": "กินอะไรบาง",
+        "phonetic": "Kin xarị bāng",
+        "English": "kin ?aray baang",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "看到",
+        "Thai": "ดู",
+        "phonetic": "Dū",
+        "English": "duu",
+        "type": "verb"
+    },
+    {
+        "Chinese": "在...地",
+        "Thai": "ที่",
+        "phonetic": "Thī̀",
+        "English": "thi",
+        "type": "prep"
+    },
+    {
+        "Chinese": "停...动作",
+        "Thai": "หยุด",
+        "phonetic": "H̄yud",
+        "English": "yut",
+        "type": "verb"
+    },
+    {
+        "Chinese": "跑步",
+        "Thai": "วิ่ง",
+        "phonetic": "Wìng",
+        "English": "wing",
+        "type": "verb"
+    },
+    {
+        "Chinese": "里面",
+        "Thai": "ใน",
+        "phonetic": "Nı",
+        "English": "nay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "公园",
+        "Thai": "สวน",
+        "phonetic": "S̄wn",
+        "English": "suan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "星期日",
+        "Thai": "วันอาทิตย์",
+        "phonetic": "Wạn xāthity̒",
+        "English": "wan ?aathit",
+        "type": "time"
+    },
+    {
+        "Chinese": "星期一",
+        "Thai": "วันจันทร์",
+        "phonetic": "Wạn cạnthr̒",
+        "English": "wan jan",
+        "type": "time"
+    },
+    {
+        "Chinese": "星期二",
+        "Thai": "วันอังคาร",
+        "phonetic": "Wạn xạngkhār",
+        "English": "wan ?ang khan",
+        "type": "time"
+    },
+    {
+        "Chinese": "星期三",
+        "Thai": "วันพุธ",
+        "phonetic": "Wạn phuṭh",
+        "English": "wan phut",
+        "type": "time"
+    },
+    {
+        "Chinese": "星期四",
+        "Thai": "วันพฤหัสบดี",
+        "phonetic": "Wạn phvh̄ạs̄bdī",
+        "English": "wan pharuhat(sabaudii)",
+        "type": "time"
+    },
+    {
+        "Chinese": "星期五",
+        "Thai": "วันศุกร์",
+        "phonetic": "Wạn ṣ̄ukr̒",
+        "English": "wan suk",
+        "type": "time"
+    },
+    {
+        "Chinese": "星期六",
+        "Thai": "วันเสาร์",
+        "phonetic": "Wạn s̄eār̒",
+        "English": "wan saw",
+        "type": "time"
+    },
+    {
+        "Chinese": "等待",
+        "Thai": "หยุรอ",
+        "phonetic": "H̄yu rx",
+        "English": "yut rau",
+        "type": "verb"
+    },
+    {
+        "Chinese": "红色（周日）",
+        "Thai": "สีแดง",
+        "phonetic": "S̄ī dæng",
+        "English": "sii d33ng",
+        "type": "color"
+    },
+    {
+        "Chinese": "黄色（周一）",
+        "Thai": "เหลือง",
+        "phonetic": "H̄elụ̄xng",
+        "English": "lvng",
+        "type": "color"
+    },
+    {
+        "Chinese": "粉色（周二）",
+        "Thai": "สีชมพู",
+        "phonetic": "S̄īchmphū",
+        "English": "sii chomphuu",
+        "type": "color"
+    },
+    {
+        "Chinese": "绿色（周三）",
+        "Thai": "สีเขียว",
+        "phonetic": "S̄ī k̄heīyw",
+        "English": "sii khiaw",
+        "type": "color"
+    },
+    {
+        "Chinese": "橙色（周四·）",
+        "Thai": "สีส้ม",
+        "phonetic": "S̄ī s̄̂m",
+        "English": "sii som",
+        "type": "color"
+    },
+    {
+        "Chinese": "天蓝色（周五）",
+        "Thai": "สีฟ้า",
+        "phonetic": "S̄ī f̂ā",
+        "English": "sii faa",
+        "type": "color"
+    },
+    {
+        "Chinese": "紫色（周六）",
+        "Thai": "สีม่วง",
+        "phonetic": "S̄ī m̀wng",
+        "English": "sii muang",
+        "type": "color"
+    },
+    {
+        "Chinese": "昨天",
+        "Thai": "เมื่อวานนี้",
+        "phonetic": "Meụ̄̀x wān nī̂",
+        "English": "mva waan nii",
+        "type": "time"
+    },
+    {
+        "Chinese": "明天",
+        "Thai": "พรุ่งนี้",
+        "phonetic": "Phrùngnī̂",
+        "English": "phrung nii",
+        "type": "time"
+    },
+    {
+        "Chinese": "后天",
+        "Thai": "วันมะรืนนี้",
+        "phonetic": "Wạn marụ̄n nī̂",
+        "English": "wan mvan nii",
+        "type": "time"
+    },
+    {
+        "Chinese": "再两天（后天）",
+        "Thai": "อีกสองวัน",
+        "phonetic": "Xīk s̄xng wạn",
+        "English": "?iik 2 wan",
+        "type": "time"
+    },
+    {
+        "Chinese": "2天前(前天)",
+        "Thai": "2 วันที่แล้ว",
+        "phonetic": "2 Wạn thī̀ læ̂w",
+        "English": "2 wan thi l33w",
+        "type": "time"
+    },
+    {
+        "Chinese": "周末",
+        "Thai": "วันเสารอาทิตย์",
+        "phonetic": "Wạn s̄eār̒ xāthity̒",
+        "English": "wan saw  ?aathit",
+        "type": "time"
+    },
+    {
+        "Chinese": "这周",
+        "Thai": "อาทิตย์นี้",
+        "phonetic": "Xāthity̒ nī̂",
+        "English": "?aathit nii",
+        "type": "time"
+    },
+    {
+        "Chinese": "上星期",
+        "Thai": "อาทิตย์ที่แล้ว",
+        "phonetic": "Xāthity̒ thī̀ læ̂w",
+        "English": "?aathit thiil33w",
+        "type": "time"
+    },
+    {
+        "Chinese": "下星期",
+        "Thai": "อาทิตย์หน้า",
+        "phonetic": "Xāthity̒ h̄n̂ā",
+        "English": "?aathit naa",
+        "type": "time"
+    },
+    {
+        "Chinese": "每天",
+        "Thai": "ทุกวัน",
+        "phonetic": "Thuk wạn",
+        "English": "thuk wan",
+        "type": "time"
+    },
+    {
+        "Chinese": "星期",
+        "Thai": "สัปดาห์",
+        "phonetic": "S̄ạpdāh̄̒",
+        "English": "sap daa",
+        "type": "time"
+    },
+    {
+        "Chinese": "每周",
+        "Thai": "ทุกอาทิตย์",
+        "phonetic": "Thuk xāthity̒",
+        "English": "thuk ?aathit",
+        "type": "time"
+    },
+    {
+        "Chinese": "平日",
+        "Thai": "วันธรรมดา",
+        "phonetic": "Wạn ṭhrrmdā",
+        "English": "wan tham ma daa",
+        "type": "time"
+    },
+    {
+        "Chinese": "假期",
+        "Thai": "วันหยุด",
+        "phonetic": "Wạn h̄yud",
+        "English": "wan yut",
+        "type": "time"
+    },
+    {
+        "Chinese": "工作日",
+        "Thai": "วันทำงาน",
+        "phonetic": "Wạn thảngān",
+        "English": "wan thangan",
+        "type": "time"
+    },
+    {
+        "Chinese": "日期",
+        "Thai": "วันที่",
+        "phonetic": "Wạn thī̀",
+        "English": "wan thi",
+        "type": "noun"
+    },
+    {
+        "Chinese": "今天几号",
+        "Thai": "วันนี้วันที่เท่าไหร่?",
+        "phonetic": "Wạn nī̂ wạn thī̀ thèā h̄ịr̀?",
+        "English": "wan nii wan thi thawray",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "今天星期几",
+        "Thai": "วันนี้วันอะไร?",
+        "phonetic": "Wạn nī̂ wạn xarị?",
+        "English": "wan ni wan ?aray",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "和...一起",
+        "Thai": "กับ",
+        "phonetic": "Kạb",
+        "English": "kap",
+        "type": "prep"
+    },
+    {
+        "Chinese": "周一到周五",
+        "Thai": "วันจันทร์ถึงวันศุกร์",
+        "phonetic": "Wạn cạnthr̒ t̄hụng wạn ṣ̄ukr̒",
+        "English": "wan jan thvng suk",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "出生",
+        "Thai": "เกิด",
+        "phonetic": "Keid",
+        "English": "kert",
+        "type": "verb"
+    },
+    {
+        "Chinese": "看电影",
+        "Thai": "ดูหนัง",
+        "phonetic": "Dū h̄nạng",
+        "English": "duu nang",
+        "type": "verb"
+    },
+    {
+        "Chinese": "锻炼",
+        "Thai": "ออกกำลังกาย",
+        "phonetic": "Xxkkảlạng kāy",
+        "English": "?auk kam lang kaay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "身体",
+        "Thai": "กาย",
+        "phonetic": "Kāy",
+        "English": "kaay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "博物馆",
+        "Thai": "พิพิธภัณฑ์",
+        "phonetic": "Phiphiṭhp̣hạṇṯh̒",
+        "English": "phi phit ta phan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "图书馆",
+        "Thai": "ห้องสมุด",
+        "phonetic": "H̄̂xngs̄mud",
+        "English": "haung samut",
+        "type": "noun"
+    },
+    {
+        "Chinese": "房间",
+        "Thai": "ห้อง",
+        "phonetic": "H̄̂xng",
+        "English": "haung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "笔记本",
+        "Thai": "สมุด",
+        "phonetic": "S̄mud",
+        "English": "samut",
+        "type": "noun"
+    },
+    {
+        "Chinese": "游泳",
+        "Thai": "ว่ายน้ำ",
+        "phonetic": "Ẁāy n̂ả",
+        "English": "waay naam",
+        "type": "verb"
+    },
+    {
+        "Chinese": "泰国",
+        "Thai": "เมืองไทย",
+        "phonetic": "Meụ̄xng thịy",
+        "English": "mvang thai",
+        "type": "noun"
+    },
+    {
+        "Chinese": "月份",
+        "Thai": "เดือน",
+        "phonetic": "Deụ̄xn",
+        "English": "dvan",
+        "type": "time"
+    },
+    {
+        "Chinese": "年",
+        "Thai": "ปี",
+        "phonetic": "Pī",
+        "English": "pii",
+        "type": "time"
+    },
+    {
+        "Chinese": "宋干节",
+        "Thai": "สงกรานต์",
+        "phonetic": "S̄ngkrānt̒",
+        "English": "songkraan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "开始",
+        "Thai": "เริ่ม",
+        "phonetic": "Reìm",
+        "English": "rerm",
+        "type": "verb"
+    },
+    {
+        "Chinese": "刚",
+        "Thai": "เพิ่ง",
+        "phonetic": "Pheìng",
+        "English": "pherng",
+        "type": "adverb"
+    },
+    {
+        "Chinese": "一月份",
+        "Thai": "มกราคม",
+        "phonetic": "Mkrākhm",
+        "English": "ma ka raa khom",
+        "type": "time"
+    },
+    {
+        "Chinese": "二月份",
+        "Thai": "กุมภาพันธ์",
+        "phonetic": "Kump̣hāphạnṭh̒",
+        "English": "kum phaa phan",
+        "type": "time"
+    },
+    {
+        "Chinese": "三月份",
+        "Thai": "มีนาคม",
+        "phonetic": "Mīnākhm",
+        "English": "mii naa khom",
+        "type": "time"
+    },
+    {
+        "Chinese": "四月份",
+        "Thai": "เมษายน",
+        "phonetic": "Mes̄ʹāyn",
+        "English": "mee saa yon",
+        "type": "time"
+    },
+    {
+        "Chinese": "五月",
+        "Thai": "พฤษภาคม",
+        "phonetic": "Phvs̄ʹp̣hākhm",
+        "English": "phvt sa phaa khom",
+        "type": "time"
+    },
+    {
+        "Chinese": "六月",
+        "Thai": "มิถุนายน",
+        "phonetic": "Mit̄hunāyn",
+        "English": "mi thu naa yon",
+        "type": "time"
+    },
+    {
+        "Chinese": "七月",
+        "Thai": "กรกฎาคม",
+        "phonetic": "Krkḍākhm",
+        "English": "ka ra ka daa khom",
+        "type": "time"
+    },
+    {
+        "Chinese": "八月",
+        "Thai": "สิงหาคม",
+        "phonetic": "S̄ingh̄ākhm",
+        "English": "sing haa khom",
+        "type": "time"
+    },
+    {
+        "Chinese": "九月",
+        "Thai": "กันยายน",
+        "phonetic": "Kạnyāyn",
+        "English": "kan yaa yon",
+        "type": "time"
+    },
+    {
+        "Chinese": "十月",
+        "Thai": "ตุลาคม",
+        "phonetic": "Tulākhm",
+        "English": "tu laa khom",
+        "type": "time"
+    },
+    {
+        "Chinese": "十一月",
+        "Thai": "พฤศจิกายน",
+        "phonetic": "Phvṣ̄cikāyn",
+        "English": "phrvt sa ji kaa yon",
+        "type": "time"
+    },
+    {
+        "Chinese": "十二月",
+        "Thai": "ธันวาคม",
+        "phonetic": "Ṭhạnwākhm",
+        "English": "than waa khom",
+        "type": "time"
+    },
+    {
+        "Chinese": "月初",
+        "Thai": "ต้นเดือน",
+        "phonetic": "T̂n deụ̄xn",
+        "English": "taun dvan",
+        "type": "time"
+    },
+    {
+        "Chinese": "月中",
+        "Thai": "กลางเดือน",
+        "phonetic": "Klāngdeụ̄xn",
+        "English": "klang dvan",
+        "type": "time"
+    },
+    {
+        "Chinese": "月底",
+        "Thai": "สิ้นเดือน",
+        "phonetic": "S̄în deụ̄xn",
+        "English": "sin dvan",
+        "type": "time"
+    },
+    {
+        "Chinese": "一月初",
+        "Thai": "ต้นเดือนมกราคม",
+        "phonetic": "T̂n deụ̄xn mkrākhm",
+        "English": "taun dvan ma ka raa khom",
+        "type": "time"
+    },
+    {
+        "Chinese": "厉害",
+        "Thai": "คม",
+        "phonetic": "Khm",
+        "English": "keng",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "居住",
+        "Thai": "อยู่",
+        "phonetic": "Xyū̀",
+        "English": "yuu",
+        "type": "verb"
+    },
+    {
+        "Chinese": "很",
+        "Thai": "มาก",
+        "phonetic": "Māk",
+        "English": "maak",
+        "type": "adverb"
+    },
+    {
+        "Chinese": "时间长的",
+        "Thai": "นาน",
+        "phonetic": "Nān",
+        "English": "naan",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "自从",
+        "Thai": "ตั้งแต่",
+        "phonetic": "Tậngtæ̀",
+        "English": "tangt33",
+        "type": "prep"
+    },
+    {
+        "Chinese": "去年",
+        "Thai": "ปีที่แล้ว",
+        "phonetic": "Pī thī̀ læ̂w",
+        "English": "pii thiil33w",
+        "type": "time"
+    },
+    {
+        "Chinese": "下个月",
+        "Thai": "เดือนหน้า",
+        "phonetic": "Deụ̄xn h̄n̂ā",
+        "English": "dvan naa",
+        "type": "time"
+    },
+    {
+        "Chinese": "再2年",
+        "Thai": "อีก 2 ปี",
+        "phonetic": "Xīk 2 pī",
+        "English": "?iik 2 pi",
+        "type": "time"
+    },
+    {
+        "Chinese": "2年前",
+        "Thai": "2 ปีที่แล้ว",
+        "phonetic": "2 Pī thī̀ læ̂w",
+        "English": "2 pii thi l33w",
+        "type": "time"
+    },
+    {
+        "Chinese": "打开",
+        "Thai": "เปิด",
+        "phonetic": "Peid",
+        "English": "pert",
+        "type": "verb"
+    },
+    {
+        "Chinese": "海",
+        "Thai": "ทะเล",
+        "phonetic": "Thale",
+        "English": "thalee",
+        "type": "noun"
+    },
+    {
+        "Chinese": "将会",
+        "Thai": "จะ",
+        "phonetic": "Ca",
+        "English": "ja",
+        "type": "adverb"
+    },
+    {
+        "Chinese": "闲暇时间",
+        "Thai": "ว่าง",
+        "phonetic": "Ẁāng",
+        "English": "waang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "忙",
+        "Thai": "ยุ่ง",
+        "phonetic": "Yùng",
+        "English": "yung",
+        "type": "verb"
+    },
+    {
+        "Chinese": "什么时候有空",
+        "Thai": "วางเมื่อไหร่?",
+        "phonetic": "Wāng meụ̄̀x h̄ịr̀?",
+        "English": "waang mva ray",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "什么时候",
+        "Thai": "เมื่อไหร่",
+        "phonetic": "Meụ̄̀x h̄ịr̀",
+        "English": "mva ray",
+        "type": "time"
+    },
+    {
+        "Chinese": "句子",
+        "Thai": "ประโยค",
+        "phonetic": "Prayokh",
+        "English": "prayook",
+        "type": "noun"
+    },
+    {
+        "Chinese": "问题",
+        "Thai": "คำถาม",
+        "phonetic": "Khảt̄hām",
+        "English": "khamthaam",
+        "type": "noun"
+    },
+    {
+        "Chinese": "贵吗",
+        "Thai": "แพงมั้ย?",
+        "phonetic": "Phæng mậy?",
+        "English": "ph33ng may",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "明白",
+        "Thai": "เข้าใจ",
+        "phonetic": "K̄hêācı",
+        "English": "khaw jay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "便宜的",
+        "Thai": "ถูก",
+        "phonetic": "T̄hūk",
+        "English": "thuk",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "是对的吗？",
+        "Thai": "ถูกมั้ย?",
+        "phonetic": "T̄hūk mậy?",
+        "English": "thuk may",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "错",
+        "Thai": "ผิด",
+        "phonetic": "P̄hid",
+        "English": "phit",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "快乐",
+        "Thai": "ความสุข",
+        "phonetic": "Khwām s̄uk̄h",
+        "English": "khwaan suk",
+        "type": "noun"
+    },
+    {
+        "Chinese": "臭",
+        "Thai": "หม็น",
+        "phonetic": "H̄m̆n",
+        "English": "men",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "香",
+        "Thai": "หอม",
+        "phonetic": "H̄xm",
+        "English": "haum",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "杯",
+        "Thai": "แก้ว",
+        "phonetic": "Kæ̂w",
+        "English": "k33w",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "瓶",
+        "Thai": "ขวด",
+        "phonetic": "K̄hwd",
+        "English": "khuat",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "盘",
+        "Thai": "จาน",
+        "phonetic": "Cān",
+        "English": "jaan",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "1对",
+        "Thai": "1คู่",
+        "phonetic": "1Khū̀",
+        "English": "khuu",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "30度",
+        "Thai": "30 องศา",
+        "phonetic": "30 Xngṣ̄ā",
+        "English": "?ong saa",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "天气",
+        "Thai": "ากาศ",
+        "phonetic": "Ākāṣ̄",
+        "English": "?aakaat",
+        "type": "noun"
+    },
+    {
+        "Chinese": "看到哪一个人？",
+        "Thai": "ดูคนไหน",
+        "phonetic": "Dū khn h̄ịn",
+        "English": "duu khon nay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "哪条路",
+        "Thai": "ทางไหน",
+        "phonetic": "Thāng h̄ịn",
+        "English": "thaang nay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "洗手间哪条路",
+        "Thai": "ห้องน้ำไปทางไหน?",
+        "phonetic": "H̄̂xngn̂ả pị thāng h̄ịn?",
+        "English": "hong naam pay thaang nay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "价格",
+        "Thai": "ราคา",
+        "phonetic": "Rākhā",
+        "English": "raa kha",
+        "type": "noun"
+    },
+    {
+        "Chinese": "椰子水",
+        "Thai": "น้ำมะพร้าว",
+        "phonetic": "N̂ả maphr̂āw",
+        "English": "naam ma phraaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "重",
+        "Thai": "หนัก",
+        "phonetic": "H̄nạk",
+        "English": "nak",
+        "type": "noun"
+    },
+    {
+        "Chinese": "大小",
+        "Thai": "ขนาด",
+        "phonetic": "K̄hnād",
+        "English": "kha naat",
+        "type": "noun"
+    },
+    {
+        "Chinese": "忘",
+        "Thai": "ลืม",
+        "phonetic": "Lụ̄m",
+        "English": "lvvn",
+        "type": "verb"
+    },
+    {
+        "Chinese": "高",
+        "Thai": "สูง",
+        "phonetic": "S̄ūng",
+        "English": "suung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "1台",
+        "Thai": "1 เครื่อง",
+        "phonetic": "1 kherụ̄̀xng",
+        "English": "khuang",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "冰箱",
+        "Thai": "ตู้เย็น",
+        "phonetic": "Tū̂ yĕn",
+        "English": "tuu yen",
+        "type": "noun"
+    },
+    {
+        "Chinese": "什么时候",
+        "Thai": "เมื่อไร",
+        "phonetic": "Meụ̄̀xrị",
+        "English": "mvaray",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "多少",
+        "Thai": "เท่าไหร่",
+        "phonetic": "Thèā h̄ịr̀",
+        "English": "thawray",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "出",
+        "Thai": "ออก",
+        "phonetic": "Xxk",
+        "English": "?auk",
+        "type": "verb"
+    },
+    {
+        "Chinese": "从",
+        "Thai": "จาก",
+        "phonetic": "Cāk",
+        "English": "jaak",
+        "type": "prep"
+    },
+    {
+        "Chinese": "不确定",
+        "Thai": "ไม่แน่นอน",
+        "phonetic": "Mị̀ næ̀nxn",
+        "English": "may n33 naun",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "数字",
+        "Thai": "เลข",
+        "phonetic": "Lek̄h",
+        "English": "leek",
+        "type": "noun"
+    },
+    {
+        "Chinese": "...什么",
+        "Thai": "อะไร",
+        "phonetic": "Xarị",
+        "English": "?aray",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "为什么...",
+        "Thai": "ทำไม",
+        "phonetic": "Thảmị",
+        "English": "thammay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "...在哪儿",
+        "Thai": "ที่ไหน",
+        "phonetic": "Thī̀h̄ịn",
+        "English": "thi nay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "...谁",
+        "Thai": "ใคร",
+        "phonetic": "Khır",
+        "English": "khray",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "...怎么",
+        "Thai": "ยังไง",
+        "phonetic": "Yạng ngị",
+        "English": "yang ngay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "曼谷",
+        "Thai": "กรุงเทพ",
+        "phonetic": "Krungtheph",
+        "English": "krung theep",
+        "type": "noun"
+    },
+    {
+        "Chinese": "好吃",
+        "Thai": "อร่อย",
+        "phonetic": "Xr̀xy",
+        "English": "?arauy",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "因为",
+        "Thai": "เพราะ",
+        "phonetic": "Pherāa",
+        "English": "phrau(+ waa)",
+        "type": "conjunction"
+    },
+    {
+        "Chinese": "起晚了",
+        "Thai": "ตื่นสาย",
+        "phonetic": "Tụ̄̀n s̄āy",
+        "English": "tvvn saay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "波罗蜜",
+        "Thai": "ขนุน",
+        "phonetic": "K̄hnun",
+        "English": "kha nun",
+        "type": "noun"
+    },
+    {
+        "Chinese": "卡住 堵(车)",
+        "Thai": "ติด",
+        "phonetic": "Tid",
+        "English": "tit",
+        "type": "verb"
+    },
+    {
+        "Chinese": "淹水",
+        "Thai": "น้ำท่วม",
+        "phonetic": "N̂ả th̀wm",
+        "English": "naam thuam",
+        "type": "verb"
+    },
+    {
+        "Chinese": "为什么迟到",
+        "Thai": "ทำไมสาย",
+        "phonetic": "Thảmị s̄āy",
+        "English": "Tham may saay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "孩子",
+        "Thai": "ลูก",
+        "phonetic": "Lūk",
+        "English": "luuk",
+        "type": "noun"
+    },
+    {
+        "Chinese": "还不知道",
+        "Thai": "ยังไม่รู้",
+        "phonetic": "Yạng mị̀rū̂",
+        "English": "yang may ruu",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "百货商店",
+        "Thai": "ห้าง",
+        "phonetic": "H̄̂āng",
+        "English": "haang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "你家在哪",
+        "Thai": "บ้านงคุณอยู่ที่ไหน",
+        "phonetic": "B̂ā nng khuṇ xyū̀ thī̀h̄ịn",
+        "English": "baan khun yuu thii nay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "机场",
+        "Thai": "สนามบิน",
+        "phonetic": "S̄nām bin",
+        "English": "sa naam bin",
+        "type": "noun"
+    },
+    {
+        "Chinese": "...和谁",
+        "Thai": "กับใคร",
+        "phonetic": "Kạb khır",
+        "English": "kap khray",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "一个人吃",
+        "Thai": "กินคนเดียว",
+        "phonetic": "Kin khn deīyw",
+        "English": "kin khon diaw",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "同事",
+        "Thai": "เพื่อนร่วมงาน",
+        "phonetic": "Pheụ̄̀xn r̀wm ngān",
+        "English": "phvan ruam ngaan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "感觉怎么样",
+        "Thai": "รู้สึกอย่างไร",
+        "phonetic": "Rū̂s̄ụk xỳāngrị",
+        "English": "ruu svk yangngay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "舒服的",
+        "Thai": "สบาย",
+        "phonetic": "S̄bāy",
+        "English": "sabaay",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "桌",
+        "Thai": "โต๊ะ",
+        "phonetic": "Tóa",
+        "English": "to",
+        "type": "noun"
+    },
+    {
+        "Chinese": "感觉",
+        "Thai": "รู้สึก",
+        "phonetic": "Rū̂s̄ụk",
+        "English": "ruusvk",
+        "type": "verb"
+    },
+    {
+        "Chinese": "下午",
+        "Thai": "บ่าย",
+        "phonetic": "bay",
+        "English": "baay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "啤酒",
+        "Thai": "เบียร์",
+        "phonetic": "Beīyr̒",
+        "English": "bia",
+        "type": "noun"
+    },
+    {
+        "Chinese": "慢慢",
+        "Thai": "ช้า",
+        "phonetic": "Cĥā",
+        "English": "chaaw",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "可以",
+        "Thai": "ได้",
+        "phonetic": "Dị̂",
+        "English": "daay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "走路",
+        "Thai": "เดิน",
+        "phonetic": "Dein",
+        "English": "dern",
+        "type": "verb"
+    },
+    {
+        "Chinese": "善良",
+        "Thai": "ใจดี",
+        "phonetic": "Cıdī",
+        "English": "jaydii",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "心",
+        "Thai": "ใจ",
+        "phonetic": "Cı",
+        "English": "jay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "吸烟",
+        "Thai": "สูบบุหรี่",
+        "phonetic": "S̄ūb buh̄rī̀",
+        "English": "suup burii",
+        "type": "verb"
+    },
+    {
+        "Chinese": "可以",
+        "Thai": "ได้",
+        "phonetic": "Dị̂",
+        "English": "daay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "出去",
+        "Thai": "ออกไป",
+        "phonetic": "Xxk pị",
+        "English": "?auk pay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "进来",
+        "Thai": "เข้ามา",
+        "phonetic": "K̄hêā mā",
+        "English": "khaw maa",
+        "type": "verb"
+    },
+    {
+        "Chinese": "借",
+        "Thai": "ยืม",
+        "phonetic": "Yụ̄m",
+        "English": "yvvm",
+        "type": "verb"
+    },
+    {
+        "Chinese": "换钱",
+        "Thai": "แลกเงิน",
+        "phonetic": "Læk ngein",
+        "English": "l33k ngern",
+        "type": "verb"
+    },
+    {
+        "Chinese": "菜单",
+        "Thai": "เมนู",
+        "phonetic": "Menū",
+        "English": "meenuu",
+        "type": "noun"
+    },
+    {
+        "Chinese": "用",
+        "Thai": "ใช้",
+        "phonetic": "Chı̂",
+        "English": "chay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "笔",
+        "Thai": "ปากกา",
+        "phonetic": "Pākkā",
+        "English": "paakkaa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "拍照",
+        "Thai": "ถ่ายรูป",
+        "phonetic": "T̄h̀āyrūp",
+        "English": "thaay ruup",
+        "type": "verb"
+    },
+    {
+        "Chinese": "文件",
+        "Thai": "เอกสาร",
+        "phonetic": "Xeks̄ār",
+        "English": "?eek ka saam",
+        "type": "noun"
+    },
+    {
+        "Chinese": "帮忙",
+        "Thai": "ช่วย",
+        "phonetic": "Ch̀wy",
+        "English": "chay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "一样的。",
+        "Thai": "ก็เหมือนกัน",
+        "phonetic": "K̆ h̄emụ̄xn kạn",
+        "English": "kau mvankan",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "没及时收听",
+        "Thai": "ฟังไม่ทัน",
+        "phonetic": "Fạng mị̀thạn",
+        "English": "fang may than",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "门",
+        "Thai": "ประตู",
+        "phonetic": "Pratū",
+        "English": "pratuu",
+        "type": "noun"
+    },
+    {
+        "Chinese": "鸡蛋",
+        "Thai": "ไข่",
+        "phonetic": "K̄hị̀",
+        "English": "Kay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "鸡",
+        "Thai": "ไก่",
+        "phonetic": "Kị̀",
+        "English": "khay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "电灯",
+        "Thai": "ไฟ",
+        "phonetic": "Fị",
+        "English": "fay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "大声",
+        "Thai": "ดัง",
+        "phonetic": "Dạng",
+        "English": "dang",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "单词",
+        "Thai": "คำ",
+        "phonetic": "Khả",
+        "English": "kham",
+        "type": "noun"
+    },
+    {
+        "Chinese": "包",
+        "Thai": "กระเป๋า",
+        "phonetic": "Krapěā",
+        "English": "krapaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "轻轻",
+        "Thai": "เบา ๆ",
+        "phonetic": "Beā «",
+        "English": "baw baw",
+        "type": "adverb"
+    },
+    {
+        "Chinese": "还给",
+        "Thai": "คืนให้",
+        "phonetic": "Khụ̄nh̄ı̂",
+        "English": "khvvn hay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "东西",
+        "Thai": "ของ",
+        "phonetic": "K̄hxng",
+        "English": "kaung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "一般甜",
+        "Thai": "ปกติก็หวาน.",
+        "phonetic": "Pkti k̆ h̄wān.",
+        "English": "pok ka ti wan",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "女人",
+        "Thai": "ผู้หญิง",
+        "phonetic": "P̄hū̂ h̄ỵing",
+        "English": "phuuying",
+        "type": "noun"
+    },
+    {
+        "Chinese": "男人",
+        "Thai": "ผู้ชาย",
+        "phonetic": "P̄hū̂chāy",
+        "English": "phuuchaay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "每一个",
+        "Thai": "ทุกๆ",
+        "phonetic": "Thuk«",
+        "English": "thuk",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "里面",
+        "Thai": "ใน",
+        "phonetic": "Nı",
+        "English": "nay",
+        "type": "prep"
+    },
+    {
+        "Chinese": "课堂",
+        "Thai": "ห้องเรียน",
+        "phonetic": "H̄̂xngreīyn",
+        "English": "haung rian",
+        "type": "noun"
+    },
+    {
+        "Chinese": "房间",
+        "Thai": "ห้อง",
+        "phonetic": "H̄̂xng",
+        "English": "haung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "学生",
+        "Thai": "นักเรียน",
+        "phonetic": "Nạkreīyn",
+        "English": "nakrian",
+        "type": "noun"
+    },
+    {
+        "Chinese": "超过",
+        "Thai": "เกิน",
+        "phonetic": "Kein",
+        "English": "kern",
+        "type": "verb"
+    },
+    {
+        "Chinese": "全部",
+        "Thai": "ทั้งหมด",
+        "phonetic": "Thậngh̄md",
+        "English": "thangmot",
+        "type": "noun"
+    },
+    {
+        "Chinese": "全部多少",
+        "Thai": "ทั้งหมดเท่าไหร่ครับ",
+        "phonetic": "Thậngh̄md thèā h̄ịr̀ khrạb",
+        "English": "thangmot thaw ray",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "椅子",
+        "Thai": "เก้าอี้",
+        "phonetic": "Kêāxī̂",
+        "English": "kaaw ?ii",
+        "type": "noun"
+    },
+    {
+        "Chinese": "勺子",
+        "Thai": "ช้อน",
+        "phonetic": "Cĥxn",
+        "English": "chaun",
+        "type": "noun"
+    },
+    {
+        "Chinese": "叉子",
+        "Thai": "ส้อม",
+        "phonetic": "S̄̂xm",
+        "English": "saum",
+        "type": "noun"
+    },
+    {
+        "Chinese": "两把椅子",
+        "Thai": "เก้าอี้สองตัว",
+        "phonetic": "Kêāxī̂ s̄xng tạw",
+        "English": "tua",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "一个人",
+        "Thai": "หนึ่งคน",
+        "phonetic": "H̄nụ̀ng khn",
+        "English": "khon",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "三只猫",
+        "Thai": "แมวสามตัว",
+        "phonetic": "Mæw s̄ām tạw",
+        "English": "tua",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "猫",
+        "Thai": "แมว",
+        "phonetic": "Mæw",
+        "English": "m33w",
+        "type": "noun"
+    },
+    {
+        "Chinese": "五条鱼",
+        "Thai": "ปลาห้าตัว",
+        "phonetic": "Plā h̄̂ā tạw",
+        "English": "tua",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "伞",
+        "Thai": "ร่ม",
+        "phonetic": "R̀m",
+        "English": "raung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "两辆车",
+        "Thai": "รถสองคัน",
+        "phonetic": "Rt̄h s̄xng khạn",
+        "English": "khan",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "2把雨伞",
+        "Thai": "ร่ม2คัน",
+        "phonetic": "R̀m2khạn",
+        "English": "khan",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "4桌",
+        "Thai": "โต๊ะ 4 ตัว",
+        "phonetic": "Tóa 4 tạw",
+        "English": "tua",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "2栋房子",
+        "Thai": "บ้าน 2 หลัง",
+        "phonetic": "B̂ān 2 h̄lạng",
+        "English": "lang",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "五本书",
+        "Thai": "หนังสือห้าเล่ม",
+        "phonetic": "H̄nạngs̄ụ̄x h̄̂ā lèm",
+        "English": "lem",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两颗橙子",
+        "Thai": "ส้มสองลูก",
+        "phonetic": "S̄̂m s̄xng lūk",
+        "English": "luuk",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "三块榴莲",
+        "Thai": "ทุเรียนสามชิ้น",
+        "phonetic": "Thureīyn s̄ām chîn",
+        "English": "chin",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两台电脑",
+        "Thai": "คอมพิวเตอร์สองเครื่อง",
+        "phonetic": "Khxmphiwtexr̒ s̄xng kherụ̄̀xng",
+        "English": "khrvang",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "6串葡萄",
+        "Thai": "องุ่น 6 พวง",
+        "phonetic": "Xngùn 6 phwng",
+        "English": "phuang",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "葡萄",
+        "Thai": "องุ่น",
+        "phonetic": "Xngùn",
+        "English": "?angun",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两支笔",
+        "Thai": "ปากกาสองอัน",
+        "phonetic": "Pākkā s̄xng xạn",
+        "English": "?an",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "三杯水",
+        "Thai": "น้ำสามแก้ว",
+        "phonetic": "N̂ả s̄ām kæ̂w",
+        "English": "k33w",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "四盘菜",
+        "Thai": "สี่จาน",
+        "phonetic": "S̄ī̀ cān",
+        "English": "jaan",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "一瓶咖啡",
+        "Thai": "กาแฟหนึ่งขวด",
+        "phonetic": "Kāfæ h̄nụ̀ng k̄hwd",
+        "English": "khuat",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "2个袋子",
+        "Thai": "2 ใบ",
+        "phonetic": "2 Bı",
+        "English": "Bay",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "3把刀",
+        "Thai": "มีด 3 เล่ม",
+        "phonetic": "Mīd 3 lèm",
+        "English": "lem",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "刀",
+        "Thai": "มีด",
+        "phonetic": "Mīd",
+        "English": "mid",
+        "type": "noun"
+    },
+    {
+        "Chinese": "袋",
+        "Thai": "ถุง",
+        "phonetic": "T̄hung",
+        "English": "thung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "狗",
+        "Thai": "หมา",
+        "phonetic": "H̄mā",
+        "English": "maa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "袜",
+        "Thai": "ถุงเท้า",
+        "phonetic": "T̄hungthêā",
+        "English": "thungthaaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "手套",
+        "Thai": "ถุงมือ",
+        "phonetic": "T̄hungmụ̄x",
+        "English": "thungmvv",
+        "type": "noun"
+    },
+    {
+        "Chinese": "2双袜子",
+        "Thai": "ถุงเท้า 2 คู่",
+        "phonetic": "T̄hungthêā 2 khū̀",
+        "English": "khuu",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "面条",
+        "Thai": "ก๋วยเตี๋ยว",
+        "phonetic": "Ǩwyteī̌yw",
+        "English": "kuay tiaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "两碗面条",
+        "Thai": "ก๋วยเตี๋ยวสองชาม",
+        "phonetic": "Ǩwyteī̌yw s̄xng chām",
+        "English": "chaam",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两罐可乐",
+        "Thai": "โค้กสองกระป๋อง",
+        "phonetic": "Khôk s̄xng krap̌xng",
+        "English": "kra baung",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两片面包",
+        "Thai": "ขนมปังสองแผ่น",
+        "phonetic": "K̄hnmpạng s̄xng p̄hæ̀n",
+        "English": "ph33n",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "面包",
+        "Thai": "ขนมปัง",
+        "phonetic": "K̄hnmpạng",
+        "English": "kha nom pang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "许多",
+        "Thai": "หลาย",
+        "phonetic": "H̄lāy",
+        "English": "laay",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "那边",
+        "Thai": "ตรงนั้น",
+        "phonetic": "Trng nận",
+        "English": "trong nan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "苹果",
+        "Thai": "แอปเปิล",
+        "phonetic": "Xæppeil",
+        "English": "?3ppern",
+        "type": "noun"
+    },
+    {
+        "Chinese": "蛋糕",
+        "Thai": "เค้ก",
+        "phonetic": "Khêk",
+        "English": "kheek",
+        "type": "noun"
+    },
+    {
+        "Chinese": "两架飞机",
+        "Thai": "เครื่องบินสองลำ",
+        "phonetic": "Kherụ̄̀xng bin s̄xng lả",
+        "English": "lam",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两艘船",
+        "Thai": "เรือสองลำ",
+        "phonetic": "Reụ̄x s̄xng lả",
+        "English": "lam",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两个座位",
+        "Thai": "สองที่นั่ง",
+        "phonetic": "S̄xng thī̀ nạ̀ng",
+        "English": "thii",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两场电影",
+        "Thai": "หนังสองเรื่อง",
+        "phonetic": "H̄nạng s̄xng reụ̄̀xng",
+        "English": "rvang",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两朵花",
+        "Thai": "สองดอก",
+        "phonetic": "S̄xng dxk",
+        "English": "dauauk",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "一群学生",
+        "Thai": "กลุ่มนักเรียน",
+        "phonetic": "Klùm nạkreīyn",
+        "English": "klum",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "一群大象",
+        "Thai": "ฝูงช้าง",
+        "phonetic": "F̄ūng cĥāng",
+        "English": "fuung",
+        "type": "quantifier"
+    },
+    {
+        "Chinese": "两次",
+        "Thai": "สองครั้ง",
+        "phonetic": "S̄xng khrậng",
+        "English": "khrang",
+        "type": "quantifier"
+    }
+]
