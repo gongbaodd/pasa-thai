@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { IonCard, IonCardHeader, IonPage, IonCardTitle, IonCardContent, IonCardSubtitle, IonNote, IonContent, IonButton } from '@ionic/vue';
+import { IonCard, IonCardHeader, IonPage, IonCardTitle, IonCardContent, IonCardSubtitle, IonNote, IonContent, IonButton, IonIcon } from '@ionic/vue';
 import Header from '../../components/Header.vue';
 import { useRoute, useRouter } from 'vue-router';
 import { findWordByLocalId, moveWordToBottomByLocalId, rememberWordByLocalId } from '../../packages/models/words';
@@ -23,6 +23,19 @@ function markAsUnknown() {
     goBack()
 }
 
+function read() {
+    const msg = new SpeechSynthesisUtterance()
+    const voices = window.speechSynthesis.getVoices()
+    msg.voice = voices[46]
+    // msg.voiceURI = 'native'
+    msg.volume = 1
+    msg.rate = 1
+    msg.pitch = 2
+    msg.text = word!.Thai
+    msg.lang = 'th-TH'
+    speechSynthesis.speak(msg)
+}
+
 </script>
 
 <template>
@@ -35,7 +48,10 @@ function markAsUnknown() {
                         {{ word?.Chinese }}
                     </IonCardTitle>
                     <IonCardSubtitle>
-                        {{ word?.Thai }}
+                        <span>{{ word?.Thai }}</span>
+                        <IonButton fill="clear" size="small" @click="read">
+                            read
+                        </IonButton>
                     </IonCardSubtitle>
                 </IonCardHeader>
                 <IonCardContent>
