@@ -26,8 +26,7 @@ function markAsUnknown() {
 function read() {
     const msg = new SpeechSynthesisUtterance()
     const voices = window.speechSynthesis.getVoices()
-    msg.voice = voices[46]
-    // msg.voiceURI = 'native'
+    msg.voice = voices[135] // windows-299, iOS-135/160
     msg.volume = 1
     msg.rate = 1
     msg.pitch = 2
