@@ -3547,5 +3547,327 @@
         "phonetic": "N̂ảngein",
         "English": "naamngern",
         "type": "color"
+    },
+    {
+        "Chinese": "场所",
+        "Thai": "สถานที่",
+        "phonetic": "S̄t̄hān thī̀",
+        "English": "sa thaa thii",
+        "type": "noun"
+    },
+    {
+        "Chinese": "近于",
+        "Thai": "ใกล้กับ",
+        "phonetic": "Kıl̂ kạb",
+        "English": "klay kap",
+        "type": "place"
+    },
+    {
+        "Chinese": "商场",
+        "Thai": "ห้าง",
+        "phonetic": "H̄̂āng",
+        "English": "haang",
+        "type": "place"
+    },
+    {
+        "Chinese": "公司",
+        "Thai": "บริษัท",
+        "phonetic": "Bris̄ʹạth",
+        "English": "baurisat",
+        "type": "place"
+    },
+    {
+        "Chinese": "酒店",
+        "Thai": "โรงแรม",
+        "phonetic": "Rongræm",
+        "English": "roongr33m",
+        "type": "place"
+    },
+    {
+        "Chinese": "医院",
+        "Thai": "โรงพยาบาล",
+        "phonetic": "Rong phyābāl",
+        "English": "roong pha yaa baan",
+        "type": "place"
+    },
+    {
+        "Chinese": "火车站",
+        "Thai": "สถานีรถไฟ",
+        "phonetic": "S̄t̄hānī rt̄hfị",
+        "English": "sa thaa nii rotfay",
+        "type": "place"
+    },
+    {
+        "Chinese": "机场",
+        "Thai": "สนามบิน",
+        "phonetic": "S̄nām bin",
+        "English": "sanaam bin",
+        "type": "place"
+    },
+    {
+        "Chinese": "市场",
+        "Thai": "ตลาด",
+        "phonetic": "Tlād",
+        "English": "talaat",
+        "type": "place"
+    },
+    {
+        "Chinese": "公园",
+        "Thai": "สวน",
+        "phonetic": "S̄wn",
+        "English": "suan",
+        "type": "place"
+    },
+    {
+        "Chinese": "对面",
+        "Thai": "ตรงข้าม",
+        "phonetic": "Trng k̄ĥām",
+        "English": "trong khaam",
+        "type": "prep"
+    },
+    {
+        "Chinese": "去找医生",
+        "Thai": "ไปหาหมอ",
+        "phonetic": "Pị h̄ā h̄mx",
+        "English": "pay haa mauau",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "上公交车",
+        "Thai": "ขึ้นรถบัส",
+        "phonetic": "K̄hụ̂n rt̄h bạs̄",
+        "English": "kun rot bas",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "马路",
+        "Thai": "ถนน",
+        "phonetic": "T̄hnn",
+        "English": "thanon",
+        "type": "place"
+    },
+    {
+        "Chinese": "桥",
+        "Thai": "สะพาน",
+        "phonetic": "S̄aphān",
+        "English": "saphaan",
+        "type": "place"
+    },
+    {
+        "Chinese": "巷子",
+        "Thai": "ซอย",
+        "phonetic": "Sxy",
+        "English": "sauauy",
+        "type": "place"
+    },
+    {
+        "Chinese": "斑马线",
+        "Thai": "ทางม้าลาย",
+        "phonetic": "Thāngm̂ālāy",
+        "English": "thaang maalaay",
+        "type": "place"
+    },
+    {
+        "Chinese": "斑马",
+        "Thai": "ม้าลาย",
+        "phonetic": "M̂ālāy",
+        "English": "maalaay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "丁字路口",
+        "Thai": "สาม แยก",
+        "phonetic": "S̄ām yæk",
+        "English": "saam y33k",
+        "type": "place"
+    },
+    {
+        "Chinese": "环岛",
+        "Thai": "วงเวียน",
+        "phonetic": "Wng weīyn",
+        "English": "wong wian",
+        "type": "place"
+    },
+    {
+        "Chinese": "天桥",
+        "Thai": "สะพานลอย",
+        "phonetic": "S̄aphān lxy",
+        "English": "saphaan lauauy",
+        "type": "place"
+    },
+    {
+        "Chinese": "单独支付",
+        "Thai": "จ่ายแยก",
+        "phonetic": "C̀āy yæk",
+        "English": "jaay y33k",
+        "type": "verb"
+    },
+    {
+        "Chinese": "红绿灯",
+        "Thai": "ไฟแดง",
+        "phonetic": "Fị dæng",
+        "English": "fay d33ng",
+        "type": "noun"
+    },
+    {
+        "Chinese": "紧急",
+        "Thai": "ด่วน",
+        "phonetic": "D̀wn",
+        "English": "duan",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "上面",
+        "Thai": "ข้างบน",
+        "phonetic": "K̄ĥāng bn",
+        "English": "khaang bon",
+        "type": "place"
+    },
+    {
+        "Chinese": "边",
+        "Thai": "ข้าง",
+        "phonetic": "K̄ĥāng",
+        "English": "khaang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "正面",
+        "Thai": "ข้างหน้า",
+        "phonetic": "K̄ĥāng h̄n̂ā",
+        "English": "khanng naa",
+        "type": "place"
+    },
+    {
+        "Chinese": "在后面",
+        "Thai": "ข้างหลัง",
+        "phonetic": "K̄ĥāng h̄lạng",
+        "English": "khanng lang",
+        "type": "place"
+    },
+    {
+        "Chinese": "在里面",
+        "Thai": "ข้างใน",
+        "phonetic": "K̄ĥāng nı",
+        "English": "khanng nay",
+        "type": "place"
+    },
+    {
+        "Chinese": "在外面",
+        "Thai": "ข้างนอก",
+        "phonetic": "K̄ĥāng nxk",
+        "English": "khanng nauauk",
+        "type": "place"
+    },
+    {
+        "Chinese": "在底下",
+        "Thai": "ข้างใต้",
+        "phonetic": "K̄ĥāng tı̂",
+        "English": "khaang taay",
+        "type": "place"
+    },
+    {
+        "Chinese": "在中间",
+        "Thai": "ระหว่างกลาง",
+        "phonetic": "Rah̄ẁāng klāng",
+        "English": "rawaang",
+        "type": "place"
+    },
+    {
+        "Chinese": "旁边",
+        "Thai": "ข้าง",
+        "phonetic": "K̄ĥāng",
+        "English": "khaang",
+        "type": "place"
+    },
+    {
+        "Chinese": "远离",
+        "Thai": "ห่างไกลจาก",
+        "phonetic": "H̄̀āng kịl cāk",
+        "English": "khaang klay jaak",
+        "type": "place"
+    },
+    {
+        "Chinese": "柜子",
+        "Thai": "ตู้",
+        "phonetic": "Tū̂",
+        "English": "tuu",
+        "type": "noun"
+    },
+    {
+        "Chinese": "警察局",
+        "Thai": "สถานีตำรวจ",
+        "phonetic": "S̄t̄hānī tảrwc",
+        "English": "sa thaa nii tamruat",
+        "type": "place"
+    },
+    {
+        "Chinese": "公共的",
+        "Thai": "สาธารณะ",
+        "phonetic": "S̄āṭhārṇa",
+        "English": "sa thaa ra na",
+        "type": "place"
+    },
+    {
+        "Chinese": "东西",
+        "Thai": "ของ",
+        "phonetic": "K̄hxng",
+        "English": "khauaung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "公交站",
+        "Thai": "ป้ายรถเมล์",
+        "phonetic": "P̂āy rt̄hmel̒",
+        "English": "paayrotmee",
+        "type": "place"
+    },
+    {
+        "Chinese": "药店",
+        "Thai": "ร้านขายยา",
+        "phonetic": "R̂ān k̄hāy yā",
+        "English": "raan khaay yaa",
+        "type": "place"
+    },
+    {
+        "Chinese": "纪念碑",
+        "Thai": "อนุสาวรีย์",
+        "phonetic": "Xnus̄āwrīy̒",
+        "English": "?a nu saa wa rii",
+        "type": "place"
+    },
+    {
+        "Chinese": "运河",
+        "Thai": "คลอง",
+        "phonetic": "Khlxng",
+        "English": "khlauaung",
+        "type": "place"
+    },
+    {
+        "Chinese": "隧道",
+        "Thai": "อุโมงค์",
+        "phonetic": "Xumongkh̒",
+        "English": "?umoong",
+        "type": "place"
+    },
+    {
+        "Chinese": "角落",
+        "Thai": "มุม",
+        "phonetic": "Mum",
+        "English": "mum",
+        "type": "place"
+    },
+    {
+        "Chinese": "从...出",
+        "Thai": "ออกจาก",
+        "phonetic": "Xxk cāk",
+        "English": "?auauk jaak",
+        "type": "verb"
+    },
+    {
+        "Chinese": "跟随",
+        "Thai": "ตาม",
+        "phonetic": "Tām",
+        "English": "taam",
+        "type": "verb"
     }
 ]
