@@ -29,6 +29,7 @@ import {
   IonContent,
   IonList,
   IonListHeader,
+  IonLabel,
 } from '@ionic/vue';
 import { getTypes } from "../packages/models/words"
 
@@ -38,6 +39,10 @@ const appPages = [
   {
     title: 'ALL',
     url: '/',
+  },
+  {
+    title: "Daily",
+    url: "/daily"
   },
   ...wordTypes.map((type) => ({
     title: type,
