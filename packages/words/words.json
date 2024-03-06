@@ -3869,5 +3869,152 @@
         "phonetic": "Tām",
         "English": "taam",
         "type": "verb"
+    },
+    {
+        "Chinese": "铅笔",
+        "Thai": "ดินสอ",
+        "phonetic": "Dins̄x",
+        "English": "dinsauau",
+        "type": "noun"
+    },
+    {
+        "Chinese": "告诉",
+        "Thai": "บอก",
+        "phonetic": "Bxk",
+        "English": "bauauk",
+        "type": "verb"
+    },
+    {
+        "Chinese": "道路",
+        "Thai": "ทาง",
+        "phonetic": "Thāng",
+        "English": "thaang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "然后",
+        "Thai": "แล้ว",
+        "phonetic": "Læ̂w",
+        "English": "l33w",
+        "type": "conjunction"
+    },
+    {
+        "Chinese": "转弯",
+        "Thai": "เลี้ยว",
+        "phonetic": "Leī̂yw",
+        "English": "liaw",
+        "type": "verb"
+    },
+    {
+        "Chinese": "直走",
+        "Thai": "ตรงไป",
+        "phonetic": "Trng pị",
+        "English": "trong pay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "开车直走",
+        "Thai": "ขับตรงไป",
+        "phonetic": "K̄hạb trng pị",
+        "English": "khap trong pay",
+        "type": "verb"
+    },
+    {
+        "Chinese": "火车",
+        "Thai": "รถไฟ",
+        "phonetic": "Rt̄hfị",
+        "English": "rotfay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "飞机",
+        "Thai": "เครื่องบิน",
+        "phonetic": "Kherụ̄̀xng bin",
+        "English": "khrvangbin",
+        "type": "noun"
+    },
+    {
+        "Chinese": "船",
+        "Thai": "เรือ",
+        "phonetic": "Reụ̄x",
+        "English": "rva",
+        "type": "noun"
+    },
+    {
+        "Chinese": "上车",
+        "Thai": "ขึ้นรถ",
+        "phonetic": "K̄hụ̂n rt̄h",
+        "English": "khvn rot",
+        "type": "verb"
+    },
+    {
+        "Chinese": "坐车",
+        "Thai": "นั่งรถ",
+        "phonetic": "Nạ̀ng rt̄h",
+        "English": "nang rot",
+        "type": "verb"
+    },
+    {
+        "Chinese": "下车",
+        "Thai": "ลงรถ",
+        "phonetic": "Lngrt̄h",
+        "English": "nong rot",
+        "type": "verb"
+    },
+    {
+        "Chinese": "骑",
+        "Thai": "ขี่",
+        "phonetic": "K̄hī̀",
+        "English": "khii",
+        "type": "verb"
+    },
+    {
+        "Chinese": "扶梯",
+        "Thai": "บันไดเลื่อน",
+        "phonetic": "Bạndị leụ̄̀xn",
+        "English": "bandaylvan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "直走会见到扶梯",
+        "Thai": "เดินตรงไปจะเจอบันไดเลื่อน",
+        "phonetic": "Dein trng pị ca cex bạndị leụ̄̀xn",
+        "English": "...ja jer...",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "到",
+        "Thai": "ถึง",
+        "phonetic": "t̄hụng",
+        "English": "thung",
+        "type": "prep"
+    },
+    {
+        "Chinese": "路的尽头",
+        "Thai": "สุดถนน",
+        "phonetic": "S̄ud t̄hnn",
+        "English": "sut thaang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "离开",
+        "Thai": "ออกจาก",
+        "phonetic": "Xxk cāk",
+        "English": "?auauk jaak",
+        "type": "verb"
+    },
+    {
+        "Chinese": "怎样",
+        "Thai": "ยังไง",
+        "phonetic": "Yạng ngị",
+        "English": "yangngay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "层",
+        "Thai": "ชั้น",
+        "phonetic": "Chận",
+        "English": "chan",
+        "type": "noun"
     }
 ]
