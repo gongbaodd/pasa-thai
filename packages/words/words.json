@@ -4016,5 +4016,117 @@
         "phonetic": "Chận",
         "English": "chan",
         "type": "noun"
+    },
+    {
+        "Chinese": "停车",
+        "Thai": "จอด",
+        "phonetic": "cxd",
+        "English": "jauaut",
+        "type": "verb"
+    },
+    {
+        "Chinese": "在哪里？",
+        "Thai": "ตรงหน",
+        "phonetic": "Trng h̄ịn",
+        "English": "trong nay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "零钱",
+        "Thai": "ทอน",
+        "phonetic": "Thxn",
+        "English": "thauaung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "高速公路",
+        "Thai": "ทางหลวง",
+        "phonetic": "Thāngh̄lwng",
+        "English": "thaang duan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "大门",
+        "Thai": "ประตู",
+        "phonetic": "Pratū",
+        "English": "pratuu",
+        "type": "noun"
+    },
+    {
+        "Chinese": "按下",
+        "Thai": "กด",
+        "phonetic": "Kd",
+        "English": "kot",
+        "type": "verb"
+    },
+    {
+        "Chinese": "入口",
+        "Thai": "ทางเข้า",
+        "phonetic": "Thāng k̄hêā",
+        "English": "thaang khaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "出口",
+        "Thai": "ทางออ",
+        "phonetic": "ThāngXxk",
+        "English": "thaang ?auauk",
+        "type": "noun"
+    },
+    {
+        "Chinese": "需要",
+        "Thai": "ต้อง",
+        "phonetic": "T̂xng",
+        "English": "taung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "月付",
+        "Thai": "รายเดือน",
+        "phonetic": "rāy deụ̄xn",
+        "English": "raay dvan",
+        "type": "noun"
+    },
+    {
+        "Chinese": "卡",
+        "Thai": "บัตร",
+        "phonetic": "Bạtr",
+        "English": "bat",
+        "type": "noun"
+    },
+    {
+        "Chinese": "票",
+        "Thai": "ตั๋ว",
+        "phonetic": "Tạ̌w",
+        "English": "tua",
+        "type": "noun"
+    },
+    {
+        "Chinese": "飞机票",
+        "Thai": "ตั๋วเครื่องบิน",
+        "phonetic": "Tạ̌w kherụ̄̀xng bin",
+        "English": "tua khvng bin",
+        "type": "noun"
+    },
+    {
+        "Chinese": "车站",
+        "Thai": "สถานี",
+        "phonetic": "S̄t̄hānī",
+        "English": "sa thaa nii",
+        "type": "noun"
+    },
+    {
+        "Chinese": "充值卡",
+        "Thai": "บัตรเติมเงิน",
+        "phonetic": "Bạtr teim ngein",
+        "English": "bat term ngern",
+        "type": "noun"
+    },
+    {
+        "Chinese": "换",
+        "Thai": "เปลี่ยน",
+        "phonetic": "Pelī̀yn",
+        "English": "plian",
+        "type": "verb"
     }
 ]
