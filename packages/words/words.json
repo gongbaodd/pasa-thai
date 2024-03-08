@@ -4128,5 +4128,341 @@
         "phonetic": "Pelī̀yn",
         "English": "plian",
         "type": "verb"
+    },
+    {
+        "Chinese": "点餐",
+        "Thai": "สั่งอาหาร",
+        "phonetic": "S̄ạ̀ng xāh̄ār",
+        "English": "sang ?aahaan",
+        "type": "verb"
+    },
+    {
+        "Chinese": "饮料",
+        "Thai": "เครื่องดื่ม",
+        "phonetic": "Kherụ̄̀xng dụ̄̀m",
+        "English": "khrvang duum",
+        "type": "noun"
+    },
+    {
+        "Chinese": "炒",
+        "Thai": "ผัด",
+        "phonetic": "P̄hạd",
+        "English": "phat",
+        "type": "verb"
+    },
+    {
+        "Chinese": "煮",
+        "Thai": "ทำ",
+        "phonetic": "Thả",
+        "English": "tom",
+        "type": "verb"
+    },
+    {
+        "Chinese": "鸡",
+        "Thai": "ไก่",
+        "phonetic": "Kị̀",
+        "English": "kay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "炸",
+        "Thai": "ทอด",
+        "phonetic": "Thxd",
+        "English": "thauaut",
+        "type": "verb"
+    },
+    {
+        "Chinese": "猪",
+        "Thai": "หมู",
+        "phonetic": "H̄mū",
+        "English": "muu",
+        "type": "noun"
+    },
+    {
+        "Chinese": "鸭",
+        "Thai": "เป็ด",
+        "phonetic": "Pĕd",
+        "English": "pet",
+        "type": "noun"
+    },
+    {
+        "Chinese": "海鲜",
+        "Thai": "อาหารทะเล",
+        "phonetic": "Xāh̄ār thale",
+        "English": "?aahaan thalee",
+        "type": "noun"
+    },
+    {
+        "Chinese": "虾",
+        "Thai": "กุ้ง",
+        "phonetic": "Kûng",
+        "English": "kung",
+        "type": "noun"
+    },
+    {
+        "Chinese": "鸡蛋",
+        "Thai": "ไข่",
+        "phonetic": "K̄hị̀",
+        "English": "khay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "贝类",
+        "Thai": "หอย",
+        "phonetic": "H̄xy",
+        "English": "hauy",
+        "type": "noun"
+    },
+    {
+        "Chinese": "螃蟹",
+        "Thai": "ปู",
+        "phonetic": "Pū",
+        "English": "puu",
+        "type": "noun"
+    },
+    {
+        "Chinese": "鱼",
+        "Thai": "ปลา",
+        "phonetic": "Plā",
+        "English": "plaa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "菜",
+        "Thai": "ผัก",
+        "phonetic": "P̄hạk",
+        "English": "phak",
+        "type": "noun"
+    },
+    {
+        "Chinese": "鱿鱼",
+        "Thai": "ปลาหมึก",
+        "phonetic": "Plāh̄mụk",
+        "English": "plaa mvk",
+        "type": "noun"
+    },
+    {
+        "Chinese": "大火烤",
+        "Thai": "ย่าง",
+        "phonetic": "ỳāng",
+        "English": "yaang",
+        "type": "verb"
+    },
+    {
+        "Chinese": "小火烤",
+        "Thai": "ปิ้ง",
+        "phonetic": "Pîng",
+        "English": "ping",
+        "type": "verb"
+    },
+    {
+        "Chinese": "烘",
+        "Thai": "อบ",
+        "phonetic": "Xb",
+        "English": "?op",
+        "type": "verb"
+    },
+    {
+        "Chinese": "煎蛋",
+        "Thai": "ไข่ดาว",
+        "phonetic": "K̄hị̀ dāw",
+        "English": "khay daaw",
+        "type": "verb"
+    },
+    {
+        "Chinese": "星星",
+        "Thai": "ดาว",
+        "phonetic": "dāw",
+        "English": "daaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "蒸",
+        "Thai": "นึ่ง",
+        "phonetic": "nụ̀ng",
+        "English": "nvng",
+        "type": "verb"
+    },
+    {
+        "Chinese": "纯净水",
+        "Thai": "น้ำเปล่า",
+        "phonetic": "N̂ả pel̀ā",
+        "English": "naam plaaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "稍等",
+        "Thai": "รอสักครู่",
+        "phonetic": "Rx s̄ạk khrū̀",
+        "English": "rauau sak khruu",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "椰子",
+        "Thai": "มะพร้าว",
+        "phonetic": "Maphr̂āw",
+        "English": "maphraaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "冰",
+        "Thai": "น้ำแข็ง",
+        "phonetic": "N̂ả k̄hæ̆ng",
+        "English": "naam kh3ng",
+        "type": "noun"
+    },
+    {
+        "Chinese": "牛奶",
+        "Thai": "น้ำนม",
+        "phonetic": "N̂ảnm",
+        "English": "nom",
+        "type": "noun"
+    },
+    {
+        "Chinese": "芒果",
+        "Thai": "มะม่วง",
+        "phonetic": "Mam̀wng",
+        "English": "mamuang",
+        "type": "noun"
+    },
+    {
+        "Chinese": "柠檬",
+        "Thai": "มะนาว",
+        "phonetic": "Manāw",
+        "English": "manaaw",
+        "type": "noun"
+    },
+    {
+        "Chinese": "菠萝",
+        "Thai": "สัปปะรด",
+        "phonetic": "S̄ạppa rd",
+        "English": "sapparot",
+        "type": "noun"
+    },
+    {
+        "Chinese": "西瓜",
+        "Thai": "แตงโม",
+        "phonetic": "Tængmo",
+        "English": "t33ngmoo",
+        "type": "noun"
+    },
+    {
+        "Chinese": "水果",
+        "Thai": "ผลไม้",
+        "phonetic": "P̄hl mị̂",
+        "English": "phon la maay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "一起",
+        "Thai": "รวม",
+        "phonetic": "Rwm",
+        "English": "ruam",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "预定",
+        "Thai": "จอง",
+        "phonetic": "Cxng",
+        "English": "jauaung",
+        "type": "verb"
+    },
+    {
+        "Chinese": "推荐",
+        "Thai": "แนะนำ",
+        "phonetic": "Næanả",
+        "English": "n3nam",
+        "type": "noun"
+    },
+    {
+        "Chinese": "一共",
+        "Thai": "ทั้งหมด",
+        "phonetic": "Thậngh̄md",
+        "English": "thang mot",
+        "type": "noun"
+    },
+    {
+        "Chinese": "结账",
+        "Thai": "เก็บเงินด้วย",
+        "phonetic": "Kĕb ngein d̂wy",
+        "English": "kep ngern duay",
+        "type": "conversation"
+    },
+    {
+        "Chinese": "饿的",
+        "Thai": "หิว",
+        "phonetic": "H̄iw",
+        "English": "hiw",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "饱的",
+        "Thai": "อิ่ม",
+        "phonetic": "Xìm",
+        "English": "?im",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "香蕉",
+        "Thai": "กล้วย",
+        "phonetic": "Kl̂wy",
+        "English": "kluay",
+        "type": "noun"
+    },
+    {
+        "Chinese": "花生",
+        "Thai": "ถั่ว",
+        "phonetic": "T̄hạ̀w",
+        "English": "thua",
+        "type": "noun"
+    },
+    {
+        "Chinese": "香菜",
+        "Thai": "ผักชี",
+        "phonetic": "P̄hạkchī",
+        "English": "phakchii",
+        "type": "noun"
+    },
+    {
+        "Chinese": "黄瓜",
+        "Thai": "แตงกวา",
+        "phonetic": "Tængkwā",
+        "English": "t33ngkwaa",
+        "type": "noun"
+    },
+    {
+        "Chinese": "大葱",
+        "Thai": "ต้นหอม",
+        "phonetic": "T̂n h̄xm",
+        "English": "tonhauaum",
+        "type": "noun"
+    },
+    {
+        "Chinese": "大蒜",
+        "Thai": "กระเทียม",
+        "phonetic": "Kratheīym",
+        "English": "krathiam",
+        "type": "noun"
+    },
+    {
+        "Chinese": "西红柿",
+        "Thai": "มะเขือเทศ",
+        "phonetic": "Mak̄heụ̄x theṣ̄",
+        "English": "makhvatheet",
+        "type": "noun"
+    },
+    {
+        "Chinese": "淡",
+        "Thai": "จืด",
+        "phonetic": "cụ̄d",
+        "English": "jvvt",
+        "type": "adjective"
+    },
+    {
+        "Chinese": "油腻",
+        "Thai": "มัน",
+        "phonetic": "Mạn",
+        "English": "man",
+        "type": "adjective"
     }
 ]
