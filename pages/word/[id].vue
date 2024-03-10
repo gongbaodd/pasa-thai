@@ -26,13 +26,18 @@ function markAsUnknown() {
 function read() {
     const msg = new SpeechSynthesisUtterance()
     const voices = window.speechSynthesis.getVoices()
-    msg.voice = voices[135] // windows-299, iOS-135/160
-    msg.volume = 1
-    msg.rate = 1
-    msg.pitch = 2
-    msg.text = word!.Thai
-    msg.lang = 'th-TH'
-    speechSynthesis.speak(msg)
+    const voice = voices.find(voice => voice.lang === 'th-TH')
+
+    if (voice) {
+        msg.voice = voice
+        msg.volume = 1
+        msg.rate = 1
+        msg.pitch = 1
+        msg.text = word!.Thai
+        msg.lang = 'th-TH'
+        speechSynthesis.speak(msg)
+        return
+    }
 }
 
 </script>
