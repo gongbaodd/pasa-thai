@@ -3,7 +3,7 @@ import { type IWord, seenWordById } from '../packages/models/words';
 import { useRouter } from "vue-router";
 import { IonList, IonItem, IonLabel } from "@ionic/vue";
 import day from "dayjs";
-import { computed } from 'vue';
+import { computed, type Ref } from 'vue';
 
 const router = useRouter()
 
@@ -14,11 +14,10 @@ function onItemPress(word: IWord) {
     }
 }
 
-const { words } = defineProps<{ words: IWord[], title?: string }>()
+const { words } = defineProps<{ words: Ref<IWord[]>, title?: string }>()
 
 const sorted = computed(() => {
-    // move last remembered to the end
-    return words.sort((a, b) => {
+    return [...words.value].sort((a, b) => {
         if (a.lastRememberedDate && b.lastRememberedDate) {
             return a.lastRememberedDate > b.lastRememberedDate ? 1 : -1
         }
@@ -36,7 +35,7 @@ const sorted = computed(() => {
 
 <template>
     <IonPage>
-        <Header :title="(title ?? 'Words') + `(${words.length})`"></Header>
+        <Header :title="(title ?? 'Words') + `(${words.value.length})`"></Header>
 
         <IonContent :fullscreen="true">
             <IonHeader collapse="condense">
@@ -47,8 +46,9 @@ const sorted = computed(() => {
 
             <div id="container">
                 <IonList>
-                    <IonItem v-for="word in sorted" :key="word.local_id" :button="true" :onclick="onItemPress(word)">
-                        <ionBadge slot="end">{{ word.lastRememberedDate ? Math.abs(day(word.lastRememberedDate).diff(Date.now(), 'day')) :"∞"}}</ionBadge>
+                    <IonItem v-for="word in sorted" :key="word.uuid" :button="true" :onclick="onItemPress(word)">
+                        <ionBadge slot="end">{{ word.lastRememberedDate ?
+            Math.abs(day(word.lastRememberedDate).diff(Date.now(), 'day')) : "∞" }}</ionBadge>
                         <IonLabel>{{ word.Chinese }}</IonLabel>
                     </IonItem>
                 </IonList>

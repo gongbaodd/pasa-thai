@@ -1,6 +1,6 @@
 import { load, save } from "../storage";
 import words from "../words"
-import { computed, reactive, watchEffect } from "vue"
+import { computed, ref, watchEffect } from "vue"
 
 export type IWord = {
     lastRememberedDate: Date | null;
@@ -15,7 +15,7 @@ const raw = words.map((word) => {
     }
 })
 
-const data = reactive<IWord[]>(raw)
+const data = ref<IWord[]>(raw)
 
 loadStoredWords()
 
@@ -30,7 +30,7 @@ export {
 }
 
 function findWordById(id: string) {
-    return data.find(word => word.uuid === id)
+    return data.value.find(word => word.uuid === id)
 }
 
 function getTypes() {
@@ -40,39 +40,42 @@ function getTypes() {
 }
 
 function filterWordsByType(type: IWord["type"]) {
-    return computed(() => data.filter(word => word.type === type))
+    return computed(() => data.value.filter(word => word.type === type))
 }
 
 function seenWordById(id: string) {
-    const index = data.findIndex(word => word.uuid === id)
-    data[index] = {
-        ...data[index],
-        lastUpdateDate: new Date(),
+    const index = data.value.findIndex(word => word.uuid === id)
+
+    data.value[index] = {
+        ...data.value[index], lastUpdateDate: new Date()
     }
+    data.value = [...data.value]
 }
 
 function moveWordToBottomById(id: string) {
-    const word = raw.find(word => word.uuid === id)!
-    data.splice(data.findIndex(word => word.uuid === id), 1)
-    data.push(word)
+    const index = data.value.findIndex(word => word.uuid === id)
+    const word = data.value[index]
+    data.value.splice(index, 1)
+    data.value.push(word)
+    data.value = [...data.value]
 }
 
 function rememberWordById(id: string) {
-    const index = data.findIndex(word => word.uuid === id)
-    data[index] = {
-        ...data[index],
+    const index = data.value.findIndex(word => word.uuid === id)
+    data.value[index] = {
+        ...data.value[index],
         lastRememberedDate: new Date(),
     }
+    data.value = [...data.value]
 }
 
 async function loadStoredWords() {
-    const stored = await load()
-
+    const { words: stored } = await load()
     const rest = raw.filter(word => !stored.find(storedWord => storedWord.uuid === word.uuid))
 
-    data.splice(0, data.length, ...stored, ...rest)
+    data.value = [...rest, ...stored]
 }
 
 watchEffect(() => {
-    save(data)
+    save(data.value)
 })

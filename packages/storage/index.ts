@@ -2,12 +2,12 @@ import type { IWord } from "../models";
 
 const key = "pasa_thay_0310";
 
-export async function load() {
+export async function load(): Promise<{ words: IWord[] }>{
   if (!globalThis.localStorage) {
-    return [];
+    return {words: []};
   }
 
-  return JSON.parse(globalThis.localStorage.getItem(key) || "[]") as IWord[];
+  return JSON.parse(globalThis.localStorage.getItem(key) || '{"words":[]}')
 }
 
 export async function save(words: IWord[]) {
@@ -15,5 +15,5 @@ export async function save(words: IWord[]) {
     return;
   }
 
-  globalThis.localStorage.setItem(key, JSON.stringify(words));
+  globalThis.localStorage.setItem(key, JSON.stringify({words}));
 }
