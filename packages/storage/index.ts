@@ -1,13 +1,18 @@
 import type { IWord } from "../models";
 
 const key = "pasa_thay_0310";
+const initial: { words: IWord[], daily: Record<string, IWord[]> } = {words: [], daily: {}};
 
-export async function load(): Promise<{ words: IWord[] }>{
+export async function load(): Promise<typeof initial>{
+
   if (!globalThis.localStorage) {
-    return {words: []};
+    return initial;
   }
 
-  return JSON.parse(globalThis.localStorage.getItem(key) || '{"words":[]}')
+  return {
+    ...initial,
+    ...(JSON.parse(globalThis.localStorage.getItem(key) || JSON.stringify(initial)))
+  }
 }
 
 export async function save(words: IWord[]) {
@@ -15,5 +20,17 @@ export async function save(words: IWord[]) {
     return;
   }
 
-  globalThis.localStorage.setItem(key, JSON.stringify({words}));
+  const data = await load();
+
+  globalThis.localStorage.setItem(key, JSON.stringify({...data, words}));
+}
+
+export async function saveDaily(date: string, words: IWord[]) {
+  if (!globalThis.localStorage) {
+    return;
+  }
+
+  const data = await load();
+
+  globalThis.localStorage.setItem(key, JSON.stringify({...data, daily: {...data.daily, [date]: words}}));
 }

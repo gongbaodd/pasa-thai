@@ -44,6 +44,8 @@ const sorted = computed(() => {
                 </IonToolbar>
             </IonHeader>
 
+            <slot/>
+
             <div id="container">
                 <IonList>
                     <IonItem v-for="word in sorted" :key="word.uuid" :button="true" :onclick="onItemPress(word)">

@@ -4,6 +4,7 @@ import { IonCard, IonCardHeader, IonPage, IonCardTitle, IonCardContent, IonCardS
 import Header from '../../components/Header.vue';
 import { useRoute, useRouter } from 'vue-router';
 import { findWordById, moveWordToBottomById, rememberWordById } from '../../packages/models/words';
+import { removeDailyWordById } from '../../packages/vmodels/daily';
 
 const route = useRoute()
 const router = useRouter()
@@ -16,6 +17,7 @@ const goBack = () => router.back()
 function markAsKnown() {
     rememberWordById(localId)
     moveWordToBottomById(localId)
+    removeDailyWordById(localId)
     goBack()
 }
 
