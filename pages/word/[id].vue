@@ -3,24 +3,24 @@
 import { IonCard, IonCardHeader, IonPage, IonCardTitle, IonCardContent, IonCardSubtitle, IonNote, IonContent, IonButton } from '@ionic/vue';
 import Header from '../../components/Header.vue';
 import { useRoute, useRouter } from 'vue-router';
-import { findWordByLocalId, moveWordToBottomByLocalId, rememberWordByLocalId } from '../../packages/models/words';
+import { findWordById, moveWordToBottomById, rememberWordById } from '../../packages/models/words';
 
 const route = useRoute()
 const router = useRouter()
 
 const localId = route.params.id as string
 
-const word = findWordByLocalId(localId)
+const word = findWordById(localId)
 const goBack = () => router.back()
 
 function markAsKnown() {
-    rememberWordByLocalId(localId)
-    moveWordToBottomByLocalId(localId)
+    rememberWordById(localId)
+    moveWordToBottomById(localId)
     goBack()
 }
 
 function markAsUnknown() {
-    moveWordToBottomByLocalId(localId)
+    moveWordToBottomById(localId)
     goBack()
 }
 

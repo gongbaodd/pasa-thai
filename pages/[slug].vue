@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <script setup lang="ts">
 import WordList from "../components/WordList.vue"
 import { filterWordsByType } from '../packages/models/words';

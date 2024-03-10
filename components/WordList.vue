@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { type IWord, seenWordByLocalId } from '../packages/models/words';
+import { type IWord, seenWordById } from '../packages/models/words';
 import { useRouter } from "vue-router";
 import { IonList, IonItem, IonLabel } from "@ionic/vue";
 import day from "dayjs";
@@ -9,8 +9,8 @@ const router = useRouter()
 
 function onItemPress(word: IWord) {
     return () => {
-        router.push(`/word/${word.local_id}`)
-        seenWordByLocalId(word.local_id)
+        router.push(`/word/${word.uuid}`)
+        seenWordById(word.uuid)
     }
 }
 

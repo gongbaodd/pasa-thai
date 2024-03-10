@@ -3,14 +3,12 @@ import words from "../words"
 import { computed, reactive, watchEffect } from "vue"
 
 export type IWord = {
-    local_id: string;
     lastRememberedDate: Date | null;
     lastUpdateDate: Date | null;
 } & typeof words[number]
 
-const raw = words.map((word, index) => {
+const raw = words.map((word) => {
     return {
-        local_id: index.toString(),
         ...word,
         lastRememberedDate: null,
         lastUpdateDate: null,
@@ -23,16 +21,16 @@ loadStoredWords()
 
 export {
     data as words,
-    findWordByLocalId,
+    findWordById,
     getTypes,
     filterWordsByType,
-    seenWordByLocalId,
-    moveWordToBottomByLocalId,
-    rememberWordByLocalId,
+    seenWordById,
+    moveWordToBottomById,
+    rememberWordById,
 }
 
-function findWordByLocalId(local_id: string) {
-    return data.find(word => word.local_id === local_id)
+function findWordById(id: string) {
+    return data.find(word => word.uuid === id)
 }
 
 function getTypes() {
@@ -45,22 +43,22 @@ function filterWordsByType(type: IWord["type"]) {
     return computed(() => data.filter(word => word.type === type))
 }
 
-function seenWordByLocalId(local_id: string) {
-    const index = data.findIndex(word => word.local_id === local_id)
+function seenWordById(id: string) {
+    const index = data.findIndex(word => word.uuid === id)
     data[index] = {
         ...data[index],
         lastUpdateDate: new Date(),
     }
 }
 
-function moveWordToBottomByLocalId(local_id: string) {
-    const word = raw.find(word => word.local_id === local_id)!
-    data.splice(data.findIndex(word => word.local_id === local_id), 1)
+function moveWordToBottomById(id: string) {
+    const word = raw.find(word => word.uuid === id)!
+    data.splice(data.findIndex(word => word.uuid === id), 1)
     data.push(word)
 }
 
-function rememberWordByLocalId(local_id: string) {
-    const index = data.findIndex(word => word.local_id === local_id)
+function rememberWordById(id: string) {
+    const index = data.findIndex(word => word.uuid === id)
     data[index] = {
         ...data[index],
         lastRememberedDate: new Date(),
@@ -70,7 +68,7 @@ function rememberWordByLocalId(local_id: string) {
 async function loadStoredWords() {
     const stored = await load()
 
-    const rest = raw.filter(word => !stored.find(storedWord => storedWord.local_id === word.local_id))
+    const rest = raw.filter(word => !stored.find(storedWord => storedWord.uuid === word.uuid))
 
     data.splice(0, data.length, ...stored, ...rest)
 }

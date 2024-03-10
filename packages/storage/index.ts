@@ -1,6 +1,6 @@
 import type { IWord } from "../models";
 
-const key = "pasa_thay_word_list_0225";
+const key = "pasa_thay_0310";
 
 export async function load() {
   if (!globalThis.localStorage) {

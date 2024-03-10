@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <template>
     <WordList :words="words"></WordList>
 </template>
