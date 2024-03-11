@@ -5102,5 +5102,325 @@
     "English": "man",
     "type": "adjective",
     "uuid": "b70ed0dc-5397-475b-ac1c-709ba5a7421f"
+  },
+  {
+    "Chinese": "放盐",
+    "Thai": "ใส่เกลือ",
+    "phonetic": "S̄ı̀ kelụ̄x",
+    "English": "say klva",
+    "type": "verb",
+    "uuid": "96fbaf40-23ed-4f21-a7f7-3c2297f87c0f"
+  },
+  {
+    "Chinese": "大的",
+    "Thai": "ใหญ่",
+    "phonetic": "H̄ıỵ̀",
+    "English": "yay",
+    "type": "adjective",
+    "uuid": "4bfca1ae-55ab-48c9-997d-210e1a4bb016"
+  },
+  {
+    "Chinese": "奶茶",
+    "Thai": "ชานม",
+    "phonetic": "Chānm",
+    "English": "chaa nom",
+    "type": "noun",
+    "uuid": "2a5ce95e-23b6-4fcd-ab5b-a4dbcaab67b5"
+  },
+  {
+    "Chinese": "鱼露",
+    "Thai": "น้ำปลา",
+    "phonetic": "N̂ảplā",
+    "English": "nam plaa",
+    "type": "noun",
+    "uuid": "1a62ae38-3c92-4453-a9a5-9cdc0b964635"
+  },
+  {
+    "Chinese": "糖",
+    "Thai": "น้ำตาล",
+    "phonetic": "N̂ảtāl",
+    "English": "nam taan",
+    "type": "noun",
+    "uuid": "b9ac8b13-574d-45f1-b444-56f61a5bfacb"
+  },
+  {
+    "Chinese": "盐",
+    "Thai": "เกลือ",
+    "phonetic": "Kelụ̄x",
+    "English": "klva",
+    "type": "noun",
+    "uuid": "46a8ffd9-def5-47c9-b29d-edc9e5d7118d"
+  },
+  {
+    "Chinese": "辣椒",
+    "Thai": "พริก",
+    "phonetic": "Phrik",
+    "English": "phrik",
+    "type": "noun",
+    "uuid": "934a3925-7204-4708-a519-d407d524f5f1"
+  },
+  {
+    "Chinese": "豆",
+    "Thai": "ถั่ว",
+    "phonetic": "T̄hạ̀w",
+    "English": "thua",
+    "type": "noun",
+    "uuid": "826d9999-7a25-4767-852d-bf73a99c16e1"
+  },
+  {
+    "Chinese": "豆芽",
+    "Thai": "ถั่วงอก",
+    "phonetic": "T̄hạ̀wngxk",
+    "English": "thua ngauauk",
+    "type": "noun",
+    "uuid": "65ae1ebb-5d1d-4812-9794-07d260221656"
+  },
+  {
+    "Chinese": "酱",
+    "Thai": "ซอส",
+    "phonetic": "Sxs̄",
+    "English": "sauaut",
+    "type": "noun",
+    "uuid": "af349e76-3834-4e59-b82e-8ac2ec606c4c"
+  },
+  {
+    "Chinese": "蘸酱",
+    "Thai": "น้ำจิ้ม",
+    "phonetic": "N̂ả cîm",
+    "English": "naam jim",
+    "type": "noun",
+    "uuid": "9e3d61f9-6ecf-4e8a-873f-ae8fe9627fc5"
+  },
+  {
+    "Chinese": "醋",
+    "Thai": "น้ำส้มสายชู",
+    "phonetic": "N̂ảs̄̂m s̄āychū",
+    "English": "nam som saay chuu",
+    "type": "noun",
+    "uuid": "54af06d1-7301-4403-b10a-d3166b56790c"
+  },
+  {
+    "Chinese": "味精",
+    "Thai": "ผงชูรส",
+    "phonetic": "P̄hngchūrs̄",
+    "English": "phong chuu rot",
+    "type": "noun",
+    "uuid": "58134fba-5f2f-428c-a23b-016319b23168"
+  },
+  {
+    "Chinese": "普通",
+    "Thai": "ธรรมดา",
+    "phonetic": "Ṭhrrmdā",
+    "English": "tham ma daa",
+    "type": "adjective",
+    "uuid": "d90427f5-ecee-402d-82db-0e6ed5c15da2"
+  },
+  {
+    "Chinese": "特别",
+    "Thai": "พิเศษ",
+    "phonetic": "Phiṣ̄es̄ʹ",
+    "English": "phiseet",
+    "type": "adjective",
+    "uuid": "a3506951-f2bd-4640-92df-f041467db46e"
+  },
+  {
+    "Chinese": "特别价",
+    "Thai": "ราคาพิเศษ",
+    "phonetic": "Rākhā phiṣ̄es̄ʹ",
+    "English": "raakhaa phiseet",
+    "type": "noun",
+    "uuid": "42b1d864-5fb1-4c29-8a12-4c114a358a9d"
+  },
+  {
+    "Chinese": "珍珠",
+    "Thai": "ไข่มุก",
+    "phonetic": "K̄hị̀muk",
+    "English": "khimuk",
+    "type": "noun",
+    "uuid": "43522299-7b66-4354-aef3-7c97feacfc75"
+  },
+  {
+    "Chinese": "仙草",
+    "Thai": "เฉาก๊วย",
+    "phonetic": "C̄heāḱwy",
+    "English": "chaw kway",
+    "type": "noun",
+    "uuid": "506cd810-0bf7-4403-ac3c-b1120a20a89d"
+  },
+  {
+    "Chinese": "加",
+    "Thai": "เพิ่ม",
+    "phonetic": "Pheìm",
+    "English": "pherm",
+    "type": "verb",
+    "uuid": "6b09c7f3-6316-4d34-ac29-0dba91f895b2"
+  },
+  {
+    "Chinese": "加汽油",
+    "Thai": "เติมน้ำมัน",
+    "phonetic": "Teim n̂ảmạn",
+    "English": "term nam an",
+    "type": "verb",
+    "uuid": "a91c98b6-c2bb-4d88-b90f-158da1e1359e"
+  },
+  {
+    "Chinese": "小的",
+    "Thai": "เล็ก",
+    "phonetic": "Lĕk",
+    "English": "lek",
+    "type": "adjective",
+    "uuid": "b3e81882-b754-441f-8526-bd920350c3eb"
+  },
+  {
+    "Chinese": "中的",
+    "Thai": "กลาง",
+    "phonetic": "Klāng",
+    "English": "klaang",
+    "type": "adjective",
+    "uuid": "0400eedd-b647-4b91-87cb-8770e2f29dcd"
+  },
+  {
+    "Chinese": "洒",
+    "Thai": "โรย",
+    "phonetic": "Roy",
+    "English": "rooy",
+    "type": "verb",
+    "uuid": "807fb056-9343-4bd8-b2d9-7e35d45eac10"
+  },
+  {
+    "Chinese": "新鲜",
+    "Thai": "สด",
+    "phonetic": "S̄d",
+    "English": "sot",
+    "type": "adjective",
+    "uuid": "61484720-562a-4b3e-bcd8-5853ee4cad6c"
+  },
+  {
+    "Chinese": "现金",
+    "Thai": "เงินสด",
+    "phonetic": "Ngeins̄d",
+    "English": "ngern sot",
+    "type": "noun",
+    "uuid": "728be72c-4a80-4f48-a0bd-b4e3fc3dc02c"
+  },
+  {
+    "Chinese": "转账",
+    "Thai": "โอน",
+    "phonetic": "Xon",
+    "English": "?oon",
+    "type": "verb",
+    "uuid": "d814f698-e1d5-4ecd-b0d5-92bf174b4de8"
+  },
+  {
+    "Chinese": "炸蒜",
+    "Thai": "กระเทียมเจียว",
+    "phonetic": "Kratheīym ceīyw",
+    "English": "krathiam jiaw",
+    "type": "noun",
+    "uuid": "20597a1d-de8b-4bbb-83d3-018d1798684a"
+  },
+  {
+    "Chinese": "过敏",
+    "Thai": "แพ้",
+    "phonetic": "Phæ̂",
+    "English": "ph33",
+    "type": "verb",
+    "uuid": "70eef87a-2802-4d8b-842d-c7703735c51d"
+  },
+  {
+    "Chinese": "或者",
+    "Thai": "หรือ",
+    "phonetic": "H̄rụ̄x",
+    "English": "rvv",
+    "type": "conjunction",
+    "uuid": "12c37bea-edad-4941-8f2b-1cfb48a9d86d"
+  },
+  {
+    "Chinese": "饺子",
+    "Thai": "เกี๊ยว",
+    "phonetic": "Keī́yw",
+    "English": "kiaw",
+    "type": "noun",
+    "uuid": "f114b438-6989-4843-aa1d-f8d7ab4dfc3a"
+  },
+  {
+    "Chinese": "干的",
+    "Thai": "แห้ง",
+    "phonetic": "H̄æ̂ng",
+    "English": "h33ng",
+    "type": "adjective",
+    "uuid": "e1b49f3a-0f35-4369-940a-b02c70627af0"
+  },
+  {
+    "Chinese": "窗户",
+    "Thai": "หน้าต่าง",
+    "phonetic": "H̄n̂āt̀āng",
+    "English": "naataang",
+    "type": "noun",
+    "uuid": "f317dde6-4a82-4700-9773-342a8b4ba2ce"
+  },
+  {
+    "Chinese": "看见",
+    "Thai": "เห็น",
+    "phonetic": "H̄ĕn",
+    "English": "hen",
+    "type": "verb",
+    "uuid": "64ca49c8-d0c7-4744-aba8-d202ab105eb0"
+  },
+  {
+    "Chinese": "禁止",
+    "Thai": "ห้าม",
+    "phonetic": "H̄̂ām",
+    "English": "haam",
+    "type": "verb",
+    "uuid": "d56462cd-3caf-4820-91ae-cec67ecdd37d"
+  },
+  {
+    "Chinese": "足够的",
+    "Thai": "พอ",
+    "phonetic": "Phx",
+    "English": "phauau",
+    "type": "adjective",
+    "uuid": "957bf914-2bce-433c-afaa-93b89a9ccfe0"
+  },
+  {
+    "Chinese": "饮料",
+    "Thai": "เครื่องดื่ม",
+    "phonetic": "Kherụ̄̀xng dụ̄̀m",
+    "English": "khrvangdvvm",
+    "type": "noun",
+    "uuid": "f4438442-b70d-43e1-84ef-c0d438d51e67"
+  },
+  {
+    "Chinese": "牛奶",
+    "Thai": "นม",
+    "phonetic": "Nm",
+    "English": "nom",
+    "type": "noun",
+    "uuid": "0f384dfd-c29a-4100-a0ff-f1d08ef18793"
+  },
+  {
+    "Chinese": "糖浆",
+    "Thai": "น้ำเชื่อม",
+    "phonetic": "N̂ả cheụ̄̀xm",
+    "English": "na chvam",
+    "type": "noun",
+    "uuid": "07c96f2f-35cb-4451-8ec2-8b3c524164c3"
+  },
+  {
+    "Chinese": "喝",
+    "Thai": "ดื่ม",
+    "phonetic": "Dụ̄̀m",
+    "English": "dvvm",
+    "type": "verb",
+    "uuid": "f9b9aacd-1ac0-441d-af60-a194a087cac0"
+  },
+  {
+    "Chinese": "冰",
+    "Thai": "น้ำแข็ง",
+    "phonetic": "N̂ả k̄hæ̆ng",
+    "English": "nam kh33ng",
+    "type": "noun",
+    "uuid": "18c85c5d-145f-4e72-9ff7-bf512b3dea88"
   }
 ]
