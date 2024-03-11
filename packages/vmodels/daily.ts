@@ -4,12 +4,14 @@ import dayjs from "dayjs";
 import { load, saveDaily } from "../storage";
 
 const FORMAT = "YYYY-MM-DD";
-export const filteredWords = ref<IWord[]>([]);
+export const filteredWords = ref<IWord[] | null>(null);
 export const finishedDays = ref<string[]>([]);
 
 init();
 
 export function removeDailyWordById(id: string) {
+    if (!filteredWords.value) return;
+
     const index = filteredWords.value.findIndex((word) => word.uuid === id);
 
     if (index === -1) return;
@@ -23,9 +25,11 @@ async function init() {
 
   finishedDays.value = finished;
 
-  if (storedWords.length > 0) {
-    filteredWords.value = storedWords;
-    return;
+  if (storedWords) {
+    if (storedWords.length > 0) {
+      filteredWords.value = storedWords;
+      return;
+    }
   }
 
   const ws = words.value
@@ -43,13 +47,13 @@ async function init() {
 async function loadStored() {
   const today = dayjs().format(FORMAT);
   const data = await load();
-  const daily = data.daily[today] || [];
+  const daily = data.daily[today]?? null;
   const finishedDays: string[] = [];
 
   let cursor = dayjs().startOf("month")
   do {
     const date = cursor.format("D");
-    if (data.daily[date] && data.daily[date].length === 0) {
+    if (data.daily[date] && data.daily[date]!.length === 0) {
       finishedDays.push(date);
     }
     cursor = cursor.add(1, "day");
