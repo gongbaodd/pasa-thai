@@ -26,10 +26,8 @@ async function init() {
   finishedDays.value = finished;
 
   if (storedWords) {
-    if (storedWords.length > 0) {
       filteredWords.value = storedWords;
       return;
-    }
   }
 
   const ws = words.value

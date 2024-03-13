@@ -5422,5 +5422,253 @@
     "English": "nam kh33ng",
     "type": "noun",
     "uuid": "18c85c5d-145f-4e72-9ff7-bf512b3dea88"
+  },
+  {
+    "Chinese": "章节",
+    "Thai": "บท",
+    "phonetic": "Bth",
+    "English": "bon",
+    "type": "noun",
+    "uuid": "006f87ca-f4d8-4569-ad57-fc3e956baa05"
+  },
+  {
+    "Chinese": "第十章",
+    "Thai": "บทที่สิบ",
+    "phonetic": "Bth thī̀ s̄ib",
+    "English": "bon thii sa",
+    "type": "noun",
+    "uuid": "a698f898-9173-4e73-877e-10eb9fe02cf5"
+  },
+  {
+    "Chinese": "橙子怎么卖",
+    "Thai": "ส้มขายอย่างไร",
+    "phonetic": "S̄̂m k̄hāy xỳāngrị",
+    "English": "som khaay yangngay",
+    "type": "conversation",
+    "uuid": "6006981d-4a2a-4657-9794-cb443f4cbbce"
+  },
+  {
+    "Chinese": "卖",
+    "Thai": "ขาย",
+    "phonetic": "K̄hāy",
+    "English": "khay",
+    "type": "verb",
+    "uuid": "e4a9e8ce-c679-48e4-b4d0-308df3289367"
+  },
+  {
+    "Chinese": "减",
+    "Thai": "ลด",
+    "phonetic": "Ld",
+    "English": "lot",
+    "type": "verb",
+    "uuid": "6eb4d9bb-eae2-4860-9e63-c429845ed622"
+  },
+  {
+    "Chinese": "折扣",
+    "Thai": "ลดราคา",
+    "phonetic": "Ld rākhā",
+    "English": "lot laakhaa",
+    "type": "noun",
+    "uuid": "37d7ec8e-11d4-4359-92ba-deb5b2b3dc04"
+  },
+  {
+    "Chinese": "怎么",
+    "Thai": "ยังไง",
+    "phonetic": "Yạng ngị",
+    "English": "yangngay",
+    "type": "adverb",
+    "uuid": "e41881cf-d47d-49ae-92a1-215fc90b6bde"
+  },
+  {
+    "Chinese": "一个200泰铢",
+    "Thai": "อันละ 200 บาท",
+    "phonetic": "Xạn la 200 bāth",
+    "English": "?an la 200 baht",
+    "type": "conversation",
+    "uuid": "2baa0bc7-5a09-4c87-83ff-6fba084de0e9"
+  },
+  {
+    "Chinese": "那么",
+    "Thai": "นั้น",
+    "phonetic": "Nận",
+    "English": "ngan",
+    "type": "conjunction",
+    "uuid": "6e70989c-b4bf-4646-a16c-c457cb39c6f2"
+  },
+  {
+    "Chinese": "男卖家",
+    "Thai": "ผู้ขาย",
+    "phonetic": "P̄hū̂ k̄hāy",
+    "English": "phuu khaa",
+    "type": "noun",
+    "uuid": "25e052a6-7773-47e5-94ab-7139bd66455c"
+  },
+  {
+    "Chinese": "好心",
+    "Thai": "ใจดี",
+    "phonetic": "Cıdī",
+    "English": "jaydii",
+    "type": "adjective",
+    "uuid": "1ea579ad-4b19-4661-ae5b-85ffaca82e69"
+  },
+  {
+    "Chinese": "酒",
+    "Thai": "เหล้า",
+    "phonetic": "H̄el̂ā",
+    "English": "law",
+    "type": "noun",
+    "uuid": "495f005c-3fb8-4238-889b-b8023e7d02fc"
+  },
+  {
+    "Chinese": "酒店多少钱一晚？",
+    "Thai": "โรงแรมคืนละเท่าไหร่",
+    "phonetic": "Rongræm khụ̄n la thèā h̄ịr̀",
+    "English": "roongr33n khun la thawray",
+    "type": "conversation",
+    "uuid": "631f98db-5f9f-4830-b893-290cbd127677"
+  },
+  {
+    "Chinese": "东西",
+    "Thai": "ของ",
+    "phonetic": "K̄hxng",
+    "English": "khauaung",
+    "type": "noun",
+    "uuid": "c600254f-11d8-4611-aa5b-3fc12cacc8f3"
+  },
+  {
+    "Chinese": "销售人员",
+    "Thai": "พนักงานขาย",
+    "phonetic": "Phnạkngān k̄hāy",
+    "English": "phanakngaang khaay",
+    "type": "noun",
+    "uuid": "9bcdfbdb-3bf2-4e41-863e-b29721587738"
+  },
+  {
+    "Chinese": "员工",
+    "Thai": "พนักงาน",
+    "phonetic": "Phnạkngān",
+    "English": "phanakngaang",
+    "type": "noun",
+    "uuid": "e796c751-3192-4353-9094-e6b96aaa1fb2"
+  },
+  {
+    "Chinese": "试",
+    "Thai": "ลอง",
+    "phonetic": "Lxng",
+    "English": "lauaung",
+    "type": "verb",
+    "uuid": "91b0c08d-9d6f-48ab-b67f-4d11c9ab231c"
+  },
+  {
+    "Chinese": "市场",
+    "Thai": "ตลาด",
+    "phonetic": "Tlād",
+    "English": "talaat",
+    "type": "noun",
+    "uuid": "9ceb3ef0-60a8-446e-babb-1b1f48553838"
+  },
+  {
+    "Chinese": "换货",
+    "Thai": "เปลี่ยนของ",
+    "phonetic": "Pelī̀yn k̄hxng",
+    "English": "plian khauaung",
+    "type": "verb",
+    "uuid": "ae18c1b9-a291-4d8a-89d5-ea0298ca7dc2"
+  },
+  {
+    "Chinese": "文具",
+    "Thai": "เครื่องเขียน",
+    "phonetic": "Kherụ̄̀xng k̄heīyn",
+    "English": "khrvangkhian",
+    "type": "noun",
+    "uuid": "1f8adee7-b5c1-4836-9e84-5e93a5d41afe"
+  },
+  {
+    "Chinese": "甜品",
+    "Thai": "ขนม",
+    "phonetic": "K̄hnm",
+    "English": "khanom",
+    "type": "noun",
+    "uuid": "61fe1e1a-b5b1-4679-84c4-dd6c65f5669f"
+  },
+  {
+    "Chinese": "帽子",
+    "Thai": "หมวก",
+    "phonetic": "H̄mwk",
+    "English": "muak",
+    "type": "noun",
+    "uuid": "c984c8cb-b250-48ef-989a-0058b2ecf026"
+  },
+  {
+    "Chinese": "眼镜",
+    "Thai": "แว่น",
+    "phonetic": "Wæ̀n",
+    "English": "w3n",
+    "type": "noun",
+    "uuid": "796cdc42-1d89-4ef3-a8b2-37c9399200de"
+  },
+  {
+    "Chinese": "布料",
+    "Thai": "ผ้า",
+    "phonetic": "P̄ĥā",
+    "English": "phaa",
+    "type": "noun",
+    "uuid": "04734654-8138-4960-96ae-1aaeaff37a9f"
+  },
+  {
+    "Chinese": "试衣间",
+    "Thai": "ห้องลองชุด",
+    "phonetic": "H̄̂xng lxng chud",
+    "English": "haung lauaung chut",
+    "type": "noun",
+    "uuid": "496328ed-408b-4ff0-add2-dc24d7bf302f"
+  },
+  {
+    "Chinese": "手表",
+    "Thai": "นาฬิกา",
+    "phonetic": "Nāḷikā",
+    "English": "naalikaa",
+    "type": "noun",
+    "uuid": "46a057d3-0343-4e0b-a2da-7379e86ec1af"
+  },
+  {
+    "Chinese": "饰品",
+    "Thai": "เครื่องประดับ",
+    "phonetic": "Kherụ̄̀xng pradạb",
+    "English": "khrvang pradap",
+    "type": "noun",
+    "uuid": "bdbf4b0f-3d72-4a4b-a8b5-9d3e33264a7b"
+  },
+  {
+    "Chinese": "薄",
+    "Thai": "บาง",
+    "phonetic": "Bāng",
+    "English": "baang",
+    "type": "adjective",
+    "uuid": "282d765b-7232-4b72-9527-424ba6c259f9"
+  },
+  {
+    "Chinese": "找",
+    "Thai": "หา",
+    "phonetic": "h̄ā",
+    "English": "haa",
+    "type": "verb",
+    "uuid": "a3d22ed9-489a-4ad3-8e0e-926734303b7c"
+  },
+  {
+    "Chinese": "付",
+    "Thai": "จ่าย",
+    "phonetic": "C̀āy",
+    "English": "jaay",
+    "type": "verb",
+    "uuid": "e4a61595-4715-4df8-9485-fd57fa357abb"
+  },
+  {
+    "Chinese": "厚的",
+    "Thai": "หนา",
+    "phonetic": "H̄nā",
+    "English": "naa",
+    "type": "adjective",
+    "uuid": "ca4b3564-29b2-4b60-80ea-f0f44e838678"
   }
 ]
