@@ -5670,5 +5670,389 @@
     "English": "naa",
     "type": "adjective",
     "uuid": "ca4b3564-29b2-4b60-80ea-f0f44e838678"
+  },
+  {
+    "Chinese": "短裤",
+    "Thai": "กางเกงขาสั้น",
+    "phonetic": "Kāngkeng k̄hā s̄ận",
+    "English": "kaang keeng khaa san",
+    "type": "noun",
+    "uuid": "98329b88-b449-4968-97f5-280876340b66"
+  },
+  {
+    "Chinese": "长裤",
+    "Thai": "กางเกงขายาว",
+    "phonetic": "Kāngkeng k̄hā yāw",
+    "English": "kaang keeng khaa yaaw",
+    "type": "noun",
+    "uuid": "1751cfd1-f68a-4e93-9e67-8c81dcdf57ea"
+  },
+  {
+    "Chinese": "运动",
+    "Thai": "กีฬา",
+    "phonetic": "Kīḷā",
+    "English": "kila",
+    "type": "noun",
+    "uuid": "32c82edd-4d91-4768-884f-b501a8cf0d6f"
+  },
+  {
+    "Chinese": "拖鞋",
+    "Thai": "รองเท้าแตะ",
+    "phonetic": "Rxngthêā tæa",
+    "English": "rauaungthaaw t3",
+    "type": "noun",
+    "uuid": "43578a98-5cd8-4620-af7d-8f4d4ac7a6b4"
+  },
+  {
+    "Chinese": "平时",
+    "Thai": "ปกติ",
+    "phonetic": "Pkti",
+    "English": "pok ka ti",
+    "type": "noun",
+    "uuid": "c516dc09-d537-4b2a-a2ba-b1beb21c7a79"
+  },
+  {
+    "Chinese": "(有)一些...",
+    "Thai": "...บาง",
+    "phonetic": "Bāng",
+    "English": "baang",
+    "type": "adverb",
+    "uuid": "b9891f7c-dfe6-4727-bb44-cea621ea7447"
+  },
+  {
+    "Chinese": "棕色",
+    "Thai": "สีน้ำตาล",
+    "phonetic": "S̄ī n̂ảtāl",
+    "English": "sii namtaan",
+    "type": "color",
+    "uuid": "98a08139-244c-464d-9bab-f7097eb08fd2"
+  },
+  {
+    "Chinese": "蓝色",
+    "Thai": "สีน้ำเงิน",
+    "phonetic": "S̄īn̂ảngein",
+    "English": "sii namngaan",
+    "type": "color",
+    "uuid": "64fa4072-afc6-471c-8304-d6eae9413cd7"
+  },
+  {
+    "Chinese": "换",
+    "Thai": "เปลี่ยน",
+    "phonetic": "Pelī̀yn",
+    "English": "plian",
+    "type": "verb",
+    "uuid": "1cba16fa-5299-4075-95d5-e0303bed26fe"
+  },
+  {
+    "Chinese": "忘",
+    "Thai": "ลืม",
+    "phonetic": "Lụ̄m",
+    "English": "lvm",
+    "type": "verb",
+    "uuid": "201c9134-c125-466d-bad2-b4249e641209"
+  },
+  {
+    "Chinese": "腰带",
+    "Thai": "เข็มขัด",
+    "phonetic": "K̄hĕmk̄hạd",
+    "English": "khemkhat",
+    "type": "noun",
+    "uuid": "a3db0b45-6d38-4157-87e9-40207ccca3f5"
+  },
+  {
+    "Chinese": "眼镜",
+    "Thai": "แว่นตา",
+    "phonetic": "Wæ̀ntā",
+    "English": "wentaa",
+    "type": "noun",
+    "uuid": "f322f306-1a36-4a5e-acad-b2c2ece3c80a"
+  },
+  {
+    "Chinese": "灰色",
+    "Thai": "สีเทา",
+    "phonetic": "S̄ī theā",
+    "English": "sii thaw",
+    "type": "color",
+    "uuid": "54cdc791-174a-4dbc-8cb7-6724532c0281"
+  },
+  {
+    "Chinese": "紫色",
+    "Thai": "สีม่วง",
+    "phonetic": "S̄ī m̀wng",
+    "English": "sii muang",
+    "type": "color",
+    "uuid": "d77da41a-0a1d-46fa-8aa3-e55192c9c377"
+  },
+  {
+    "Chinese": "起的有点早",
+    "Thai": "ตื่นเช้าไปหน่อย",
+    "phonetic": "Tụ̄̀n chêā pị h̄ǹxy",
+    "English": "tvvn chaw pay nauy",
+    "type": "conversation",
+    "uuid": "f0ded8e7-389c-47b6-b816-9e170ae90162"
+  },
+  {
+    "Chinese": "紧（时间）",
+    "Thai": "แน่น",
+    "phonetic": "Næ̀n",
+    "English": "n33n",
+    "type": "adjective",
+    "uuid": "4655c012-a10a-4d74-8da3-c91460f92a7b"
+  },
+  {
+    "Chinese": "松",
+    "Thai": "หลวม",
+    "phonetic": "H̄lwm",
+    "English": "luam",
+    "type": "adjective",
+    "uuid": "de822deb-60cf-42dc-a6a0-01d36ed9d431"
+  },
+  {
+    "Chinese": "收据",
+    "Thai": "ใบเสร็จ",
+    "phonetic": "Bı s̄er̆c",
+    "English": "bay set",
+    "type": "noun",
+    "uuid": "7d3a8e12-5305-4b3e-8643-450d6cdde03b"
+  },
+  {
+    "Chinese": "破碎的",
+    "Thai": "เสีย",
+    "phonetic": "S̄eīy",
+    "English": "sia",
+    "type": "adjective",
+    "uuid": "48a61332-3194-45a1-a205-e889ba89ba03"
+  },
+  {
+    "Chinese": "会员卡",
+    "Thai": "บัตรสมาชิก",
+    "phonetic": "Bạtr s̄māchik",
+    "English": "bat sa maa chik",
+    "type": "noun",
+    "uuid": "059cf6fd-6798-4e30-a90f-fe5597fb5116"
+  },
+  {
+    "Chinese": "推车",
+    "Thai": "รถเข็น",
+    "phonetic": "Rt̄h k̄hĕn",
+    "English": "rot khen",
+    "type": "noun",
+    "uuid": "f654cfd5-cde3-42ef-8453-11b73a10aa62"
+  },
+  {
+    "Chinese": "花瓶",
+    "Thai": "แจกัน",
+    "phonetic": "Cækạn",
+    "English": "j33kan",
+    "type": "noun",
+    "uuid": "37298713-2fa3-442c-911d-ec6df252ca35"
+  },
+  {
+    "Chinese": "床",
+    "Thai": "ที่นอน",
+    "phonetic": "Thī̀nxn",
+    "English": "tiang nauaun",
+    "type": "noun",
+    "uuid": "38d9407a-973f-4f67-9aa8-d45cefe23c96"
+  },
+  {
+    "Chinese": "爸爸",
+    "Thai": "พ่อ",
+    "phonetic": "Ph̀x",
+    "English": "phauau",
+    "type": "family",
+    "uuid": "f7dd0e6c-c9a6-438d-92b2-aed2d4ba3ee0"
+  },
+  {
+    "Chinese": "妈妈",
+    "Thai": "แม่",
+    "phonetic": "Mæ̀",
+    "English": "m33",
+    "type": "family",
+    "uuid": "02035734-e1d9-4391-a8ba-5ee1052fd162"
+  },
+  {
+    "Chinese": "哥哥",
+    "Thai": "พี่ชาย",
+    "phonetic": "Phī̀ chāy",
+    "English": "phii chay",
+    "type": "family",
+    "uuid": "94502541-4c0f-4b75-ab7e-5567468e348b"
+  },
+  {
+    "Chinese": "姐姐",
+    "Thai": "พี่สาว",
+    "phonetic": "Phī̀ s̄āw",
+    "English": "pii saw",
+    "type": "family",
+    "uuid": "63884433-28c3-4d9a-86c6-8be2d3ea6606"
+  },
+  {
+    "Chinese": "弟弟",
+    "Thai": "น้องชาย",
+    "phonetic": "N̂xng chāy",
+    "English": "nauaung chay",
+    "type": "family",
+    "uuid": "f91c3666-5d5f-4bd2-9497-a99b1be16143"
+  },
+  {
+    "Chinese": "妹妹",
+    "Thai": "น้องสาว",
+    "phonetic": "N̂xng s̄āw",
+    "English": "nauaung saw",
+    "type": "family",
+    "uuid": "5e879a8f-ce17-4051-99c8-c1956f27d7ac"
+  },
+  {
+    "Chinese": "孩子",
+    "Thai": "ลูก",
+    "phonetic": "Lūk",
+    "English": "luuk",
+    "type": "family",
+    "uuid": "fdf67f89-7107-4c13-a69b-20dfb6b601c3"
+  },
+  {
+    "Chinese": "妻子",
+    "Thai": "ภรรยา",
+    "phonetic": "P̣hrryā",
+    "English": "phan ra yaa",
+    "type": "family",
+    "uuid": "520d06a4-3b5f-4e24-9ae9-ae2911e06168"
+  },
+  {
+    "Chinese": "丈夫",
+    "Thai": "สามี",
+    "phonetic": "S̄āmī",
+    "English": "saamii",
+    "type": "family",
+    "uuid": "8df10539-ab2d-4cbd-8d3f-6534676d96c7"
+  },
+  {
+    "Chinese": "祖父",
+    "Thai": "ปู่",
+    "phonetic": "Pū̀",
+    "English": "puu",
+    "type": "family",
+    "uuid": "c28bcaec-2484-4cc0-bd33-a16a5cbac939"
+  },
+  {
+    "Chinese": "外婆",
+    "Thai": "ยาย",
+    "phonetic": "Yāy",
+    "English": "yaay",
+    "type": "family",
+    "uuid": "8b18687e-bdd2-4fcc-87eb-ef358f34e44c"
+  },
+  {
+    "Chinese": "祖母",
+    "Thai": "ย่า",
+    "phonetic": "Ỳā",
+    "English": "yaa",
+    "type": "family",
+    "uuid": "bf0e799d-9663-4906-8489-bd3c9b9bb1ee"
+  },
+  {
+    "Chinese": "外公",
+    "Thai": "ตา",
+    "phonetic": "Tā",
+    "English": "taam",
+    "type": "family",
+    "uuid": "7b9bc4c9-805e-4782-af54-1726370f8d2a"
+  },
+  {
+    "Chinese": "伯父/大舅",
+    "Thai": "ลุง",
+    "phonetic": "Lung",
+    "English": "lung",
+    "type": "family",
+    "uuid": "60836652-e919-416a-86b8-a9583065c0e8"
+  },
+  {
+    "Chinese": "大姑/大姨",
+    "Thai": "ป้า",
+    "phonetic": "P̂ā",
+    "English": "paa",
+    "type": "family",
+    "uuid": "2ed388b1-4845-458a-a1c2-9d7ec894dc18"
+  },
+  {
+    "Chinese": "小舅/小姨",
+    "Thai": "น้า",
+    "phonetic": "N̂ā",
+    "English": "naa",
+    "type": "family",
+    "uuid": "fa97f4ff-74b5-48e2-9f42-e4defa1cc6aa"
+  },
+  {
+    "Chinese": "叔叔/小姑",
+    "Thai": "อา",
+    "phonetic": "Xā",
+    "English": "?aa",
+    "type": "family",
+    "uuid": "c0b2caf9-8043-4141-9fd6-b7b4513fcd16"
+  },
+  {
+    "Chinese": "一个小时都没有",
+    "Thai": "ไม่มีเลยซ้ำชั่วโมง",
+    "phonetic": "Mị̀mī ley ŝả chạ̀wmong",
+    "English": "may mi ler sak chuamoong",
+    "type": "conversation",
+    "uuid": "c5c7ead5-72b4-40e0-a315-62ea8589be1a"
+  },
+  {
+    "Chinese": "是",
+    "Thai": "เป็น",
+    "phonetic": "Pĕn",
+    "English": "pen",
+    "type": "verb",
+    "uuid": "1ff08cf2-4a97-457a-a985-c2ddd77fa63c"
+  },
+  {
+    "Chinese": "唯一（人, 物品）",
+    "Thai": "เดียว",
+    "phonetic": "Deīyw",
+    "English": "diaw",
+    "type": "adjective",
+    "uuid": "2c0097bd-9838-442b-9ff0-d22451b5b484"
+  },
+  {
+    "Chinese": "的",
+    "Thai": "ของ",
+    "phonetic": "K̄hxng",
+    "English": "khaung",
+    "type": "prep",
+    "uuid": "cfaa677d-6666-45fa-9cd3-3ad7442b64c6"
+  },
+  {
+    "Chinese": "女婿",
+    "Thai": "ลูกเขย",
+    "phonetic": "Lūkk̄hey",
+    "English": "luuk khery",
+    "type": "family",
+    "uuid": "11f679f6-3126-446a-bcba-39457a369fa4"
+  },
+  {
+    "Chinese": "儿媳",
+    "Thai": "ลูกสะใภ้",
+    "phonetic": "Lūk s̄ap̣hı̂",
+    "English": "luuk saphery",
+    "type": "family",
+    "uuid": "29c2ebfe-9b8c-4a75-95d2-093f91588805"
+  },
+  {
+    "Chinese": "孙",
+    "Thai": "หลาน",
+    "phonetic": "h̄lān",
+    "English": "laan",
+    "type": "family",
+    "uuid": "4948eb2b-4c35-4d7f-99ad-3e688abb0d9c"
+  },
+  {
+    "Chinese": "亲戚",
+    "Thai": "ญาติ",
+    "phonetic": "Ỵāti",
+    "English": "yaat",
+    "type": "family",
+    "uuid": "d6e7b32a-bd4f-4b13-b425-96b4ba39f9fc"
   }
 ]
