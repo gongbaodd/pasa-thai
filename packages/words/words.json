@@ -6054,5 +6054,341 @@
     "English": "yaat",
     "type": "family",
     "uuid": "d6e7b32a-bd4f-4b13-b425-96b4ba39f9fc"
+  },
+  {
+    "Chinese": "时间",
+    "Thai": "เวลา",
+    "phonetic": "Welā",
+    "English": "weelaa",
+    "type": "noun",
+    "uuid": "fd98d9fa-0598-4275-a03a-d4556a6b8197"
+  },
+  {
+    "Chinese": "订婚",
+    "Thai": "หมั้น",
+    "phonetic": "H̄mận",
+    "English": "man",
+    "type": "verb",
+    "uuid": "914ec55d-a135-4f01-9332-934d12384156"
+  },
+  {
+    "Chinese": "结婚",
+    "Thai": "แต่งงาน",
+    "phonetic": "Tæ̀ngngān",
+    "English": "t3ngngaan",
+    "type": "verb",
+    "uuid": "7a20c6c9-4601-4d95-80e4-f4553236c32a"
+  },
+  {
+    "Chinese": "离婚",
+    "Thai": "หย่า",
+    "phonetic": "H̄ỳā",
+    "English": "yaa",
+    "type": "verb",
+    "uuid": "40942614-61aa-463d-8dd6-47caf5c1e555"
+  },
+  {
+    "Chinese": "死亡",
+    "Thai": "ตาย",
+    "phonetic": "Tāy",
+    "English": "taay",
+    "type": "verb",
+    "uuid": "db41d84b-edf0-4f57-9835-b7d2e2c8de44"
+  },
+  {
+    "Chinese": "去世",
+    "Thai": "เสียชีวิต",
+    "phonetic": "S̄eīy chīwit",
+    "English": "sia chii wit",
+    "type": "verb",
+    "uuid": "36db8758-5789-4104-b18b-36aca2def924"
+  },
+  {
+    "Chinese": "经理",
+    "Thai": "ผู้จัดการ",
+    "phonetic": "P̄hū̂ cạdkār",
+    "English": "phuu jat kaan",
+    "type": "noun",
+    "uuid": "ffb3fc2d-8113-4e9d-b844-d29036714b96"
+  },
+  {
+    "Chinese": "老板",
+    "Thai": "เจ้านาย",
+    "phonetic": "Cêā nāy",
+    "English": "jaanwnaay",
+    "type": "noun",
+    "uuid": "44a2c1b4-0c0d-4f73-ab89-4874142c56f9"
+  },
+  {
+    "Chinese": "到",
+    "Thai": "ถึง",
+    "phonetic": "t̄hụng",
+    "English": "thvng",
+    "type": "verb",
+    "uuid": "fbc98813-ae2f-4339-8d1e-af0a8665f9b8"
+  },
+  {
+    "Chinese": "你呢",
+    "Thai": "และคุณ",
+    "phonetic": "Læa khuṇ",
+    "English": "l33w khun la",
+    "type": "conversation",
+    "uuid": "2dd78abd-69f3-4566-9eef-4599b3cf92c3"
+  },
+  {
+    "Chinese": "还没吃",
+    "Thai": "ยังไม่กิน",
+    "phonetic": "Yạng mị̀ kin",
+    "English": "yang may kin",
+    "type": "conversation",
+    "uuid": "b13cbe8b-12d6-4e8d-a808-d83d7402cb38"
+  },
+  {
+    "Chinese": "一起",
+    "Thai": "ด้วยกัน",
+    "phonetic": "D̂wy kạn",
+    "English": "duay kan",
+    "type": "adverb",
+    "uuid": "f31b797a-37a0-48d2-be13-6520df0d01c8"
+  },
+  {
+    "Chinese": "打游戏",
+    "Thai": "เล่นเกมส์",
+    "phonetic": "Lèn kems̄̒",
+    "English": "len game",
+    "type": "verb",
+    "uuid": "d7d2f32f-2bc8-43f5-8c9b-bd646c3d6349"
+  },
+  {
+    "Chinese": "唱歌",
+    "Thai": "ร้องเพลง",
+    "phonetic": "R̂xng phelng",
+    "English": "rauaung phleeng",
+    "type": "verb",
+    "uuid": "bbc877d9-2419-47a9-837d-b16405c2230b"
+  },
+  {
+    "Chinese": "开会",
+    "Thai": "ประชุม",
+    "phonetic": "Prachum",
+    "English": "pra chum",
+    "type": "verb",
+    "uuid": "6e0556e6-f440-4034-8f93-430f8ad2fdc0"
+  },
+  {
+    "Chinese": "刚刚",
+    "Thai": "เพิ่ง",
+    "phonetic": "Pheìng",
+    "English": "pherng",
+    "type": "adverb",
+    "uuid": "320e4c84-506b-40f1-8b29-094fec26ab85"
+  },
+  {
+    "Chinese": "蜜蜂",
+    "Thai": "ผึ้ง",
+    "phonetic": "P̄hụ̂ng",
+    "English": "phvng",
+    "type": "noun",
+    "uuid": "128f677e-9449-48c6-89af-bd5e37a0681a"
+  },
+  {
+    "Chinese": "蜂蜜",
+    "Thai": "น้ำผึ้ง",
+    "phonetic": "N̂ả p̄hụ̂ng",
+    "English": "naam phvng",
+    "type": "noun",
+    "uuid": "22db3011-5450-440a-a286-589f2a15778b"
+  },
+  {
+    "Chinese": "介绍",
+    "Thai": "แนะนำ",
+    "phonetic": "Næanả",
+    "English": "n3nam",
+    "type": "verb",
+    "uuid": "69b9145b-4a8c-4995-b691-a595b396afc6"
+  },
+  {
+    "Chinese": "认识",
+    "Thai": "รู้จัก",
+    "phonetic": "Rū̂cạk",
+    "English": "ruu jak",
+    "type": "verb",
+    "uuid": "1c04713c-c2bc-4dd8-bb64-5cbb65937e59"
+  },
+  {
+    "Chinese": "记得",
+    "Thai": "จำ",
+    "phonetic": "Cả",
+    "English": "jam",
+    "type": "verb",
+    "uuid": "22b6b746-dfb5-4378-a4d8-433d880c30d2"
+  },
+  {
+    "Chinese": "忘了",
+    "Thai": "ลืม",
+    "phonetic": "Lụ̄m",
+    "English": "lvvm",
+    "type": "verb",
+    "uuid": "d0575503-5dbb-42b3-8661-8a78f97e2851"
+  },
+  {
+    "Chinese": "想不出",
+    "Thai": "คิดไม่ออก",
+    "phonetic": "Khid mị̀ xxk",
+    "English": "khit may ?auauk",
+    "type": "verb",
+    "uuid": "fbf36c2e-aea7-47a2-849e-f50cd5d75889"
+  },
+  {
+    "Chinese": "客人",
+    "Thai": "ลูกค้า",
+    "phonetic": "Lūkkĥā",
+    "English": "luuk khaa",
+    "type": "noun",
+    "uuid": "a253d4dc-6c3f-45a6-9168-03fd3e7495dc"
+  },
+  {
+    "Chinese": "身体",
+    "Thai": "ร่างกาย",
+    "phonetic": "R̀āngkāy",
+    "English": "raang kaay",
+    "type": "noun",
+    "uuid": "a5f73a84-78be-44fd-bfa8-6f1b2fe85de0"
+  },
+  {
+    "Chinese": "头",
+    "Thai": "ศีรษะ",
+    "phonetic": "Ṣ̄īrs̄ʹa",
+    "English": "siisa",
+    "type": "noun",
+    "uuid": "7ab2aae5-2c8b-4aa8-8b9e-c7fe86752f6a"
+  },
+  {
+    "Chinese": "头发",
+    "Thai": "ผม",
+    "phonetic": "P̄hm",
+    "English": "phom",
+    "type": "noun",
+    "uuid": "c6232906-f531-4e27-8259-59f508013eb5"
+  },
+  {
+    "Chinese": "脸",
+    "Thai": "หน้า",
+    "phonetic": "H̄n̂ā",
+    "English": "naa",
+    "type": "noun",
+    "uuid": "d9b262db-7da9-4027-b198-3024fd39c05e"
+  },
+  {
+    "Chinese": "嘴",
+    "Thai": "ปาก",
+    "phonetic": "Pāk",
+    "English": "paak",
+    "type": "noun",
+    "uuid": "4a3c0295-a748-4a31-862b-af6d3bd2cced"
+  },
+  {
+    "Chinese": "牙齿",
+    "Thai": "ฟัน",
+    "phonetic": "Fạn",
+    "English": "fan",
+    "type": "noun",
+    "uuid": "e175a7b0-c5c6-4608-86ee-1c5318be850a"
+  },
+  {
+    "Chinese": "胡子",
+    "Thai": "หนวด",
+    "phonetic": "H̄nwd",
+    "English": "nuat",
+    "type": "noun",
+    "uuid": "47c7b8ea-df23-47a0-8802-df7a787d335e"
+  },
+  {
+    "Chinese": "肩膀",
+    "Thai": "ไหล่",
+    "phonetic": "H̄ịl̀",
+    "English": "lay",
+    "type": "noun",
+    "uuid": "6b30b24b-833a-4eb5-9fa1-49f5017d6726"
+  },
+  {
+    "Chinese": "眉毛",
+    "Thai": "คิ้ว",
+    "phonetic": "Khîw",
+    "English": "khiw",
+    "type": "noun",
+    "uuid": "58f32610-5838-426c-b698-cdeaf8c263bf"
+  },
+  {
+    "Chinese": "耳朵",
+    "Thai": "หู",
+    "phonetic": "H̄ū",
+    "English": "huu",
+    "type": "noun",
+    "uuid": "8a67820e-d290-483f-8ca3-95870b2663b4"
+  },
+  {
+    "Chinese": "眼睛",
+    "Thai": "ตา",
+    "phonetic": "Tā",
+    "English": "taa",
+    "type": "noun",
+    "uuid": "c1066e08-adca-4e1f-9145-3594b7305855"
+  },
+  {
+    "Chinese": "鼻子",
+    "Thai": "จมูก",
+    "phonetic": "Cmūk",
+    "English": "jamuuk",
+    "type": "noun",
+    "uuid": "1ce10087-dfbd-484c-ad99-3c491e886277"
+  },
+  {
+    "Chinese": "腰部",
+    "Thai": "เอว",
+    "phonetic": "Xew",
+    "English": "?eew",
+    "type": "noun",
+    "uuid": "c5e372a8-0982-4649-86b5-54d4be6c3fd7"
+  },
+  {
+    "Chinese": "屁股",
+    "Thai": "ก้น",
+    "phonetic": "K̂n",
+    "English": "kon",
+    "type": "noun",
+    "uuid": "6c436125-2010-4b0c-a932-5fb331b76e70"
+  },
+  {
+    "Chinese": "腿",
+    "Thai": "ขา",
+    "phonetic": "K̄hā",
+    "English": "khaa",
+    "type": "noun",
+    "uuid": "80bb5c43-0757-4eea-acad-5f99ad98aa54"
+  },
+  {
+    "Chinese": "脚",
+    "Thai": "เท้า",
+    "phonetic": "Thêā",
+    "English": "thaaw",
+    "type": "noun",
+    "uuid": "f3377a8d-c708-4870-9bd4-73462bd93c1a"
+  },
+  {
+    "Chinese": "手指",
+    "Thai": "นิ้ว",
+    "phonetic": "Nîw",
+    "English": "niw",
+    "type": "noun",
+    "uuid": "642e2fcd-e082-4d9c-8b16-abcb0c0dd15a"
+  },
+  {
+    "Chinese": "脚趾",
+    "Thai": "นิ้วเท้า",
+    "phonetic": "Nîw thêā",
+    "English": "niw thaaw",
+    "type": "noun",
+    "uuid": "f93f9a1e-c81a-40a2-aac8-791eea2f42e0"
   }
 ]
