@@ -6390,5 +6390,37 @@
     "English": "niw thaaw",
     "type": "noun",
     "uuid": "f93f9a1e-c81a-40a2-aac8-791eea2f42e0"
+  },
+  {
+    "Chinese": "晚上8点",
+    "Thai": "2 ทุ่ม",
+    "phonetic": "2 Thùm",
+    "English": "2 thum",
+    "type": "time",
+    "uuid": "5a63f8fb-4daf-4b6a-93ab-52b1f68bc5c5"
+  },
+  {
+    "Chinese": "早上 6 点",
+    "Thai": "6 โมงเช้า",
+    "phonetic": "6 Mong chêā",
+    "English": "6 mong chaw",
+    "type": "time",
+    "uuid": "2f71a6c4-5bb0-45ea-a090-04faa7c64e88"
+  },
+  {
+    "Chinese": "午夜",
+    "Thai": "เที่ยงคืน",
+    "phonetic": "Theī̀yng khụ̄n",
+    "English": "thiang khvvn",
+    "type": "time",
+    "uuid": "61195c42-8b0f-4823-b99b-ce7e5bb0842e"
+  },
+  {
+    "Chinese": "中午",
+    "Thai": "เที่ยง",
+    "phonetic": "Theī̀yng",
+    "English": "thiang",
+    "type": "time",
+    "uuid": "b696aa09-6ab8-437f-86e2-234f6ce11103"
   }
 ]
