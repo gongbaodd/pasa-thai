@@ -6422,5 +6422,301 @@
     "English": "thiang",
     "type": "time",
     "uuid": "b696aa09-6ab8-437f-86e2-234f6ce11103"
+  },
+  {
+    "Chinese": "手臂",
+    "Thai": "แขน",
+    "phonetic": "K̄hæn",
+    "English": "k33n",
+    "type": "noun",
+    "uuid": "44f5486c-b255-48b6-ad80-ba559d37df92"
+  },
+  {
+    "Chinese": "上臂",
+    "Thai": "ต้นแขน",
+    "phonetic": "T̂n k̄hæn",
+    "English": "ton kh33n",
+    "type": "noun",
+    "uuid": "64ad0091-692d-4906-8302-5b2327370969"
+  },
+  {
+    "Chinese": "臀围",
+    "Thai": "สะโพก",
+    "phonetic": "S̄aphok",
+    "English": "saphook",
+    "type": "noun",
+    "uuid": "b786d154-b588-4655-ac1f-864c1f5c28a4"
+  },
+  {
+    "Chinese": "肚脐",
+    "Thai": "สะดือ",
+    "phonetic": "S̄adụ̄x",
+    "English": "sadvv",
+    "type": "noun",
+    "uuid": "1fcd4a46-9dbf-4d5b-8dc9-7fc52b45ab90"
+  },
+  {
+    "Chinese": "胸",
+    "Thai": "หน้าอก",
+    "phonetic": "H̄n̂āxk",
+    "English": "naa?ok",
+    "type": "noun",
+    "uuid": "415d69ed-10a8-4170-955c-e6dd7d9cc556"
+  },
+  {
+    "Chinese": "乳头",
+    "Thai": "นม",
+    "phonetic": "nm",
+    "English": "nom",
+    "type": "noun",
+    "uuid": "49e5b30b-43f0-476b-98ac-83752e8fd9e7"
+  },
+  {
+    "Chinese": "屁股",
+    "Thai": "ก้น",
+    "phonetic": "K̂n",
+    "English": "kon",
+    "type": "noun",
+    "uuid": "29b518ac-f4d5-41dc-9dd5-57c11b9b5a4f"
+  },
+  {
+    "Chinese": "鼻涕",
+    "Thai": "น้ำมูกไหล",
+    "phonetic": "N̂ảmūk h̄ịl",
+    "English": "naam muuk lay",
+    "type": "noun",
+    "uuid": "d6072266-a95e-4038-93a0-c5a81e144173"
+  },
+  {
+    "Chinese": "脖子",
+    "Thai": "คอ",
+    "phonetic": "Khx",
+    "English": "khauaung",
+    "type": "noun",
+    "uuid": "cc74663f-4b94-4a04-ad77-35f0e912d08f"
+  },
+  {
+    "Chinese": "指甲",
+    "Thai": "เล็บ",
+    "phonetic": "Lĕb",
+    "English": "lep",
+    "type": "noun",
+    "uuid": "ab87e6d1-1587-4e9c-af0a-e655a10be5ea"
+  },
+  {
+    "Chinese": "痛",
+    "Thai": "เจ็บ",
+    "phonetic": "Cĕb",
+    "English": "jep",
+    "type": "verb",
+    "uuid": "d73cd644-9851-4582-8f0e-2b6f169ea097"
+  },
+  {
+    "Chinese": "毛",
+    "Thai": "ผม",
+    "phonetic": "P̄hm",
+    "English": "khon",
+    "type": "noun",
+    "uuid": "075df6d9-af72-482e-a7ec-25c290adddd7"
+  },
+  {
+    "Chinese": "厚的",
+    "Thai": "หนา",
+    "phonetic": "H̄nā",
+    "English": "naa",
+    "type": "adjective",
+    "uuid": "e5487877-b0d7-44f7-8baa-ddf704974a24"
+  },
+  {
+    "Chinese": "薄的",
+    "Thai": "บาง",
+    "phonetic": "Bāng",
+    "English": "baang",
+    "type": "adjective",
+    "uuid": "a5caf386-81c9-4136-bb27-91cc0dc37d9f"
+  },
+  {
+    "Chinese": "大眼睛",
+    "Thai": "ตาโต",
+    "phonetic": "Tāto",
+    "English": "taa too",
+    "type": "noun",
+    "uuid": "7b4a14cf-0c76-406a-a07e-94b5cf7a7af6"
+  },
+  {
+    "Chinese": "酒窝",
+    "Thai": "ลักยิ้ม",
+    "phonetic": "Lạk yîm",
+    "English": "lak yim",
+    "type": "noun",
+    "uuid": "f0647b40-3e36-46d0-987c-8750fc0633af"
+  },
+  {
+    "Chinese": "深肤色",
+    "Thai": "ผิวเข้ม",
+    "phonetic": "p̄hiw k̄hêm",
+    "English": "phiw khlam",
+    "type": "noun",
+    "uuid": "999e5b26-9b92-4f26-93f4-bf9fc315d96c"
+  },
+  {
+    "Chinese": "浅肤色",
+    "Thai": "ผิวอ่อน",
+    "phonetic": "P̄hiw x̀xn",
+    "English": "phiw khaaw",
+    "type": "noun",
+    "uuid": "f643610b-9b23-4b57-810d-1d9522a3abb9"
+  },
+  {
+    "Chinese": "墨镜",
+    "Thai": "แว่นกันแดด",
+    "phonetic": "Wæ̀n kạndæd",
+    "English": "w3n kan d33t",
+    "type": "noun",
+    "uuid": "99975162-b5b5-498d-8c12-d690f0abe969"
+  },
+  {
+    "Chinese": "眼镜",
+    "Thai": "แว่นตา",
+    "phonetic": "Wæ̀ntā",
+    "English": "w3n taa",
+    "type": "noun",
+    "uuid": "02292403-38ac-4de9-9d15-5c89424dd096"
+  },
+  {
+    "Chinese": "短发",
+    "Thai": "ผมสั้น",
+    "phonetic": "P̄hm s̄ận",
+    "English": "phom san",
+    "type": "noun",
+    "uuid": "3cd7f007-0667-4ebb-95af-074a411bcf2d"
+  },
+  {
+    "Chinese": "矮",
+    "Thai": "เตี้ย",
+    "phonetic": "Teī̂y",
+    "English": "tia",
+    "type": "adjective",
+    "uuid": "55ab803e-89cf-48bc-a833-f41d253289fd"
+  },
+  {
+    "Chinese": "可爱",
+    "Thai": "น่ารัก",
+    "phonetic": "Ǹā rạk",
+    "English": "naa rak",
+    "type": "adjective",
+    "uuid": "5f4f4206-72a6-4f9f-87cb-dc42d324bc3a"
+  },
+  {
+    "Chinese": "干净",
+    "Thai": "สะอาด",
+    "phonetic": "S̄axād",
+    "English": "sa?aat",
+    "type": "adjective",
+    "uuid": "9893e250-7cd0-4111-81d6-a2b8b0ba9c42"
+  },
+  {
+    "Chinese": "脏的",
+    "Thai": "สกปรก",
+    "phonetic": "S̄kprk",
+    "English": "sok ka prok",
+    "type": "adjective",
+    "uuid": "9cf95865-4bcc-409c-a6fc-e2a85ba103d5"
+  },
+  {
+    "Chinese": "整洁",
+    "Thai": "เรียบร้อย",
+    "phonetic": "Reīybr̂xy",
+    "English": "riaprauauy",
+    "type": "adjective",
+    "uuid": "4b595511-eb42-4cf8-8ca5-265c24efd0ee"
+  },
+  {
+    "Chinese": "聪明",
+    "Thai": "ฉลาด",
+    "phonetic": "C̄hlād",
+    "English": "chalaat",
+    "type": "adjective",
+    "uuid": "bcccb019-d970-4eec-879e-44cdcd417a0f"
+  },
+  {
+    "Chinese": "笨",
+    "Thai": "โง่",
+    "phonetic": "Ngò",
+    "English": "ngoo",
+    "type": "adjective",
+    "uuid": "8813a881-cf7c-4f84-bd1a-9638ecc456db"
+  },
+  {
+    "Chinese": "勤奋",
+    "Thai": "ขยัน",
+    "phonetic": "K̄hyạn",
+    "English": "khayan",
+    "type": "adjective",
+    "uuid": "f1aeb6b5-7de4-420b-a315-7d5b2fe9ef27"
+  },
+  {
+    "Chinese": "懒",
+    "Thai": "ขี้เกียจ",
+    "phonetic": "K̄hī̂ keīyc",
+    "English": "khii kiat",
+    "type": "adjective",
+    "uuid": "dfbe1bb6-c511-40ac-b525-83ab171f5398"
+  },
+  {
+    "Chinese": "有礼貌",
+    "Thai": "สุภาพ",
+    "phonetic": "S̄up̣hāph",
+    "English": "suphaap",
+    "type": "adjective",
+    "uuid": "1b9c8fb6-1ca1-4bc6-9d81-7a2d1b1e903c"
+  },
+  {
+    "Chinese": "自私",
+    "Thai": "เห็นแก่ตัว",
+    "phonetic": "H̄ĕn kæ̀ tạw",
+    "English": "hen k33 tua",
+    "type": "adjective",
+    "uuid": "c31eadaa-4fa5-4468-971c-aa1a5662dd07"
+  },
+  {
+    "Chinese": "害羞",
+    "Thai": "ขี้อาย",
+    "phonetic": "K̄hī̂ xāy",
+    "English": "khii ?aay",
+    "type": "adjective",
+    "uuid": "36cb57f5-0515-4b6d-acbb-e2bc18744c31"
+  },
+  {
+    "Chinese": "凶",
+    "Thai": "ดุ",
+    "phonetic": "Du",
+    "English": "Du",
+    "type": "adjective",
+    "uuid": "03e29df6-9d38-429d-b36a-27bb55aa8c78"
+  },
+  {
+    "Chinese": "富有",
+    "Thai": "รวย",
+    "phonetic": "Rwy",
+    "English": "ruay",
+    "type": "adjective",
+    "uuid": "df701a16-00dd-45b7-9689-b24cb63aa9be"
+  },
+  {
+    "Chinese": "有趣",
+    "Thai": "น่าสนใจ",
+    "phonetic": "Ǹā s̄ncı",
+    "English": "naa sonjay",
+    "type": "adjective",
+    "uuid": "05992820-2bbb-4032-8f07-0a36ec39fa53"
+  },
+  {
+    "Chinese": "幽默的",
+    "Thai": "ตลก",
+    "phonetic": "Tlk",
+    "English": "talok",
+    "type": "adjective",
+    "uuid": "c5cd45c2-4274-4934-b455-0d3546314f5d"
   }
 ]
