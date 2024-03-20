@@ -6718,5 +6718,237 @@
     "English": "talok",
     "type": "adjective",
     "uuid": "c5cd45c2-4274-4934-b455-0d3546314f5d"
+  },
+  {
+    "Chinese": "疾病",
+    "Thai": "โรค",
+    "phonetic": "Rokh",
+    "English": "rook",
+    "type": "noun",
+    "uuid": "85625b3a-f443-4d57-99fb-8e8ea5ef5340"
+  },
+  {
+    "Chinese": "心脏病",
+    "Thai": "โรคหัวใจ",
+    "phonetic": "Rokh h̄ạwcı",
+    "English": "rook huajay",
+    "type": "noun",
+    "uuid": "75b4f5c6-854a-4e8c-96bb-d0a50700e068"
+  },
+  {
+    "Chinese": "癌症",
+    "Thai": "มะเร็ง",
+    "phonetic": "Marĕng",
+    "English": "mareng",
+    "type": "noun",
+    "uuid": "44d6107d-68e5-48cf-8c30-18d31ac6f3e6"
+  },
+  {
+    "Chinese": "糖尿病",
+    "Thai": "โรคเบาหวาน",
+    "phonetic": "Rokh beā h̄wān",
+    "English": "rook baw waan",
+    "type": "noun",
+    "uuid": "fa293c8a-4df4-43d0-ba90-70a097cce556"
+  },
+  {
+    "Chinese": "肾病",
+    "Thai": "โรคไต",
+    "phonetic": "Rokh tị",
+    "English": "rook tay",
+    "type": "noun",
+    "uuid": "f5d606e0-72e0-4f94-a73f-ef925467a108"
+  },
+  {
+    "Chinese": "胃炎",
+    "Thai": "โรคกระเพาะ",
+    "phonetic": "Rokh krapheāa",
+    "English": "rook kraphau",
+    "type": "noun",
+    "uuid": "8d997ef2-8f29-4858-a863-fe6f3394a442"
+  },
+  {
+    "Chinese": "血压疾病",
+    "Thai": "โรคความดัน",
+    "phonetic": "Rokh khwām dạn",
+    "English": "rook khwaam dan",
+    "type": "noun",
+    "uuid": "56888372-605b-445d-8205-37480903db46"
+  },
+  {
+    "Chinese": "过敏",
+    "Thai": "โรคภูมิแพ้",
+    "phonetic": "Rokh p̣hūmiphæ̂",
+    "English": "rook phuumph33",
+    "type": "noun",
+    "uuid": "104c96dd-f721-42ba-802d-d4364b7a5a8a"
+  },
+  {
+    "Chinese": "登革热",
+    "Thai": "ไข้เลือดออก",
+    "phonetic": "K̄hị̂ leụ̄xd xxk",
+    "English": "khay lvar ?auauk",
+    "type": "noun",
+    "uuid": "1fee5b1e-7735-44fc-96f7-0b02e92fb8f0"
+  },
+  {
+    "Chinese": "郁闷",
+    "Thai": "ซึมเศร้า",
+    "phonetic": "Sụm ṣ̄er̂ā",
+    "English": "svm saw",
+    "type": "noun",
+    "uuid": "baa4abdc-1046-439a-ab49-e2472cb04ee7"
+  },
+  {
+    "Chinese": "预约",
+    "Thai": "นัด",
+    "phonetic": "Nạd",
+    "English": "nat",
+    "type": "verb",
+    "uuid": "c8e57d64-905c-4e1f-a33c-6b6fb4421a03"
+  },
+  {
+    "Chinese": "体重",
+    "Thai": "น้ำหนัก",
+    "phonetic": "n̂ả h̄nạk",
+    "English": "naam nak",
+    "type": "verb",
+    "uuid": "73e4b7f8-480f-4ee7-9be2-2b417a73d855"
+  },
+  {
+    "Chinese": "血压",
+    "Thai": "ความดัน",
+    "phonetic": "Khwām dạn",
+    "English": "khwaam dan",
+    "type": "noun",
+    "uuid": "00f56761-2ca9-4478-97db-0eb3e67a0bbf"
+  },
+  {
+    "Chinese": "检查",
+    "Thai": "ตรวจ",
+    "phonetic": "Trwc",
+    "English": "truat",
+    "type": "verb",
+    "uuid": "3f524a3f-d39a-4b0e-95e0-5c3e5e6d5dbc"
+  },
+  {
+    "Chinese": "以前",
+    "Thai": "ก่อน",
+    "phonetic": "K̀xn",
+    "English": "kauaun",
+    "type": "time",
+    "uuid": "f9e18f09-a57c-44c9-b029-7828ecb0da25"
+  },
+  {
+    "Chinese": "抽血",
+    "Thai": "เจาะเลือด",
+    "phonetic": "Ceāa leụ̄xd",
+    "English": "jau lvat",
+    "type": "verb",
+    "uuid": "9933538b-7368-46a5-b796-fac14f445909"
+  },
+  {
+    "Chinese": "害怕",
+    "Thai": "กลัว",
+    "phonetic": "Klạw",
+    "English": "klua",
+    "type": "verb",
+    "uuid": "94866fc3-75d7-43ea-9da6-81266841325c"
+  },
+  {
+    "Chinese": "普通的",
+    "Thai": "ปกติ",
+    "phonetic": "Pkti",
+    "English": "prokkati",
+    "type": "adjective",
+    "uuid": "f01ffb8d-10ce-44df-ae61-a96ad9bf5443"
+  },
+  {
+    "Chinese": "品尝",
+    "Thai": "รสชาติ",
+    "phonetic": "Rs̄chāti",
+    "English": "rot chaat",
+    "type": "noun",
+    "uuid": "a0fe61cd-3718-40a4-b49a-d2b1c3bd348f"
+  },
+  {
+    "Chinese": "闻",
+    "Thai": "กลิ่น",
+    "phonetic": "Klìn",
+    "English": "klin",
+    "type": "noun",
+    "uuid": "75a05841-afbb-4ae3-99f0-b87006b7f207"
+  },
+  {
+    "Chinese": "保险",
+    "Thai": "ประกัน",
+    "phonetic": "Prakạn",
+    "English": "pra khan",
+    "type": "noun",
+    "uuid": "b5166dd7-3e64-492a-ba4d-02d1dd7ba1ea"
+  },
+  {
+    "Chinese": "呕吐",
+    "Thai": "อาเจียน",
+    "phonetic": "Xāceīyn",
+    "English": "?aajian",
+    "type": "verb",
+    "uuid": "d847278b-23d4-45ee-a8c3-fae1c4571b84"
+  },
+  {
+    "Chinese": "头痛",
+    "Thai": "ปวดหัว",
+    "phonetic": "Pwd h̄ạw",
+    "English": "puat hua",
+    "type": "verb",
+    "uuid": "0525773a-0216-46ab-bca4-acbebbcfc569"
+  },
+  {
+    "Chinese": "发烧",
+    "Thai": "ไข้",
+    "phonetic": "K̄hị̂",
+    "English": "khay",
+    "type": "noun",
+    "uuid": "a32de36e-c7a0-4161-80d5-3f22428e2146"
+  },
+  {
+    "Chinese": "早日康复",
+    "Thai": "หายเร็วๆ นะ",
+    "phonetic": "H̄āy rĕw«na",
+    "English": "haay rewrew na",
+    "type": "conversation",
+    "uuid": "7db46d3f-2339-4513-ab7a-d77eb02cb43f"
+  },
+  {
+    "Chinese": "消失",
+    "Thai": "หาย",
+    "phonetic": "H̄āy",
+    "English": "haay",
+    "type": "verb",
+    "uuid": "2cf2bb6e-f2a7-48b8-bb14-cade6711a39a"
+  },
+  {
+    "Chinese": "像之前一样",
+    "Thai": "เหมือนเดิม",
+    "phonetic": "H̄emụ̄xn deim",
+    "English": "mvan dererm",
+    "type": "adjective",
+    "uuid": "91a28c29-a872-4c08-8897-d4684fe646c4"
+  },
+  {
+    "Chinese": "好起来了",
+    "Thai": "ดีขึ้นเรื่อย ๆ",
+    "phonetic": "Dī k̄hụ̂n reụ̄̀xy «",
+    "English": "dii khvn l33w",
+    "type": "conversation",
+    "uuid": "9dd9ce94-ebb3-42a6-a220-bbe3b6159614"
+  },
+  {
+    "Chinese": "照顾好自己",
+    "Thai": "ดูแลตัวเองดีๆ นะ",
+    "phonetic": "Dūlæ tạw xeng dī«na",
+    "English": "duul33 tua?eeng dii",
+    "type": "conversation",
+    "uuid": "9b36553f-3b90-4893-b5a1-904bacd48688"
   }
 ]
