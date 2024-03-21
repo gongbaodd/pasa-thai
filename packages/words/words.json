@@ -6950,5 +6950,141 @@
     "English": "duul33 tua?eeng dii",
     "type": "conversation",
     "uuid": "9b36553f-3b90-4893-b5a1-904bacd48688"
+  },
+  {
+    "Chinese": "架子",
+    "Thai": "ชั้นวาง",
+    "phonetic": "Chận wāng",
+    "English": "chan wang",
+    "type": "noun",
+    "uuid": "6cfb8607-8d09-4f5d-ae69-985128281210"
+  },
+  {
+    "Chinese": "窗户",
+    "Thai": "หน้าต่าง",
+    "phonetic": "H̄n̂āt̀āng",
+    "English": "naataang",
+    "type": "noun",
+    "uuid": "b8d0871c-460e-4bfb-be07-172da8fc001a"
+  },
+  {
+    "Chinese": "风扇",
+    "Thai": "พัดลม",
+    "phonetic": "Phạdlm",
+    "English": "phat lom",
+    "type": "noun",
+    "uuid": "e7e1d9f9-788e-4518-bb77-2fc37239b84f"
+  },
+  {
+    "Chinese": "钥匙",
+    "Thai": "กุญแจ",
+    "phonetic": "Kuỵcæ",
+    "English": "kunj33",
+    "type": "noun",
+    "uuid": "8254a661-a97d-4a85-a0e4-29dc2392e713"
+  },
+  {
+    "Chinese": "香皂",
+    "Thai": "สบู่",
+    "phonetic": "S̄bū̀",
+    "English": "sabuu",
+    "type": "noun",
+    "uuid": "fd9d3211-e56b-4d8d-bd46-1dde185bee9a"
+  },
+  {
+    "Chinese": "牙刷",
+    "Thai": "แปรงสีฟัน",
+    "phonetic": "Pærngs̄īfạn",
+    "English": "pr33ng sii fan",
+    "type": "noun",
+    "uuid": "d090d730-9280-41e7-97c2-f77f2fbf297c"
+  },
+  {
+    "Chinese": "牙膏",
+    "Thai": "ยาสีฟัน",
+    "phonetic": "Yās̄īfạn",
+    "English": "yaa sii fan",
+    "type": "noun",
+    "uuid": "7e48f896-77a5-42e4-a213-c8baef608551"
+  },
+  {
+    "Chinese": "毛巾",
+    "Thai": "ผ้าเช็ดตัว",
+    "phonetic": "P̄ĥāchĕdtạw",
+    "English": "phaa chet tua",
+    "type": "noun",
+    "uuid": "54426624-acd0-431a-b950-787dfe59e1cc"
+  },
+  {
+    "Chinese": "床",
+    "Thai": "เตียง",
+    "phonetic": "Teīyng",
+    "English": "tiang",
+    "type": "noun",
+    "uuid": "2a5bc7bc-0484-4de2-a8f8-5b73c50cacc8"
+  },
+  {
+    "Chinese": "枕头",
+    "Thai": "หมอน",
+    "phonetic": "H̄mxn",
+    "English": "mauaun",
+    "type": "noun",
+    "uuid": "306d933c-34ae-4b30-8ef9-6e054ade1126"
+  },
+  {
+    "Chinese": "做咖啡",
+    "Thai": "ชงกาแฟ",
+    "phonetic": "Chng kāfæ",
+    "English": "chong kaaf33",
+    "type": "verb",
+    "uuid": "26bfd078-fc8f-411c-9c03-140c78e9cfb1"
+  },
+  {
+    "Chinese": "文件",
+    "Thai": "เอกสาร",
+    "phonetic": "Xeks̄ār",
+    "English": "?ek ka saan",
+    "type": "noun",
+    "uuid": "ab0ba24f-7aeb-4c91-abba-8b9ce8f73149"
+  },
+  {
+    "Chinese": "修",
+    "Thai": "สร้าง",
+    "phonetic": "S̄r̂āng",
+    "English": "saum",
+    "type": "verb",
+    "uuid": "3901bdc0-d31e-4e7b-a664-45b913edbb5d"
+  },
+  {
+    "Chinese": "告诉",
+    "Thai": "บอก",
+    "phonetic": "Bxk",
+    "English": "bauauk",
+    "type": "verb",
+    "uuid": "0ad6b142-bfa2-4393-aa30-b840d9ebd9a9"
+  },
+  {
+    "Chinese": "通知",
+    "Thai": "แจ้ง",
+    "phonetic": "Cæ̂ng",
+    "English": "j33ng",
+    "type": "verb",
+    "uuid": "1ced5490-f4ed-42bc-af7c-8d94997af862"
+  },
+  {
+    "Chinese": "一样",
+    "Thai": "เหมือนกัน",
+    "phonetic": "H̄emụ̄xn kạn",
+    "English": "mvan kan",
+    "type": "adjective",
+    "uuid": "beab147c-835e-4521-bd6c-b76539de1084"
+  },
+  {
+    "Chinese": "树",
+    "Thai": "ต้นไม้",
+    "phonetic": "T̂nmị̂",
+    "English": "ton maay",
+    "type": "noun",
+    "uuid": "459bad51-8e96-436e-a86c-399489b0e1af"
   }
 ]
