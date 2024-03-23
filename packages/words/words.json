@@ -7086,5 +7086,213 @@
     "English": "ton maay",
     "type": "noun",
     "uuid": "459bad51-8e96-436e-a86c-399489b0e1af"
+  },
+  {
+    "Chinese": "许多",
+    "Thai": "หลาย",
+    "phonetic": "H̄lāy",
+    "English": "laay",
+    "type": "adjective",
+    "uuid": "ba966e7a-7185-441c-80be-6b78bb3a7c9a"
+  },
+  {
+    "Chinese": "外面",
+    "Thai": "นอก",
+    "phonetic": "Nxk",
+    "English": "nauauk",
+    "type": "prep",
+    "uuid": "97c1ed19-0ecf-4ba8-9acb-1f3b288c0e98"
+  },
+  {
+    "Chinese": "外国人",
+    "Thai": "ชาวต่างชาติ",
+    "phonetic": "Chāw t̀āng chāti",
+    "English": "chaaw taang chaat",
+    "type": "noun",
+    "uuid": "4ba0bf2f-5517-4480-98eb-cdaa257f4f47"
+  },
+  {
+    "Chinese": "城市",
+    "Thai": "เมือง",
+    "phonetic": "Meụ̄xng",
+    "English": "mvang",
+    "type": "noun",
+    "uuid": "7738d3f3-75da-40f4-814d-2839db1e6aad"
+  },
+  {
+    "Chinese": "首都",
+    "Thai": "เมืองหลวง",
+    "phonetic": "Meụ̄xng h̄lwng",
+    "English": "mvang luang",
+    "type": "noun",
+    "uuid": "117a30b6-c756-4be7-8904-c081fc789dbe"
+  },
+  {
+    "Chinese": "首都都会",
+    "Thai": "กรุง",
+    "phonetic": "Krung",
+    "English": "krung",
+    "type": "noun",
+    "uuid": "624ca1c2-772a-4f76-9bb7-8ba3b5b6da1b"
+  },
+  {
+    "Chinese": "再问一次",
+    "Thai": "ถามอีกครั้ง",
+    "phonetic": "T̄hām xīk khrậng",
+    "English": "thaam ?iik khrang",
+    "type": "conversation",
+    "uuid": "275aaeb6-4fe5-426a-bedf-db5f3c70e219"
+  },
+  {
+    "Chinese": "你来自哪里",
+    "Thai": "คุณมาจากที่ไหน",
+    "phonetic": "Khuṇ mā cāk thī̀h̄ịn",
+    "English": "khun ma jaak thini",
+    "type": "conversation",
+    "uuid": "6525841b-ca53-4225-bed8-8b5c8bdaf255"
+  },
+  {
+    "Chinese": "护士",
+    "Thai": "พยาบาล",
+    "phonetic": "Phyābāl",
+    "English": "pha yaa baan",
+    "type": "noun",
+    "uuid": "2353502f-fd46-4b4d-aebc-08e246938ea4"
+  },
+  {
+    "Chinese": "警察",
+    "Thai": "ตำรวจ",
+    "phonetic": "Tảrwc",
+    "English": "tam ruat",
+    "type": "noun",
+    "uuid": "8d5c0e56-d1a2-4107-920c-621406f53462"
+  },
+  {
+    "Chinese": "军人",
+    "Thai": "ทหาร",
+    "phonetic": "Thh̄ār",
+    "English": "tha haan",
+    "type": "noun",
+    "uuid": "418840d0-cc4e-4161-8ad0-138912ed9e63"
+  },
+  {
+    "Chinese": "工程师",
+    "Thai": "วิศวกร",
+    "phonetic": "Wiṣ̄wkr",
+    "English": "wit sa wa kauaun",
+    "type": "noun",
+    "uuid": "caf37c2a-ac6c-4c40-a620-f566b88b7c0d"
+  },
+  {
+    "Chinese": "厨房",
+    "Thai": "ครัว",
+    "phonetic": "Khrạw",
+    "English": "khrua",
+    "type": "noun",
+    "uuid": "1414dfdd-3823-47e9-91e2-acf8a2aabcdb"
+  },
+  {
+    "Chinese": "翻译",
+    "Thai": "ล่าม",
+    "phonetic": "L̀ām",
+    "English": "laam",
+    "type": "noun",
+    "uuid": "3ebade71-6493-411c-b826-564137166a02"
+  },
+  {
+    "Chinese": "公务员",
+    "Thai": "ข้าราชการ",
+    "phonetic": "K̄ĥārāchkār",
+    "English": "khaa raat cha kaan",
+    "type": "noun",
+    "uuid": "70e7ad14-609e-4f37-af9b-188e902eb594"
+  },
+  {
+    "Chinese": "经理",
+    "Thai": "ผู้จัดการ",
+    "phonetic": "P̄hū̂ cạdkār",
+    "English": "phuu jat kaan",
+    "type": "noun",
+    "uuid": "665d4a29-4ea2-4463-9e20-4aa8454f6769"
+  },
+  {
+    "Chinese": "摄影师",
+    "Thai": "ช่างภาพ",
+    "phonetic": "Ch̀āng p̣hāph",
+    "English": "chang phaap",
+    "type": "noun",
+    "uuid": "6cc1deab-25f1-4e8b-9734-d9a3fae9f9d8"
+  },
+  {
+    "Chinese": "音乐家",
+    "Thai": "นักดนตรี",
+    "phonetic": "Nạk dntrī",
+    "English": "nak dontrii",
+    "type": "noun",
+    "uuid": "46a895b6-1c53-48b4-b29f-067a563dcc06"
+  },
+  {
+    "Chinese": "拳击手",
+    "Thai": "นักมวย",
+    "phonetic": "Nạk mwy",
+    "English": "nak muay",
+    "type": "noun",
+    "uuid": "faa454fc-d72e-4ab1-bab1-439af941ed8a"
+  },
+  {
+    "Chinese": "鬼",
+    "Thai": "ผี",
+    "phonetic": "P̄hī",
+    "English": "phi",
+    "type": "noun",
+    "uuid": "c89bb793-d3cf-4cbe-8710-763820ec2680"
+  },
+  {
+    "Chinese": "飞行员",
+    "Thai": "นักบิน",
+    "phonetic": "Nạkbin",
+    "English": "nakbin",
+    "type": "noun",
+    "uuid": "57e39406-1210-486a-9b51-008e2c00e7c0"
+  },
+  {
+    "Chinese": "休息",
+    "Thai": "พัก",
+    "phonetic": "Phạk",
+    "English": "phak",
+    "type": "verb",
+    "uuid": "38d398dd-9cb9-4001-9b26-2e98fd39ab70"
+  },
+  {
+    "Chinese": "写",
+    "Thai": "เขียน",
+    "phonetic": "K̄heīyn",
+    "English": "khian",
+    "type": "verb",
+    "uuid": "a5738df9-4238-47b0-9104-41d78ace677e"
+  },
+  {
+    "Chinese": "面试",
+    "Thai": "สัมภาษณ์",
+    "phonetic": "S̄ạmp̣hās̄ʹṇ̒",
+    "English": "samphaat",
+    "type": "verb",
+    "uuid": "81ade3b4-b343-4ab8-89d6-b00f5f34ea94"
+  },
+  {
+    "Chinese": "想",
+    "Thai": "คิด",
+    "phonetic": "Khid",
+    "English": "khit",
+    "type": "verb",
+    "uuid": "c47e6883-02ff-43e0-88fd-46f2329b7272"
+  },
+  {
+    "Chinese": "一般般",
+    "Thai": "เฉยๆ",
+    "phonetic": "C̄hey",
+    "English": "chery",
+    "type": "adverb",
+    "uuid": "12cdf4c0-f157-45de-bca6-9c86812d9e93"
   }
 ]
