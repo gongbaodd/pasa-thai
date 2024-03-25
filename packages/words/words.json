@@ -7294,5 +7294,317 @@
     "English": "chery",
     "type": "adverb",
     "uuid": "12cdf4c0-f157-45de-bca6-9c86812d9e93"
+  },
+  {
+    "Chinese": "季节",
+    "Thai": "ฤดู",
+    "phonetic": "Vdū",
+    "English": "rvduu",
+    "type": "noun",
+    "uuid": "e107977c-5572-4f0d-bcf1-61c53a608931"
+  },
+  {
+    "Chinese": "潮湿",
+    "Thai": "ชื้น",
+    "phonetic": "Chụ̄̂n",
+    "English": "chvvn",
+    "type": "adjective",
+    "uuid": "00dac640-8f6a-45da-a72f-753a704ffe49"
+  },
+  {
+    "Chinese": "寒冷",
+    "Thai": "หนาว",
+    "phonetic": "H̄nāw",
+    "English": "naaw",
+    "type": "adjective",
+    "uuid": "ac19df32-81ed-4ae5-bfd2-a01c5f7fce69"
+  },
+  {
+    "Chinese": "云",
+    "Thai": "เมฆ",
+    "phonetic": "Meḳh",
+    "English": "meek",
+    "type": "noun",
+    "uuid": "bcd984f4-3a33-4f61-978f-b31b6f52d083"
+  },
+  {
+    "Chinese": "雾",
+    "Thai": "หมอก",
+    "phonetic": "H̄mxk",
+    "English": "mauauk",
+    "type": "noun",
+    "uuid": "5ca1d31c-15e7-477c-8b3c-667d8ef41951"
+  },
+  {
+    "Chinese": "风",
+    "Thai": "ลม",
+    "phonetic": "Lm",
+    "English": "lom",
+    "type": "noun",
+    "uuid": "273f7c24-a1ce-441c-bd12-6e6addde8ca6"
+  },
+  {
+    "Chinese": "雨",
+    "Thai": "ฝน",
+    "phonetic": "F̄n",
+    "English": "fon",
+    "type": "noun",
+    "uuid": "94c5ef33-a47d-440e-81ef-93c6b81a4d26"
+  },
+  {
+    "Chinese": "温度",
+    "Thai": "อุณหภูมิ",
+    "phonetic": "Xuṇh̄p̣hūmi",
+    "English": "?un ha phuum",
+    "type": "noun",
+    "uuid": "b243526f-0b90-4a26-96b8-89f7f8b716f4"
+  },
+  {
+    "Chinese": "度",
+    "Thai": "องศา",
+    "phonetic": "Xngṣ̄ā",
+    "English": "?ongsaa",
+    "type": "noun",
+    "uuid": "cf9385e1-c25c-4ae7-ac73-cf6e02cf577b"
+  },
+  {
+    "Chinese": "雪",
+    "Thai": "หิมะ",
+    "phonetic": "H̄ima",
+    "English": "hima",
+    "type": "noun",
+    "uuid": "8f224160-8ebb-42ac-a036-885e743f6ff8"
+  },
+  {
+    "Chinese": "天空",
+    "Thai": "ท้องฟ้า",
+    "phonetic": "Tĥxngf̂ā",
+    "English": "thauaungfaa",
+    "type": "noun",
+    "uuid": "7a8f90f6-a6bf-4841-ab9b-5fe22e92b398"
+  },
+  {
+    "Chinese": "灰尘",
+    "Thai": "ฝุ่น",
+    "phonetic": "F̄ùn",
+    "English": "fun",
+    "type": "noun",
+    "uuid": "65fe9263-3f45-4504-ab22-ba8e87cd2398"
+  },
+  {
+    "Chinese": "凉面",
+    "Thai": "บะหมี่เย็น",
+    "phonetic": "Bah̄mī̀ yĕn",
+    "English": "bamii yen",
+    "type": "noun",
+    "uuid": "c4ba839c-9744-4d6e-8611-e8a458928153"
+  },
+  {
+    "Chinese": "故乡",
+    "Thai": "บ้านเกิด",
+    "phonetic": "B̂ān keid",
+    "English": "baan kert",
+    "type": "noun",
+    "uuid": "16ab129a-ed97-4d28-8e24-ce60d83d076a"
+  },
+  {
+    "Chinese": "泉",
+    "Thai": "น้ำพุ",
+    "phonetic": "N̂ảphu",
+    "English": "naamphu",
+    "type": "noun",
+    "uuid": "8883f9a5-91e8-429e-8180-ef27747312f2"
+  },
+  {
+    "Chinese": "浓雾",
+    "Thai": "หมอกหนา",
+    "phonetic": "H̄mxk h̄nā",
+    "English": "mauauk naa",
+    "type": "noun",
+    "uuid": "7a25a257-d89e-466f-8cf4-911129f48898"
+  },
+  {
+    "Chinese": "暖和",
+    "Thai": "อบอุ่น",
+    "phonetic": "Xbxùn",
+    "English": "?op?un",
+    "type": "adjective",
+    "uuid": "be8eb186-c4e8-4a53-a72c-501fc08f9526"
+  },
+  {
+    "Chinese": "倾盆大雨",
+    "Thai": "ฝนตกหนัก",
+    "phonetic": "F̄n tkh̄nạk",
+    "English": "fon tok nak",
+    "type": "verb",
+    "uuid": "b746f9b0-ae9c-4304-ac07-eb7e8e9730b1"
+  },
+  {
+    "Chinese": "阳光",
+    "Thai": "แดด",
+    "phonetic": "Dæd",
+    "English": "d33t",
+    "type": "noun",
+    "uuid": "d9f8278a-ff0f-4454-b806-05f446d86c8e"
+  },
+  {
+    "Chinese": "刮大风",
+    "Thai": "ลมพัดแรงมาก",
+    "phonetic": "Lm phạd ræng",
+    "English": "lom phat r33ng",
+    "type": "verb",
+    "uuid": "43a90c5c-dbee-49ca-b112-58093af20a34"
+  },
+  {
+    "Chinese": "彩虹",
+    "Thai": "รุ้ง",
+    "phonetic": "Rûng",
+    "English": "rung",
+    "type": "noun",
+    "uuid": "58e8e57d-7f26-4223-83f9-d58d40c982c2"
+  },
+  {
+    "Chinese": "地震",
+    "Thai": "แผ่นดินไหว",
+    "phonetic": "P̄hæ̀n din h̄ịw",
+    "English": "ph3n din way",
+    "type": "noun",
+    "uuid": "f5d6fc38-4b4a-4f15-adf4-40b7d8193676"
+  },
+  {
+    "Chinese": "海啸",
+    "Thai": "สึนามิ",
+    "phonetic": "S̄ụ nā mi",
+    "English": "sv naa mi",
+    "type": "noun",
+    "uuid": "e81cc6c9-5da4-4bb1-af78-30da53cc19d9"
+  },
+  {
+    "Chinese": "暴风雨",
+    "Thai": "พายุ",
+    "phonetic": "Phāyu",
+    "English": "phaayu",
+    "type": "noun",
+    "uuid": "7a2f972e-75dc-4f33-9485-c0716f804109"
+  },
+  {
+    "Chinese": "开始",
+    "Thai": "เริ่ม",
+    "phonetic": "Reìm",
+    "English": "rererm",
+    "type": "verb",
+    "uuid": "ab0e4081-47a3-4549-bd63-183a148099a7"
+  },
+  {
+    "Chinese": "继续下（雨）",
+    "Thai": "ดำเนินต่อ",
+    "phonetic": "Dảnein t̀x",
+    "English": "kamlang tok",
+    "type": "verb",
+    "uuid": "6ad5cd55-3359-4ddd-a407-b3a728b9a6d6"
+  },
+  {
+    "Chinese": "喜欢哪种天气",
+    "Thai": "คุณชอบอากาศแบบไหน",
+    "phonetic": "Khuṇ chxb xākāṣ̄ bæb h̄ịn",
+    "English": "khun chauaup ?aakaat b33p nay",
+    "type": "conversation",
+    "uuid": "083d9c13-d927-417c-8749-869f2a065fec"
+  },
+  {
+    "Chinese": "下雨导致堵车",
+    "Thai": "ฝนตกทำให้รถติด",
+    "phonetic": "F̄n tk thảh̄ı̂ rt̄h tid",
+    "English": "fon tok tham hay rot tit",
+    "type": "conversation",
+    "uuid": "f48c7005-1b2a-4c8f-9572-84e25a790795"
+  },
+  {
+    "Chinese": "生活",
+    "Thai": "ชีวิต",
+    "phonetic": "Chīwit",
+    "English": "chiwit",
+    "type": "noun",
+    "uuid": "d374ed6f-1380-49ed-8c8f-229f3fd7c6e5"
+  },
+  {
+    "Chinese": "情绪",
+    "Thai": "อารมณ์",
+    "phonetic": "Xārmṇ̒",
+    "English": "?aarom",
+    "type": "noun",
+    "uuid": "9b1971be-f2c2-4d58-a093-3e23a76dcc16"
+  },
+  {
+    "Chinese": "春季",
+    "Thai": "ฤดูใบไม้ผลิ",
+    "phonetic": "Vdū bımị̂ p̄hli",
+    "English": "rvduu bay maay phii",
+    "type": "noun",
+    "uuid": "45f6d190-b912-4e5d-8077-f6c70d491f3c"
+  },
+  {
+    "Chinese": "叶子",
+    "Thai": "ใบไม้",
+    "phonetic": "Bımị̂",
+    "English": "bay maay",
+    "type": "noun",
+    "uuid": "9d0d893f-1a04-4af9-b3f1-c7e080470e52"
+  },
+  {
+    "Chinese": "夏季",
+    "Thai": "ฤดูร้อน",
+    "phonetic": "Vdū r̂xn",
+    "English": "rvduu rauaun",
+    "type": "noun",
+    "uuid": "1085422e-9f6a-41e2-996a-883842bfd114"
+  },
+  {
+    "Chinese": "雨季",
+    "Thai": "ฤดูฝน",
+    "phonetic": "Vdū f̄n",
+    "English": "rvduu fon",
+    "type": "noun",
+    "uuid": "8ca7fc02-0dd5-4536-9912-c060c8245c8e"
+  },
+  {
+    "Chinese": "秋季",
+    "Thai": "ฤดูใบไม้ร่วง",
+    "phonetic": "Vdū bımị̂ r̀wng",
+    "English": "rvduu bay maay ruang",
+    "type": "noun",
+    "uuid": "e8bd00f9-39f5-43d8-ab1f-57374c58e056"
+  },
+  {
+    "Chinese": "冬季",
+    "Thai": "ฤดูหนาว",
+    "phonetic": "Vdū h̄nāw",
+    "English": "rvduu naaw",
+    "type": "noun",
+    "uuid": "bebc7c38-bb15-47b1-972c-ae36d6e2cc2a"
+  },
+  {
+    "Chinese": "整天",
+    "Thai": "ทั้งวัน",
+    "phonetic": "Thậng wạn",
+    "English": "thang wan",
+    "type": "noun",
+    "uuid": "069bba4e-876d-48b1-b083-92b6086e5d33"
+  },
+  {
+    "Chinese": "整晚",
+    "Thai": "ทั้งคืน",
+    "phonetic": "Thậng khụ̄n",
+    "English": "thang khvvn",
+    "type": "noun",
+    "uuid": "0e0f870b-a11e-4a07-8277-a7c34f8724a8"
+  },
+  {
+    "Chinese": "干燥",
+    "Thai": "แห้ง",
+    "phonetic": "H̄æ̂ng",
+    "English": "h33ng",
+    "type": "adjective",
+    "uuid": "65dff7ab-334d-4950-a67b-a9369d70da3c"
   }
 ]
