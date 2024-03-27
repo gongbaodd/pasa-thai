@@ -7606,5 +7606,157 @@
     "English": "h33ng",
     "type": "adjective",
     "uuid": "65dff7ab-334d-4950-a67b-a9369d70da3c"
+  },
+  {
+    "Chinese": "一般般",
+    "Thai": "เฉยๆ",
+    "phonetic": "C̄hey«",
+    "English": "cherery cherery",
+    "type": "adjective",
+    "uuid": "8f3e17e0-f304-4cbf-92fa-336e8d56c13b"
+  },
+  {
+    "Chinese": "孤单",
+    "Thai": "เหงา",
+    "phonetic": "H̄engā",
+    "English": "ngaw",
+    "type": "adjective",
+    "uuid": "b1dbe78c-5feb-4c20-b84b-65065dc45fb5"
+  },
+  {
+    "Chinese": "累",
+    "Thai": "เหนื่อย",
+    "phonetic": "H̄enụ̄̀xy",
+    "English": "nvay",
+    "type": "adjective",
+    "uuid": "490f7425-fbb9-4e85-9012-a75b02f9f45c"
+  },
+  {
+    "Chinese": "失望",
+    "Thai": "ผิดหวัง",
+    "phonetic": "P̄hid h̄wạng",
+    "English": "phitwang",
+    "type": "adjective",
+    "uuid": "edf4658d-683f-4554-8208-85b5499af643"
+  },
+  {
+    "Chinese": "害羞",
+    "Thai": "อาย",
+    "phonetic": "Xāy",
+    "English": "?aay",
+    "type": "adjective",
+    "uuid": "7fb58573-78bd-41e1-9665-f0eb500062db"
+  },
+  {
+    "Chinese": "生气",
+    "Thai": "โกรธ",
+    "phonetic": "Korṭh",
+    "English": "kroot",
+    "type": "adjective",
+    "uuid": "cf0a6ef7-9089-4d7c-84b9-b310bc1503ce"
+  },
+  {
+    "Chinese": "幸福",
+    "Thai": "มีความสุข",
+    "phonetic": "Mī khwām s̄uk̄h",
+    "English": "mii khwaam suk",
+    "type": "adjective",
+    "uuid": "d32ca629-d357-4348-811d-c65647812082"
+  },
+  {
+    "Chinese": "烦",
+    "Thai": "รำคาญ",
+    "phonetic": "Rảkhāỵ",
+    "English": "ram khaan",
+    "type": "adjective",
+    "uuid": "5e393bb5-fe01-4854-8811-f09b6ae70c95"
+  },
+  {
+    "Chinese": "困",
+    "Thai": "ง่วง",
+    "phonetic": "Ng̀wng",
+    "English": "nguang",
+    "type": "adjective",
+    "uuid": "dc92e735-e0e6-4e9c-ab8d-25ca05dbf45a"
+  },
+  {
+    "Chinese": "善良",
+    "Thai": "ใจดี",
+    "phonetic": "Cıdī",
+    "English": "jaydii",
+    "type": "adjective",
+    "uuid": "9e2b69a7-2e2e-4c9e-91ba-3b028d5c370a"
+  },
+  {
+    "Chinese": "惊讶",
+    "Thai": "ตกใจ",
+    "phonetic": "Tkcı",
+    "English": "tokjay",
+    "type": "adjective",
+    "uuid": "17a1c357-5e02-487c-9a5f-1a87936080ff"
+  },
+  {
+    "Chinese": "自豪的",
+    "Thai": "ภูมิใจ",
+    "phonetic": "P̣hūmicı",
+    "English": "phuumjay",
+    "type": "adjective",
+    "uuid": "d8dd0ba0-4d55-41f5-b063-2130a6d37883"
+  },
+  {
+    "Chinese": "鼓励",
+    "Thai": "ให้กำลังใจ",
+    "phonetic": "H̄ı̂ kảlạng cı",
+    "English": "hay kamlang jay",
+    "type": "adjective",
+    "uuid": "e0443983-c9a8-4ca9-8d80-6c5774b128ce"
+  },
+  {
+    "Chinese": "感兴趣的",
+    "Thai": "สนใจ",
+    "phonetic": "S̄ncı",
+    "English": "son jay",
+    "type": "adjective",
+    "uuid": "35b5d7c1-8fb8-429c-bef9-69f76f2d2eff"
+  },
+  {
+    "Chinese": "令人感兴趣的",
+    "Thai": "น่าสนใจ",
+    "phonetic": "Ǹā s̄ncı",
+    "English": "naa sonjay",
+    "type": "adjective",
+    "uuid": "e2cd644d-b2ca-44c3-916f-02714a9e2923"
+  },
+  {
+    "Chinese": "激动的",
+    "Thai": "ตื่นเต้น",
+    "phonetic": "Tụ̄̀n tên",
+    "English": "tvvn ten",
+    "type": "adjective",
+    "uuid": "a545333d-54d6-427d-8435-63775da2399a"
+  },
+  {
+    "Chinese": "令人激动",
+    "Thai": "น่าตื่นเต้น",
+    "phonetic": "Ǹā tụ̄̀n tên",
+    "English": "naa tvvn ten",
+    "type": "adjective",
+    "uuid": "03e84f00-f1e7-4958-99af-690353dd83ef"
+  },
+  {
+    "Chinese": "令人无聊",
+    "Thai": "น่าเบื่อ",
+    "phonetic": "Ǹā beụ̄̀x",
+    "English": "naa bva",
+    "type": "adjective",
+    "uuid": "0e46a539-9d5d-4a20-ba40-9b21466c03c6"
+  },
+  {
+    "Chinese": "无聊的",
+    "Thai": "เบื่อ",
+    "phonetic": "Beụ̄̀x",
+    "English": "bva",
+    "type": "adjective",
+    "uuid": "8c36a3aa-2c9c-4b6c-ab7a-5aace6977f03"
   }
 ]
