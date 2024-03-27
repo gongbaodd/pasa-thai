@@ -7758,5 +7758,117 @@
     "English": "bva",
     "type": "adjective",
     "uuid": "8c36a3aa-2c9c-4b6c-ab7a-5aace6977f03"
+  },
+  {
+    "Chinese": "短信",
+    "Thai": "ข้อความ",
+    "phonetic": "K̄ĥxkhwām",
+    "English": "khwaam",
+    "type": "noun",
+    "uuid": "5055b9da-24af-4ec2-85c4-00042418bea1"
+  },
+  {
+    "Chinese": "线",
+    "Thai": "สาย",
+    "phonetic": "S̄āy",
+    "English": "saay",
+    "type": "noun",
+    "uuid": "a6fdcfe3-99cd-4c2d-b219-628dca262ce4"
+  },
+  {
+    "Chinese": "号码",
+    "Thai": "เบอร์",
+    "phonetic": "Bexr̒",
+    "English": "ber",
+    "type": "noun",
+    "uuid": "08098936-66b7-4836-893a-5103b7fb3f69"
+  },
+  {
+    "Chinese": "给...打电话",
+    "Thai": "โทรหา",
+    "phonetic": "Thor h̄ā",
+    "English": "thoo haa",
+    "type": "verb",
+    "uuid": "fda5d8ec-4432-47a1-a502-e3abe1c56c6d"
+  },
+  {
+    "Chinese": "从...来电话",
+    "Thai": "โทรจาก",
+    "phonetic": "Thor cāk",
+    "English": "thoo jaak",
+    "type": "verb",
+    "uuid": "d39f704e-c1eb-4a87-ac50-9843e4f8b9f6"
+  },
+  {
+    "Chinese": "致电",
+    "Thai": "โทรเข้า",
+    "phonetic": "Thor k̄hêā",
+    "English": "thoo khaw",
+    "type": "verb",
+    "uuid": "b806b3cd-5475-4052-9dcf-6c796b970d64"
+  },
+  {
+    "Chinese": "讲电话",
+    "Thai": "คุยโทรศัพท์",
+    "phonetic": "Khuy thorṣ̄ạphth̒",
+    "English": "khuy thoo ra sap",
+    "type": "verb",
+    "uuid": "bd2aa6c9-651b-4ee3-87d7-d2b05f66fd9a"
+  },
+  {
+    "Chinese": "接电话",
+    "Thai": "รับโทรศัพท์",
+    "phonetic": "Rạb thorṣ̄ạphth̒",
+    "English": "rap thoo ra sap",
+    "type": "verb",
+    "uuid": "8aa0a069-5be9-4a9f-b815-1b1759811b71"
+  },
+  {
+    "Chinese": "挂电话",
+    "Thai": "วางสาย",
+    "phonetic": "Wāng s̄āy",
+    "English": "waang saay",
+    "type": "verb",
+    "uuid": "6cf5990f-65fa-4494-b55f-49f6fd7aea38"
+  },
+  {
+    "Chinese": "信号",
+    "Thai": "สัญญาณ",
+    "phonetic": "S̄ạỵỵāṇ",
+    "English": "san yan",
+    "type": "noun",
+    "uuid": "425f6738-a188-4eba-b566-8a0c5539dda3"
+  },
+  {
+    "Chinese": "合同",
+    "Thai": "สัญญา",
+    "phonetic": "S̄ạỵỵā",
+    "English": "san yaa",
+    "type": "noun",
+    "uuid": "12be9cf3-6583-4a7b-94d0-c74349a18bb9"
+  },
+  {
+    "Chinese": "奇怪的",
+    "Thai": "แปลก",
+    "phonetic": "Pælk",
+    "English": "pl33k",
+    "type": "adjective",
+    "uuid": "0b078eb2-3cba-4a04-966f-1c367d507d06"
+  },
+  {
+    "Chinese": "对不起",
+    "Thai": "ขอโทษ",
+    "phonetic": "K̄hxthos̄ʹ",
+    "English": "khauauthoot",
+    "type": "conversation",
+    "uuid": "fd693b0b-9d06-4296-a5ba-1786f53ec66e"
+  },
+  {
+    "Chinese": "电池将耗尽。",
+    "Thai": "แบตจะหมด",
+    "phonetic": "Bæ tca h̄md",
+    "English": "b3t ja mot",
+    "type": "conversation",
+    "uuid": "7d8a0f44-f5a6-42d8-b1cd-755aa231228c"
   }
 ]
