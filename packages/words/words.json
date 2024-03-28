@@ -7870,5 +7870,189 @@
     "English": "b3t ja mot",
     "type": "conversation",
     "uuid": "7d8a0f44-f5a6-42d8-b1cd-755aa231228c"
+  },
+  {
+    "Chinese": "银行",
+    "Thai": "ธนาคาร",
+    "phonetic": "Ṭhnākhār",
+    "English": "tha naa khaan",
+    "type": "noun",
+    "uuid": "152b1cb1-5657-4be2-b050-31fd4242a8bb"
+  },
+  {
+    "Chinese": "分行",
+    "Thai": "สาขา",
+    "phonetic": "S̄āk̄hā",
+    "English": "saa khaa",
+    "type": "noun",
+    "uuid": "8e5c0ac4-420f-47be-99c1-3b4424e5ee85"
+  },
+  {
+    "Chinese": "账户",
+    "Thai": "บัญชี",
+    "phonetic": "Bạỵchī",
+    "English": "ban chii",
+    "type": "noun",
+    "uuid": "60963ca0-c702-405c-a9e9-ef4919b275a3"
+  },
+  {
+    "Chinese": "存折",
+    "Thai": "สมุดบัญชี",
+    "phonetic": "S̄mud bạỵchī",
+    "English": "samut banchii",
+    "type": "noun",
+    "uuid": "4577141d-0826-4f03-8cf6-896064f29408"
+  },
+  {
+    "Chinese": "存",
+    "Thai": "ฝาก",
+    "phonetic": "f̄āk",
+    "English": "faak",
+    "type": "verb",
+    "uuid": "fb39b21b-c764-48c9-b50c-ba4d242de1b5"
+  },
+  {
+    "Chinese": "取(款)",
+    "Thai": "ถอน",
+    "phonetic": "T̄hxn",
+    "English": "thauaun",
+    "type": "verb",
+    "uuid": "5e971103-dd43-4111-b464-c4d8e1209253"
+  },
+  {
+    "Chinese": "转账",
+    "Thai": "โอน",
+    "phonetic": "Xon",
+    "English": "?oon",
+    "type": "verb",
+    "uuid": "2641e784-26a5-4484-ac13-b7152eab3ef6"
+  },
+  {
+    "Chinese": "定存",
+    "Thai": "ฝากประจำ",
+    "phonetic": "f̄āk pracả",
+    "English": "faak pra jam",
+    "type": "noun",
+    "uuid": "6797e7b8-906e-4e5a-9c75-3b8c59a6cbc4"
+  },
+  {
+    "Chinese": "服务费",
+    "Thai": "ค่าบริการ",
+    "phonetic": "Kh̀ā brikār",
+    "English": null,
+    "type": "noun",
+    "uuid": "5034b529-0e9b-4fa4-b597-536bc5421ce7"
+  },
+  {
+    "Chinese": "手续费",
+    "Thai": "ค่าธรรมเนียม",
+    "phonetic": "Kh̀ā ṭhrrmneīym",
+    "English": null,
+    "type": "noun",
+    "uuid": "007ca136-d845-424f-b8b5-b17f5b67fc3e"
+  },
+  {
+    "Chinese": "硬币",
+    "Thai": "เหรียญ",
+    "phonetic": "H̄erīyỵ",
+    "English": null,
+    "type": "noun",
+    "uuid": "9b825658-f740-4d90-a4ec-b21d24d7dce8"
+  },
+  {
+    "Chinese": "支付",
+    "Thai": "จ่าย",
+    "phonetic": "C̀āy",
+    "English": null,
+    "type": "verb",
+    "uuid": "39c77cf6-700d-41f8-84fd-edca2db0ec9d"
+  },
+  {
+    "Chinese": "需要",
+    "Thai": "ต้องการ",
+    "phonetic": "T̂xngkār",
+    "English": null,
+    "type": "verb",
+    "uuid": "2fcdd872-6bd3-417c-a728-f7ee0303e115"
+  },
+  {
+    "Chinese": "必须",
+    "Thai": "ต้อง",
+    "phonetic": "T̂xng",
+    "English": null,
+    "type": "adverb",
+    "uuid": "ff0a94d4-3151-406c-bc2e-b44e7f375bec"
+  },
+  {
+    "Chinese": "准备",
+    "Thai": "เตรียม",
+    "phonetic": "Terīym",
+    "English": null,
+    "type": "verb",
+    "uuid": "22d7f545-e2e2-411a-9078-3c1049f6927b"
+  },
+  {
+    "Chinese": "一张钱",
+    "Thai": "หนึ่งใบ",
+    "phonetic": "H̄nụ̀ng bı",
+    "English": null,
+    "type": "noun",
+    "uuid": "5e61b7f7-6cd9-4654-8349-251505171de5"
+  },
+  {
+    "Chinese": "借钱",
+    "Thai": "กู้เงิน",
+    "phonetic": "Kū̂ ngein",
+    "English": null,
+    "type": "verb",
+    "uuid": "f25dde9f-f2f1-4bc8-a624-319eccb485d2"
+  },
+  {
+    "Chinese": "剪",
+    "Thai": "ตัด",
+    "phonetic": "Tạd",
+    "English": null,
+    "type": "verb",
+    "uuid": "3c50fe88-8a93-43f7-9309-7c4ed19796c6"
+  },
+  {
+    "Chinese": "请",
+    "Thai": "กรุณา",
+    "phonetic": "Kruṇā",
+    "English": null,
+    "type": "prep",
+    "uuid": "ebae8cba-7e06-42cd-a649-99416aebc621"
+  },
+  {
+    "Chinese": "利息",
+    "Thai": "ดอกเบี้ย",
+    "phonetic": "Dxkbeī̂y",
+    "English": null,
+    "type": "noun",
+    "uuid": "bbedd201-ea8a-4bc3-b9ec-2fc4c538fe85"
+  },
+  {
+    "Chinese": "收款人",
+    "Thai": "ผู้รับเงิน",
+    "phonetic": "P̄hū̂rạb ngein",
+    "English": null,
+    "type": "noun",
+    "uuid": "834244d9-10f2-4d07-aa7f-ebec4489ff78"
+  },
+  {
+    "Chinese": "付款人",
+    "Thai": "ผู้ชำระเงิน",
+    "phonetic": "P̄hū̂ chảra ngein",
+    "English": null,
+    "type": "noun",
+    "uuid": "67a35bf0-773d-48cf-ba3f-60b68ad56a3e"
+  },
+  {
+    "Chinese": "签名",
+    "Thai": "ลายเซ็น",
+    "phonetic": "Lāy sĕn",
+    "English": null,
+    "type": "verb",
+    "uuid": "b9ae76c3-2580-4e5d-b3b1-95dce00a214d"
   }
 ]
