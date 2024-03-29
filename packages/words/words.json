@@ -8054,5 +8054,181 @@
     "English": null,
     "type": "verb",
     "uuid": "b9ae76c3-2580-4e5d-b3b1-95dce00a214d"
+  },
+  {
+    "Chinese": "消失",
+    "Thai": "หาย",
+    "phonetic": "H̄āy",
+    "English": null,
+    "type": "verb",
+    "uuid": "1cc96d33-3318-48c4-9cbf-d69015abf4db"
+  },
+  {
+    "Chinese": "偷",
+    "Thai": "ขโมย",
+    "phonetic": "K̄hmoy",
+    "English": null,
+    "type": "verb",
+    "uuid": "28d1432f-a1fa-4785-a521-86d9dca4b023"
+  },
+  {
+    "Chinese": "欺骗",
+    "Thai": "โกง",
+    "phonetic": "Kong",
+    "English": null,
+    "type": "verb",
+    "uuid": "210fb84a-dc99-48ba-8963-201ddd34ea4e"
+  },
+  {
+    "Chinese": "抓",
+    "Thai": "จับ",
+    "phonetic": "Cạb",
+    "English": null,
+    "type": "verb",
+    "uuid": "42d8c173-1cf3-4623-b76e-4344bcec1699"
+  },
+  {
+    "Chinese": "袭击",
+    "Thai": "ทำร้าย",
+    "phonetic": "Thảr̂āy",
+    "English": null,
+    "type": "verb",
+    "uuid": "5fd3113a-55e7-43f3-ab8f-ff05849a40cb"
+  },
+  {
+    "Chinese": "威胁",
+    "Thai": "ขู่",
+    "phonetic": "K̄hū̀",
+    "English": null,
+    "type": "verb",
+    "uuid": "c5d3642c-c362-48d7-af8e-a35d6d94150b"
+  },
+  {
+    "Chinese": "律师",
+    "Thai": "ทนาย",
+    "phonetic": "Thnāy",
+    "English": null,
+    "type": "noun",
+    "uuid": "0861c03c-252e-4d5a-8e2f-18cc6a36bd30"
+  },
+  {
+    "Chinese": "问题",
+    "Thai": "คำถาม",
+    "phonetic": "Khảt̄hām",
+    "English": null,
+    "type": "noun",
+    "uuid": "d776acbb-09ae-4c41-a329-ce76cd7d613d"
+  },
+  {
+    "Chinese": "碰撞",
+    "Thai": "ชน",
+    "phonetic": "Chn",
+    "English": null,
+    "type": "verb",
+    "uuid": "85bc2e5b-b9e3-4b3f-947a-83e5f1c36d1c"
+  },
+  {
+    "Chinese": "信息",
+    "Thai": "ข้อมูล",
+    "phonetic": "K̄ĥxmūl",
+    "English": null,
+    "type": "noun",
+    "uuid": "11d2841f-0afc-4ca8-9587-4de8986dc76a"
+  },
+  {
+    "Chinese": "个人",
+    "Thai": "ส่วนตัว",
+    "phonetic": "S̄̀wn tạw",
+    "English": null,
+    "type": "adjective",
+    "uuid": "aa073a61-85f0-47b4-90cf-9fd69e881e61"
+  },
+  {
+    "Chinese": "联系",
+    "Thai": "ติดต่อ",
+    "phonetic": "Tidt̀x",
+    "English": null,
+    "type": "verb",
+    "uuid": "38130bf7-dd61-436e-b37e-20e6a9cc36fb"
+  },
+  {
+    "Chinese": "法律",
+    "Thai": "กฎหมาย",
+    "phonetic": "Kḍh̄māy",
+    "English": null,
+    "type": "noun",
+    "uuid": "590086b2-cd03-46ea-8a0b-b1d6bc561d2f"
+  },
+  {
+    "Chinese": "罚金",
+    "Thai": "ค่าปรับ",
+    "phonetic": "Kh̀ā prạb",
+    "English": null,
+    "type": "noun",
+    "uuid": "0e1dfc37-e8a3-4122-8b8b-2200f436945c"
+  },
+  {
+    "Chinese": "被",
+    "Thai": "ดน",
+    "phonetic": "Dn",
+    "English": null,
+    "type": "aux",
+    "uuid": "8d114e3e-86f1-4ee8-88ce-01abd9a68332"
+  },
+  {
+    "Chinese": "蚊子",
+    "Thai": "ยุง",
+    "phonetic": "Yung",
+    "English": null,
+    "type": "noun",
+    "uuid": "c54fd50c-c9a1-4487-87b9-68eaf58d62d7"
+  },
+  {
+    "Chinese": "咬",
+    "Thai": "กัด",
+    "phonetic": "Kạd",
+    "English": null,
+    "type": "verb",
+    "uuid": "d970a38d-3e77-43b4-9b9d-81bafa6c939a"
+  },
+  {
+    "Chinese": "最后一次",
+    "Thai": "ครั้งสุดท้าย",
+    "phonetic": "Khrậng s̄udtĥāy",
+    "English": null,
+    "type": "noun",
+    "uuid": "38afe758-5d7c-46e6-b8d7-6028ea59cf77"
+  },
+  {
+    "Chinese": "上次",
+    "Thai": "ครั้งล่าสุด",
+    "phonetic": "Khrậng l̀ās̄ud",
+    "English": null,
+    "type": "noun",
+    "uuid": "8197075f-72ef-48e4-9169-6cbb819731b3"
+  },
+  {
+    "Chinese": "程度",
+    "Thai": "ระดับ",
+    "phonetic": "Radạb",
+    "English": null,
+    "type": "noun",
+    "uuid": "839dd041-e712-44f1-8280-c7f81f173a37"
+  },
+  {
+    "Chinese": "携带",
+    "Thai": "พก",
+    "phonetic": "Phk",
+    "English": null,
+    "type": "verb",
+    "uuid": "41af9d71-f671-4e85-9ac8-575d9f15fd71"
+  },
+  {
+    "Chinese": "雨伞",
+    "Thai": "ร่ม",
+    "phonetic": "R̀m",
+    "English": null,
+    "type": "noun",
+    "uuid": "b6f012f8-1be2-488c-8228-d7e90b76a21d"
   }
 ]
