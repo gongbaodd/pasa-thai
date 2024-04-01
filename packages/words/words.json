@@ -8230,5 +8230,189 @@
     "English": null,
     "type": "noun",
     "uuid": "b6f012f8-1be2-488c-8228-d7e90b76a21d"
+  },
+  {
+    "Chinese": "按摩",
+    "Thai": "นวด",
+    "phonetic": "Nwd",
+    "English": null,
+    "type": "verb",
+    "uuid": "8e7606b5-7afc-4ec9-bc20-e4b301822198"
+  },
+  {
+    "Chinese": "方法",
+    "Thai": "แผน",
+    "phonetic": "P̄hæn",
+    "English": null,
+    "type": "noun",
+    "uuid": "f5e599d5-ccdb-438b-affb-378adc523afd"
+  },
+  {
+    "Chinese": "草本植物",
+    "Thai": "สมุนไพร",
+    "phonetic": "S̄munphịr",
+    "English": null,
+    "type": "noun",
+    "uuid": "79fc1c01-e95c-400b-9fc2-18056e8753ac"
+  },
+  {
+    "Chinese": "小腿",
+    "Thai": "น่อง",
+    "phonetic": "Ǹxng",
+    "English": null,
+    "type": "noun",
+    "uuid": "c6f7c2a3-bca8-4f07-acad-a346ec9c0fa5"
+  },
+  {
+    "Chinese": "疲劳",
+    "Thai": "เมื่อย",
+    "phonetic": "Meụ̄̀xy",
+    "English": null,
+    "type": "adjective",
+    "uuid": "555a816e-ce71-4acb-874b-a83f8b9f1e80"
+  },
+  {
+    "Chinese": "疼",
+    "Thai": "เจ็บ",
+    "phonetic": "Cĕb",
+    "English": null,
+    "type": "verb",
+    "uuid": "abb56318-b975-469e-ad36-28604a5dae41"
+  },
+  {
+    "Chinese": "后背",
+    "Thai": "หลัง",
+    "phonetic": "H̄lạng",
+    "English": null,
+    "type": "noun",
+    "uuid": "edf4a036-d306-4d29-a33a-dddd247d8df9"
+  },
+  {
+    "Chinese": "酸痛",
+    "Thai": "ปวด",
+    "phonetic": "Pwd",
+    "English": null,
+    "type": "verb",
+    "uuid": "8554e32f-4bea-447c-8e27-4bd0720b5a92"
+  },
+  {
+    "Chinese": "轻",
+    "Thai": "เบา",
+    "phonetic": "Beā",
+    "English": null,
+    "type": "adverb",
+    "uuid": "70fde8ef-2973-4e30-8f48-13f92e7265f3"
+  },
+  {
+    "Chinese": "用力",
+    "Thai": "แรง",
+    "phonetic": "Ræng",
+    "English": null,
+    "type": "adverb",
+    "uuid": "f2cacd5f-bbaa-4c1f-ae90-a8ace07115cb"
+  },
+  {
+    "Chinese": "上臂",
+    "Thai": "ต้นแขน",
+    "phonetic": "T̂n k̄hæn",
+    "English": null,
+    "type": "noun",
+    "uuid": "38ce919a-cd3d-48b8-a794-fe1fe3e95be3"
+  },
+  {
+    "Chinese": "肩膀",
+    "Thai": "ไหล่",
+    "phonetic": "H̄ịl̀",
+    "English": null,
+    "type": "noun",
+    "uuid": "eaf98e41-461b-43e0-9d29-00e60b72de4a"
+  },
+  {
+    "Chinese": "踏",
+    "Thai": "เหยียบ",
+    "phonetic": "H̄eyīyb",
+    "English": null,
+    "type": "verb",
+    "uuid": "c1e33081-80b9-4313-924d-f2e36f8e723f"
+  },
+  {
+    "Chinese": "骨头",
+    "Thai": "กระดูก",
+    "phonetic": "Kradūk",
+    "English": null,
+    "type": "noun",
+    "uuid": "d5539532-01df-4338-81b5-0f3733fc072e"
+  },
+  {
+    "Chinese": "碰",
+    "Thai": "โดน",
+    "phonetic": "Don",
+    "English": null,
+    "type": "verb",
+    "uuid": "1bc81613-966a-447e-8dbc-27ff9edec9b8"
+  },
+  {
+    "Chinese": "举",
+    "Thai": "ยก",
+    "phonetic": "Yk",
+    "English": null,
+    "type": "verb",
+    "uuid": "f111b9f6-37d7-417e-a51b-a9783e9f8128"
+  },
+  {
+    "Chinese": "打扰",
+    "Thai": "รบกวน",
+    "phonetic": "Rbkwn",
+    "English": null,
+    "type": "verb",
+    "uuid": "4ddbf282-1d73-4d6a-a002-d8d284956cde"
+  },
+  {
+    "Chinese": "脱下",
+    "Thai": "ถอด",
+    "phonetic": "T̄hxd",
+    "English": null,
+    "type": "verb",
+    "uuid": "fa584d47-9b67-4443-b992-57825c2adfa4"
+  },
+  {
+    "Chinese": "需要",
+    "Thai": "ต้องการ",
+    "phonetic": "T̂xngkār",
+    "English": null,
+    "type": "verb",
+    "uuid": "9deaec5f-451d-4685-bcab-a22990956eb6"
+  },
+  {
+    "Chinese": "忘记",
+    "Thai": "ลืม",
+    "phonetic": "Lụ̄m",
+    "English": null,
+    "type": "verb",
+    "uuid": "1ba187ae-e34d-4a23-8a65-2f86fb3d3638"
+  },
+  {
+    "Chinese": "项链",
+    "Thai": "สร้อยคอ",
+    "phonetic": "S̄r̂xy khx",
+    "English": null,
+    "type": "noun",
+    "uuid": "1ca32bbc-f50d-4fcf-82ee-375667d88ee6"
+  },
+  {
+    "Chinese": "戒指",
+    "Thai": "แหวน",
+    "phonetic": "H̄æwn",
+    "English": null,
+    "type": "noun",
+    "uuid": "34af8806-0d15-4ea8-b07e-970d057986f9"
+  },
+  {
+    "Chinese": "坐",
+    "Thai": "นั่ง",
+    "phonetic": "Nạ̀ng",
+    "English": null,
+    "type": "verb",
+    "uuid": "43a2d316-82b4-4291-814f-6adb9b343fed"
   }
 ]
