@@ -8414,5 +8414,165 @@
     "English": null,
     "type": "verb",
     "uuid": "43a2d316-82b4-4291-814f-6adb9b343fed"
+  },
+  {
+    "Chinese": "新年",
+    "Thai": "ปีใหม่",
+    "phonetic": "Pī h̄ım̀",
+    "English": null,
+    "type": "noun",
+    "uuid": "94c5ea36-7cfc-4da8-8f85-028b4551b494"
+  },
+  {
+    "Chinese": "劳动",
+    "Thai": "แรงงาน",
+    "phonetic": "Rængngān",
+    "English": null,
+    "type": "noun",
+    "uuid": "2eb78262-9051-42c1-9b12-1095a8d8f4ba"
+  },
+  {
+    "Chinese": "除夕",
+    "Thai": "สิ้นปี",
+    "phonetic": "S̄în pī",
+    "English": null,
+    "type": "noun",
+    "uuid": "e5ad6423-632d-4440-94f6-1d8823735331"
+  },
+  {
+    "Chinese": "防水袋",
+    "Thai": "ถุงกันน้ำ",
+    "phonetic": "T̄hung kạn n̂ả",
+    "English": null,
+    "type": "noun",
+    "uuid": "6bc8f0ff-0fd8-459b-9f98-e9b2cf1f7622"
+  },
+  {
+    "Chinese": "水枪",
+    "Thai": "ปืนฉีดน้ำ",
+    "phonetic": "Pụ̄n c̄hīd n̂ả",
+    "English": null,
+    "type": "noun",
+    "uuid": "114a736f-47c7-425c-8c03-faf737b70afe"
+  },
+  {
+    "Chinese": "可能",
+    "Thai": "อาจจะ",
+    "phonetic": "Xāc ca",
+    "English": null,
+    "type": "adverb",
+    "uuid": "f9b1b2cc-d738-49d2-b404-b9c427717c5c"
+  },
+  {
+    "Chinese": "计划",
+    "Thai": "วางแผน",
+    "phonetic": "Wāngp̄hæn",
+    "English": null,
+    "type": "verb",
+    "uuid": "2fae6c70-7366-42fc-bec3-7f06ac52b962"
+  },
+  {
+    "Chinese": "叫",
+    "Thai": "เรียก",
+    "phonetic": "Reīyk",
+    "English": null,
+    "type": "verb",
+    "uuid": "fd1230f4-b655-4d40-859e-3f0307db4e31"
+  },
+  {
+    "Chinese": "纪念日",
+    "Thai": "วันครบรอบ",
+    "phonetic": "Wạn khrb rxb",
+    "English": null,
+    "type": "noun",
+    "uuid": "ba44c6e8-d9b7-4efe-8212-09de68a8b09e"
+  },
+  {
+    "Chinese": "假日",
+    "Thai": "วันหยุด",
+    "phonetic": "Wạn h̄yud",
+    "English": null,
+    "type": "noun",
+    "uuid": "371a7be0-e1cd-49d6-930b-3a425af70fee"
+  },
+  {
+    "Chinese": "重要的",
+    "Thai": "สำคัญ",
+    "phonetic": "S̄ảkhạỵ",
+    "English": null,
+    "type": "adjective",
+    "uuid": "2981c33b-29e6-40d5-be17-9a8133906fe5"
+  },
+  {
+    "Chinese": "节日",
+    "Thai": "เทศกาล",
+    "phonetic": "Theṣ̄kāl",
+    "English": null,
+    "type": "noun",
+    "uuid": "a5ec63b5-3fc3-46c0-aa44-3747dae28994"
+  },
+  {
+    "Chinese": "祝福",
+    "Thai": "อวยพร",
+    "phonetic": "Xwyphr",
+    "English": null,
+    "type": "noun",
+    "uuid": "73868b82-bd76-4c10-b47c-75244e7882f7"
+  },
+  {
+    "Chinese": "早日康复",
+    "Thai": "หายเร็วๆ นะ",
+    "phonetic": "H̄āy rĕw«na",
+    "English": null,
+    "type": "conversation",
+    "uuid": "9c360201-2fc4-4aa5-b289-baac63da97a8"
+  },
+  {
+    "Chinese": "生日快乐",
+    "Thai": "สุขสันต์วันเกิด",
+    "phonetic": "S̄uk̄hs̄ạnt̒ wạn keid",
+    "English": null,
+    "type": "conversation",
+    "uuid": "25a36bd2-45cb-4f5f-a736-11de69e33933"
+  },
+  {
+    "Chinese": "安全的",
+    "Thai": "ปลอดภัย",
+    "phonetic": "Plxdp̣hạy",
+    "English": null,
+    "type": "adjective",
+    "uuid": "588a8863-b971-43ac-9ade-6fce735ffd6c"
+  },
+  {
+    "Chinese": "危险的",
+    "Thai": "อันตราย",
+    "phonetic": "Xạntrāy",
+    "English": null,
+    "type": "adjective",
+    "uuid": "6de63499-8cd4-4800-8432-3123952db348"
+  },
+  {
+    "Chinese": "小心",
+    "Thai": "ระวัง",
+    "phonetic": "Rawạng",
+    "English": null,
+    "type": "verb",
+    "uuid": "31640d8b-3c09-4aca-931f-e7198760edcd"
+  },
+  {
+    "Chinese": "照顾",
+    "Thai": "ดูแล",
+    "phonetic": "Dūlæ",
+    "English": null,
+    "type": "verb",
+    "uuid": "5ae11af5-875c-4ba5-84d3-21caa4818b93"
+  },
+  {
+    "Chinese": "自己",
+    "Thai": "ตัวเอง",
+    "phonetic": "Tạw xeng",
+    "English": null,
+    "type": "noun",
+    "uuid": "feb21d96-0488-4381-bff7-fa233fc36b7c"
   }
 ]
