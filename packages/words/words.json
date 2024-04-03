@@ -8574,5 +8574,61 @@
     "English": null,
     "type": "noun",
     "uuid": "feb21d96-0488-4381-bff7-fa233fc36b7c"
+  },
+  {
+    "Chinese": "空房",
+    "Thai": "ห้องว่าง",
+    "phonetic": "H̄̂xng ẁāng",
+    "English": null,
+    "type": "noun",
+    "uuid": "76cb4b91-7221-460f-b5c7-91da67f493e5"
+  },
+  {
+    "Chinese": "机场",
+    "Thai": "สนามบิน",
+    "phonetic": "S̄nām bin",
+    "English": null,
+    "type": "noun",
+    "uuid": "7bc8c462-5393-4fbc-82f8-b2d8d481a776"
+  },
+  {
+    "Chinese": "海滩",
+    "Thai": "หาด",
+    "phonetic": "H̄ād",
+    "English": null,
+    "type": "noun",
+    "uuid": "30d0d90e-d7c4-48d4-9b37-cfe6d51c85d5"
+  },
+  {
+    "Chinese": "山",
+    "Thai": "ภูเขา",
+    "phonetic": "P̣hūk̄heā",
+    "English": null,
+    "type": "noun",
+    "uuid": "1aad614e-72ea-4336-9d7b-e475d911fb2f"
+  },
+  {
+    "Chinese": "百货商店",
+    "Thai": "ห้าง",
+    "phonetic": "H̄̂āng",
+    "English": null,
+    "type": "noun",
+    "uuid": "f47f0f2f-b876-4940-8ffc-7cd72924e96e"
+  },
+  {
+    "Chinese": "税",
+    "Thai": "ภาษี",
+    "phonetic": "P̣hās̄ʹī",
+    "English": null,
+    "type": "noun",
+    "uuid": "2975da44-3d69-4b44-8bd6-30ea86d69079"
+  },
+  {
+    "Chinese": "阳台",
+    "Thai": "ระเบียง",
+    "phonetic": "Rabeīyng",
+    "English": null,
+    "type": "noun",
+    "uuid": "34138ab9-7fbf-4951-95bc-ef2edccd166b"
   }
 ]
