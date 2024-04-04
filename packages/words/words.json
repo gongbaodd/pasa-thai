@@ -8630,5 +8630,141 @@
     "English": null,
     "type": "noun",
     "uuid": "34138ab9-7fbf-4951-95bc-ef2edccd166b"
+  },
+  {
+    "Chinese": "阳台",
+    "Thai": "ระเบียง",
+    "phonetic": "Rabeīyng",
+    "English": null,
+    "type": "noun",
+    "uuid": "d86e781c-0969-4296-92a8-c4f425de2fa5"
+  },
+  {
+    "Chinese": "年龄",
+    "Thai": "อายุ",
+    "phonetic": "Xāyu",
+    "English": null,
+    "type": "noun",
+    "uuid": "ec991886-ec8f-4dfc-8187-4f697cf44e99"
+  },
+  {
+    "Chinese": "经常",
+    "Thai": "บ่อย",
+    "phonetic": "B̀xy",
+    "English": null,
+    "type": "adverb",
+    "uuid": "413bdcb2-0091-4380-a05d-f67bd071b73f"
+  },
+  {
+    "Chinese": "停留",
+    "Thai": "พัก",
+    "phonetic": "Phạk",
+    "English": null,
+    "type": "verb",
+    "uuid": "437e9310-07dc-4505-bfc3-71ebd814ac78"
+  },
+  {
+    "Chinese": "曾经",
+    "Thai": "เคย",
+    "phonetic": "Khey",
+    "English": null,
+    "type": "verb",
+    "uuid": "fbed5c42-278c-4616-b2f9-0b6b5aefa9c1"
+  },
+  {
+    "Chinese": "除了",
+    "Thai": "นอกจาก",
+    "phonetic": "Nxkcāk",
+    "English": null,
+    "type": "prep",
+    "uuid": "2aada1f8-bb04-4962-8c31-d64c186e27c9"
+  },
+  {
+    "Chinese": "其它",
+    "Thai": "อื่น",
+    "phonetic": "Xụ̄̀n",
+    "English": null,
+    "type": "adjective",
+    "uuid": "c35a04b9-94d3-4f15-ab69-d983bc7b4402"
+  },
+  {
+    "Chinese": "一点点",
+    "Thai": "นิดหน่อย",
+    "phonetic": "Nid h̄ǹxy",
+    "English": null,
+    "type": "adverb",
+    "uuid": "d8d65752-8583-4bbd-be91-fc528c5b66e4"
+  },
+  {
+    "Chinese": "明星",
+    "Thai": "ดารา",
+    "phonetic": "Dārā",
+    "English": null,
+    "type": "noun",
+    "uuid": "d0f3cec0-51dc-465a-8097-5c9bf3a57d9f"
+  },
+  {
+    "Chinese": "逃",
+    "Thai": "หนี",
+    "phonetic": "H̄nī",
+    "English": null,
+    "type": "verb",
+    "uuid": "428bbc7e-cd23-4252-a0c8-4e48f14f19e4"
+  },
+  {
+    "Chinese": "第一次",
+    "Thai": "ครั้งแรก",
+    "phonetic": "Khrậng ræk",
+    "English": null,
+    "type": "noun",
+    "uuid": "3cdcfa1d-b4a7-4e9f-a683-8bc9e387ef24"
+  },
+  {
+    "Chinese": "匆忙",
+    "Thai": "รีบ",
+    "phonetic": "Rīb",
+    "English": null,
+    "type": "adverb",
+    "uuid": "003a0b1f-0347-4135-acc7-2eaf6f0b8737"
+  },
+  {
+    "Chinese": "多久",
+    "Thai": "นานแค่ไหน",
+    "phonetic": "Nān khæ̀ h̄ịn",
+    "English": null,
+    "type": "conversation",
+    "uuid": "95888f51-92cf-46ca-a3dc-ce67b6803f47"
+  },
+  {
+    "Chinese": "叫",
+    "Thai": "เรียก",
+    "phonetic": "Reīyk",
+    "English": null,
+    "type": "verb",
+    "uuid": "9829c08e-63c5-4c20-bd59-21a86403728f"
+  },
+  {
+    "Chinese": "号码",
+    "Thai": "หมายเลข",
+    "phonetic": "H̄māylek̄h",
+    "English": null,
+    "type": "noun",
+    "uuid": "84f8c4c3-39df-4cb9-a3f7-7b9bfb386104"
+  },
+  {
+    "Chinese": "楼",
+    "Thai": "อาคาร",
+    "phonetic": "Xākhār",
+    "English": null,
+    "type": "noun",
+    "uuid": "2a7d6b82-12b5-4067-9f87-e8a05c485605"
+  },
+  {
+    "Chinese": "栋",
+    "Thai": "ตึก",
+    "phonetic": "Tụk",
+    "English": null,
+    "type": "noun",
+    "uuid": "2376badd-eb1e-4c09-aa63-a4035c7f6acc"
   }
 ]
