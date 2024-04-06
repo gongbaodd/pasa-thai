@@ -8766,5 +8766,149 @@
     "English": null,
     "type": "noun",
     "uuid": "2376badd-eb1e-4c09-aa63-a4035c7f6acc"
+  },
+  {
+    "Chinese": "机场",
+    "Thai": "สนามบิน",
+    "phonetic": "S̄nām bin",
+    "English": null,
+    "type": "noun",
+    "uuid": "918eecc4-3cfb-40d6-a39e-15ac9762bb2c"
+  },
+  {
+    "Chinese": "航班",
+    "Thai": "การบิน",
+    "phonetic": "Kār bin",
+    "English": null,
+    "type": "noun",
+    "uuid": "14f8f17d-833f-4359-a6fb-240a2b4bb5f0"
+  },
+  {
+    "Chinese": "靠窗座位",
+    "Thai": "ที่นั่งริมหน้าต่าง",
+    "phonetic": "Thī̀ nạ̀ng rim h̄n̂āt̀āng",
+    "English": null,
+    "type": "noun",
+    "uuid": "ab3160eb-020d-4e05-8de9-22360bdf9177"
+  },
+  {
+    "Chinese": "过道座位",
+    "Thai": "ที่นั่งติดทางเดิน",
+    "phonetic": "Thī̀ nạ̀ng tid thāng dein",
+    "English": null,
+    "type": "noun",
+    "uuid": "91de7bf3-a35b-4998-8871-756dde0b9f5a"
+  },
+  {
+    "Chinese": "超重",
+    "Thai": "น้ำหนักเกิน",
+    "phonetic": "N̂ả h̄nạk kein",
+    "English": null,
+    "type": "verb",
+    "uuid": "a069a351-4a93-4819-8ec9-a4865e468240"
+  },
+  {
+    "Chinese": "标签",
+    "Thai": "ป้าย",
+    "phonetic": "P̂āy",
+    "English": null,
+    "type": "noun",
+    "uuid": "be91bbae-848c-4383-ad1a-1a8cc31da796"
+  },
+  {
+    "Chinese": "传送带",
+    "Thai": "สายพาน",
+    "phonetic": "S̄āyphān",
+    "English": null,
+    "type": "noun",
+    "uuid": "fa196cd8-ae73-450c-bf59-8d53f4c5b3f1"
+  },
+  {
+    "Chinese": "个人物品",
+    "Thai": "ของใช้ส่วนตัว",
+    "phonetic": "K̄hxngchı̂ s̄̀wn tạw",
+    "English": null,
+    "type": "noun",
+    "uuid": "79ac9b9a-3f5a-46e5-9604-a971f386c929"
+  },
+  {
+    "Chinese": "液体",
+    "Thai": "ของเหลว",
+    "phonetic": "K̄hxngh̄elw",
+    "English": null,
+    "type": "noun",
+    "uuid": "78503508-1f00-4b0f-9470-d424595a40dc"
+  },
+  {
+    "Chinese": "准时",
+    "Thai": "ตรงเวลา",
+    "phonetic": "Trng welā",
+    "English": null,
+    "type": "verb",
+    "uuid": "7b96d957-0297-4a42-9a88-c49a18c74ba5"
+  },
+  {
+    "Chinese": "及时",
+    "Thai": "ทันเวลา",
+    "phonetic": "Thạn welā",
+    "English": null,
+    "type": "verb",
+    "uuid": "5ff43342-0eba-41ff-97e2-cba8f21c67be"
+  },
+  {
+    "Chinese": "推迟",
+    "Thai": "เลื่อนออก",
+    "phonetic": "Leụ̄̀xn xxk",
+    "English": null,
+    "type": "verb",
+    "uuid": "70b89385-f7ce-4f60-a034-b179dccd3f25"
+  },
+  {
+    "Chinese": "第一排",
+    "Thai": "แถวแรก",
+    "phonetic": "T̄hæw ræk",
+    "English": null,
+    "type": "noun",
+    "uuid": "01b42a1d-6e17-42f7-b7db-89e0cf0902ca"
+  },
+  {
+    "Chinese": "举",
+    "Thai": "ยก",
+    "phonetic": "Yk",
+    "English": null,
+    "type": "verb",
+    "uuid": "de3a136f-948e-4b8b-8949-84954146019e"
+  },
+  {
+    "Chinese": "拿着",
+    "Thai": "ถือ",
+    "phonetic": "T̄hụ̄x",
+    "English": null,
+    "type": "verb",
+    "uuid": "c2c62ce1-f206-438f-a956-9887ab0eec91"
+  },
+  {
+    "Chinese": "尝",
+    "Thai": "ชิม",
+    "phonetic": "Chim",
+    "English": null,
+    "type": "verb",
+    "uuid": "da68b910-66af-4fe3-915f-ed2395458245"
+  },
+  {
+    "Chinese": "解决",
+    "Thai": "แก้",
+    "phonetic": "Kæ̂",
+    "English": null,
+    "type": "verb",
+    "uuid": "982f3dbe-c8bc-481f-af21-39e4dd3d393b"
+  },
+  {
+    "Chinese": "问题，错误",
+    "Thai": "ปัญหา",
+    "phonetic": "Pạỵh̄ā",
+    "English": null,
+    "type": null,
+    "uuid": "bdf24798-b1c1-45c9-8d93-f6e41e20f4e3"
   }
 ]
