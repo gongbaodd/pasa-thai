@@ -8910,5 +8910,101 @@
     "English": null,
     "type": null,
     "uuid": "bdf24798-b1c1-45c9-8d93-f6e41e20f4e3"
+  },
+  {
+    "Chinese": "地址",
+    "Thai": "ที่อยู่",
+    "phonetic": "Thī̀ xyū̀",
+    "English": null,
+    "type": "noun",
+    "uuid": "a8ca278b-4052-4b8f-a703-66acd8a8a2a8"
+  },
+  {
+    "Chinese": "门牌号",
+    "Thai": "บ้านเลขที่",
+    "phonetic": "B̂ān lek̄h thī̀",
+    "English": null,
+    "type": "noun",
+    "uuid": "6b8120bb-5015-45a9-a847-5aea0d609403"
+  },
+  {
+    "Chinese": "村",
+    "Thai": "หมู่บ้าน",
+    "phonetic": "H̄mū̀b̂ān",
+    "English": null,
+    "type": "noun",
+    "uuid": "150adeec-05df-445f-9fcc-0c617ecc15bc"
+  },
+  {
+    "Chinese": "区（曼谷）",
+    "Thai": "เขต",
+    "phonetic": "K̄het",
+    "English": null,
+    "type": "noun",
+    "uuid": "65e36ff4-5d2c-4d48-a3a4-b9cf971294bd"
+  },
+  {
+    "Chinese": "区（外府）",
+    "Thai": "ตำบล",
+    "phonetic": "Tảbl",
+    "English": null,
+    "type": "noun",
+    "uuid": "cce65881-6628-406b-a519-624177564adb"
+  },
+  {
+    "Chinese": "邮编",
+    "Thai": "รหัสไปรษณีย์",
+    "phonetic": "Rh̄ạs̄ pịrs̄ʹṇīy̒",
+    "English": null,
+    "type": "noun",
+    "uuid": "feb72e92-14a3-41ee-b213-df8bb4e9911e"
+  },
+  {
+    "Chinese": "发件人",
+    "Thai": "ผู้ส่ง",
+    "phonetic": "P̄hū̂ s̄̀ng",
+    "English": null,
+    "type": "noun",
+    "uuid": "63a5039d-5df1-46b6-8925-bcf36b34b5f0"
+  },
+  {
+    "Chinese": "收件人",
+    "Thai": "ผู้รับ",
+    "phonetic": "P̄hū̂rạb",
+    "English": null,
+    "type": "noun",
+    "uuid": "6e33ce21-51dc-40d5-98c9-becbc6ff377b"
+  },
+  {
+    "Chinese": "发送",
+    "Thai": "ส่ง",
+    "phonetic": "S̄̀ng",
+    "English": null,
+    "type": "verb",
+    "uuid": "fc4e3778-9b73-4e9e-a130-ed9833af2d62"
+  },
+  {
+    "Chinese": "收",
+    "Thai": "รับ",
+    "phonetic": "Rạb",
+    "English": null,
+    "type": "verb",
+    "uuid": "2a9d7496-1a75-44bb-af0d-62283f2eb9a8"
+  },
+  {
+    "Chinese": "密码",
+    "Thai": "รหัส",
+    "phonetic": "Rh̄ạs̄",
+    "English": null,
+    "type": "noun",
+    "uuid": "2710cb45-192b-423e-996f-ded554421b6d"
+  },
+  {
+    "Chinese": "明天",
+    "Thai": "พรุ่งนี้",
+    "phonetic": "Phrùng nī̂",
+    "English": null,
+    "type": "time",
+    "uuid": "62cd15ec-3d46-48f7-8307-264aa70cd882"
   }
 ]
