@@ -9006,5 +9006,69 @@
     "English": null,
     "type": "time",
     "uuid": "62cd15ec-3d46-48f7-8307-264aa70cd882"
+  },
+  {
+    "Chinese": "游客",
+    "Thai": "นักท่องเที่ยว",
+    "phonetic": "Nạk th̀xng theī̀yw",
+    "English": null,
+    "type": "noun",
+    "uuid": "19a8ce00-e64f-4eec-8b9c-11aa7ea0a721"
+  },
+  {
+    "Chinese": "肉丸",
+    "Thai": "ลูกชิ้น",
+    "phonetic": "Lūk chîn",
+    "English": null,
+    "type": "noun",
+    "uuid": "73a88ce3-2c90-4078-b0f5-dd53030c59b5"
+  },
+  {
+    "Chinese": "拍照",
+    "Thai": "ถ่ายรูป",
+    "phonetic": "T̄h̀āy rūp",
+    "English": null,
+    "type": "verb",
+    "uuid": "30b70d5d-be10-498e-b21a-4193b9579e42"
+  },
+  {
+    "Chinese": "坐船",
+    "Thai": "นั่งเรือ",
+    "phonetic": "Nạ̀ng reụ̄x",
+    "English": null,
+    "type": "verb",
+    "uuid": "a48bb7ad-a0b0-4437-843a-24f292af4068"
+  },
+  {
+    "Chinese": "祈祷",
+    "Thai": "สวดมนต์",
+    "phonetic": "S̄wd mnt̒",
+    "English": null,
+    "type": "verb",
+    "uuid": "fa05368a-163a-4d55-8a69-4eb961984a73"
+  },
+  {
+    "Chinese": "禁止",
+    "Thai": "ห้าม",
+    "phonetic": "H̄̂ām",
+    "English": null,
+    "type": "verb",
+    "uuid": "f246b52a-78c1-4eda-9e60-f30d9454b2ac"
+  },
+  {
+    "Chinese": "动物",
+    "Thai": "สัตว์",
+    "phonetic": "S̄ạtw̒",
+    "English": null,
+    "type": "noun",
+    "uuid": "f8f4cf29-338e-4dbf-b10b-1708e0e5d9a0"
+  },
+  {
+    "Chinese": "脏",
+    "Thai": "สกปรก",
+    "phonetic": "S̄kprk",
+    "English": null,
+    "type": "adjective",
+    "uuid": "36203436-f55e-4934-ab46-ddae5fa86b82"
   }
 ]
