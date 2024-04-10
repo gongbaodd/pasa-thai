@@ -9070,5 +9070,69 @@
     "English": null,
     "type": "adjective",
     "uuid": "36203436-f55e-4934-ab46-ddae5fa86b82"
+  },
+  {
+    "Chinese": "海湾",
+    "Thai": "อ่าว",
+    "phonetic": "X̀āw",
+    "English": null,
+    "type": "noun",
+    "uuid": "d91e07e3-9796-4ff7-94a4-44d65bc37646"
+  },
+  {
+    "Chinese": "自然",
+    "Thai": "ธรรมชาติ",
+    "phonetic": "Ṭhrrmchāti",
+    "English": null,
+    "type": "noun",
+    "uuid": "f4d33471-4a1f-47da-a001-0727f3e16304"
+  },
+  {
+    "Chinese": "历史",
+    "Thai": "ประวัติศาสตร์",
+    "phonetic": "Prawạtiṣ̄ās̄tr̒",
+    "English": null,
+    "type": "noun",
+    "uuid": "04454bfb-4b30-4ca8-a256-444a4d8355ea"
+  },
+  {
+    "Chinese": "好梦",
+    "Thai": "ฝันดี",
+    "phonetic": "F̄ạn dī",
+    "English": null,
+    "type": "conversation",
+    "uuid": "c8483a2a-dc81-4a42-8455-e5850bc7b6b6"
+  },
+  {
+    "Chinese": "安息吧",
+    "Thai": "หลับให้สบาย",
+    "phonetic": "H̄lạb h̄ı̂ s̄bāy",
+    "English": null,
+    "type": "conversation",
+    "uuid": "dfb42492-8770-46fe-bb93-0e5c72f847a2"
+  },
+  {
+    "Chinese": "玩得开心",
+    "Thai": "แถวให้สนุก",
+    "phonetic": "T̄hæw h̄ı̂ s̄nuk",
+    "English": null,
+    "type": "conversation",
+    "uuid": "37b841a3-9a17-45ed-ae1c-49b00f11993b"
+  },
+  {
+    "Chinese": "租",
+    "Thai": "เช่า",
+    "phonetic": "Chèā",
+    "English": null,
+    "type": "verb",
+    "uuid": "eddbfa76-ff43-4f8f-a56f-babab78fa456"
+  },
+  {
+    "Chinese": "山",
+    "Thai": "ภูเขา",
+    "phonetic": "P̣hūk̄heā",
+    "English": null,
+    "type": "noun",
+    "uuid": "b6085c10-f87b-4b0f-b3a1-22e3e6d0f859"
   }
 ]
