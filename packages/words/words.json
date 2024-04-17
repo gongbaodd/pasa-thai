@@ -9134,5 +9134,141 @@
     "English": null,
     "type": "noun",
     "uuid": "b6085c10-f87b-4b0f-b3a1-22e3e6d0f859"
+  },
+  {
+    "Chinese": "租",
+    "Thai": "เช่า",
+    "phonetic": "Chèā",
+    "English": null,
+    "type": "verb",
+    "uuid": "d036af7f-bed0-486e-83e5-421d18c8ec67"
+  },
+  {
+    "Chinese": "出租",
+    "Thai": "ให้เช่า",
+    "phonetic": "H̄ı̂ chèā",
+    "English": null,
+    "type": "verb",
+    "uuid": "0201914d-2e6a-4cde-9a7f-a8d1e90e492f"
+  },
+  {
+    "Chinese": "转租",
+    "Thai": "เช่าช่วง",
+    "phonetic": "chèā ch̀wng",
+    "English": null,
+    "type": "verb",
+    "uuid": "866081c3-7292-4348-8c73-a8804f9ec6a2"
+  },
+  {
+    "Chinese": "租户",
+    "Thai": "ผู้เช่า",
+    "phonetic": "P̄hū̂ chèā",
+    "English": null,
+    "type": "verb",
+    "uuid": "3b7e3978-21af-441f-92a7-b893b8494b0c"
+  },
+  {
+    "Chinese": "土地",
+    "Thai": "ที่ดิน",
+    "phonetic": "Thī̀din",
+    "English": null,
+    "type": "noun",
+    "uuid": "fc11e41b-1650-4c4e-9385-42cb12a3b3d3"
+  },
+  {
+    "Chinese": "拿",
+    "Thai": "พา",
+    "phonetic": "Phā",
+    "English": null,
+    "type": "verb",
+    "uuid": "d1ba4dad-9365-472e-8384-dce16d3e7bd3"
+  },
+  {
+    "Chinese": "剪",
+    "Thai": "ตัด",
+    "phonetic": "Tạd",
+    "English": null,
+    "type": "verb",
+    "uuid": "71f61f08-02b3-4b60-b094-6fc15f0c1255"
+  },
+  {
+    "Chinese": "发烧",
+    "Thai": "ไข้",
+    "phonetic": "K̄hị̂",
+    "English": null,
+    "type": "verb",
+    "uuid": "d4cf5c32-5fba-4776-a54f-9febdec37d6c"
+  },
+  {
+    "Chinese": "签字",
+    "Thai": "เซ็น",
+    "phonetic": "Sĕn",
+    "English": null,
+    "type": "verb",
+    "uuid": "4106fa3b-c192-4e9e-bc5c-fd4f67f2329d"
+  },
+  {
+    "Chinese": "维修",
+    "Thai": "ซ่อมแซม",
+    "phonetic": "S̀xmsæm",
+    "English": null,
+    "type": "verb",
+    "uuid": "cf774260-0679-411f-8752-f3d6f4dac690"
+  },
+  {
+    "Chinese": "投资人",
+    "Thai": "นักลงทุน",
+    "phonetic": "Nạk lngthun",
+    "English": null,
+    "type": "noun",
+    "uuid": "f3e85f99-a5ca-4e95-b5cc-657e6a7057a6"
+  },
+  {
+    "Chinese": "预算",
+    "Thai": "งบประมาณ",
+    "phonetic": "Ngb pramāṇ",
+    "English": null,
+    "type": "noun",
+    "uuid": "e91d136b-0923-43c4-a51e-f3a80b43785b"
+  },
+  {
+    "Chinese": "合同",
+    "Thai": "สัญญา",
+    "phonetic": "S̄ạỵỵā",
+    "English": null,
+    "type": "noun",
+    "uuid": "632d8a93-fc6c-4805-b1ef-6fc72e2b0770"
+  },
+  {
+    "Chinese": "装饰",
+    "Thai": "ตกแต่ง",
+    "phonetic": "Tktæ̀ng",
+    "English": null,
+    "type": "verb",
+    "uuid": "dd71eaf6-f4f6-45d4-81ca-0a23d1e3e44e"
+  },
+  {
+    "Chinese": "尺寸",
+    "Thai": "ขนาด",
+    "phonetic": "K̄hnād",
+    "English": null,
+    "type": "noun",
+    "uuid": "190f908c-fe90-4310-a203-935a431c8edb"
+  },
+  {
+    "Chinese": "方便",
+    "Thai": "สะดวก",
+    "phonetic": "S̄adwk",
+    "English": null,
+    "type": "adjective",
+    "uuid": "9b91ec90-81e0-4529-9d14-4945fca8be20"
+  },
+  {
+    "Chinese": "游泳池",
+    "Thai": "สระว่ายน้ำ",
+    "phonetic": "S̄ra ẁāy n̂ả",
+    "English": null,
+    "type": "noun",
+    "uuid": "1f886e04-7bde-4260-bfbb-afe8dbb1983a"
   }
 ]
