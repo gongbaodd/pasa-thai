@@ -9270,5 +9270,61 @@
     "English": null,
     "type": "noun",
     "uuid": "1f886e04-7bde-4260-bfbb-afe8dbb1983a"
+  },
+  {
+    "Chinese": "支付",
+    "Thai": "จ่าย",
+    "phonetic": "C̀āy",
+    "English": null,
+    "type": "verb",
+    "uuid": "2d7794dc-c60c-4b61-9687-7849bd858ddb"
+  },
+  {
+    "Chinese": "投资",
+    "Thai": "ลงทุน",
+    "phonetic": "Lngthun",
+    "English": null,
+    "type": "verb",
+    "uuid": "961071ba-46fe-456f-b006-d75e7c809d18"
+  },
+  {
+    "Chinese": "居住",
+    "Thai": "อยู่อาศัย",
+    "phonetic": "Xyū̀ xāṣ̄ạy",
+    "English": null,
+    "type": "verb",
+    "uuid": "76e2b32d-bea1-4aae-a853-d8f395e030a2"
+  },
+  {
+    "Chinese": "附近",
+    "Thai": "แถว",
+    "phonetic": "T̄hæw",
+    "English": null,
+    "type": "adjective",
+    "uuid": "21437650-9342-44d2-bb60-77dc4aa6b042"
+  },
+  {
+    "Chinese": "补偿",
+    "Thai": "ชดเชย",
+    "phonetic": "Chdchey",
+    "English": null,
+    "type": "verb",
+    "uuid": "62e6e8c4-e1a3-4f29-9fbe-f218c17cff05"
+  },
+  {
+    "Chinese": "税",
+    "Thai": "ภาษี",
+    "phonetic": "P̣hās̄ʹī",
+    "English": null,
+    "type": "noun",
+    "uuid": "e95c38fc-6c5d-4a5e-845a-f483f9d750f2"
+  },
+  {
+    "Chinese": "打算",
+    "Thai": "วางแผน",
+    "phonetic": "Wāngp̄hæn",
+    "English": null,
+    "type": "verb",
+    "uuid": "34a3ff0a-ca47-4c4a-bc75-2399ddc6ad85"
   }
 ]
