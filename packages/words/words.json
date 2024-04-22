@@ -9326,5 +9326,157 @@
     "English": null,
     "type": "verb",
     "uuid": "34a3ff0a-ca47-4c4a-bc75-2399ddc6ad85"
+  },
+  {
+    "Chinese": "优点",
+    "Thai": "จุดแข็ง",
+    "phonetic": "Cud k̄hæ̆ng",
+    "English": null,
+    "type": "noun",
+    "uuid": "11308531-e0bd-49b5-8042-5f2f21547450"
+  },
+  {
+    "Chinese": "缺点",
+    "Thai": "จุดอ่อน",
+    "phonetic": "Cud x̀xn",
+    "English": null,
+    "type": "noun",
+    "uuid": "a107f5ba-ef91-44ae-98e6-db0787e8670f"
+  },
+  {
+    "Chinese": "经验",
+    "Thai": "ประสบการณ์",
+    "phonetic": "Pras̄bkārṇ̒",
+    "English": null,
+    "type": "noun",
+    "uuid": "4622dce1-487e-4d9d-afab-7ede51b94536"
+  },
+  {
+    "Chinese": "勤奋",
+    "Thai": "ขยัน",
+    "phonetic": "K̄hyạn",
+    "English": null,
+    "type": "adjective",
+    "uuid": "81341241-0ded-45b1-9835-78c23700b918"
+  },
+  {
+    "Chinese": "挑战",
+    "Thai": "ท้าทาย",
+    "phonetic": "Tĥāthāy",
+    "English": null,
+    "type": "noun",
+    "uuid": "c98c30c9-9929-4a62-9c16-b8ce42f3832c"
+  },
+  {
+    "Chinese": "害羞的",
+    "Thai": "ขี้อาย",
+    "phonetic": "K̄hī̂ xāy",
+    "English": null,
+    "type": "adjective",
+    "uuid": "529ac26e-3629-498e-a69f-1f7d036cd09f"
+  },
+  {
+    "Chinese": "慵懒",
+    "Thai": "ขี้เกียจ",
+    "phonetic": "K̄hī̂ keīyc",
+    "English": null,
+    "type": "adjective",
+    "uuid": "02b1b9c8-ee18-4320-81a1-d57bc88342c5"
+  },
+  {
+    "Chinese": "吹牛",
+    "Thai": "โม้",
+    "phonetic": "Mô",
+    "English": null,
+    "type": "verb",
+    "uuid": "e14944cf-f015-4084-be4b-461725e2a24b"
+  },
+  {
+    "Chinese": "大概",
+    "Thai": "ประมาณ",
+    "phonetic": "Pramāṇ",
+    "English": null,
+    "type": "prep",
+    "uuid": "15a54f99-93c1-44af-8bb0-4b91ecf92eca"
+  },
+  {
+    "Chinese": "少于",
+    "Thai": "น้อยกว่า",
+    "phonetic": "N̂xy kẁā",
+    "English": null,
+    "type": "prep",
+    "uuid": "0866041a-26d8-4af0-9cae-91503172b306"
+  },
+  {
+    "Chinese": "多于",
+    "Thai": "มากกว่า",
+    "phonetic": "Mākkẁā",
+    "English": null,
+    "type": "prep",
+    "uuid": "0116f03d-ab78-44a5-b102-0445ad897fd5"
+  },
+  {
+    "Chinese": "低于",
+    "Thai": "ต่ำกว่า",
+    "phonetic": "T̀ả kẁā",
+    "English": null,
+    "type": "prep",
+    "uuid": "dde76e19-a5bd-49b0-b193-12657b0b05fb"
+  },
+  {
+    "Chinese": "相信",
+    "Thai": "เชื่อ",
+    "phonetic": "Cheụ̄̀x",
+    "English": null,
+    "type": "verb",
+    "uuid": "fd2916cc-3c3b-4ae4-9773-e1c2844a2fb6"
+  },
+  {
+    "Chinese": "通知",
+    "Thai": "แจ้ง",
+    "phonetic": "Cæ̂ng",
+    "English": null,
+    "type": "verb",
+    "uuid": "af09c8be-317f-48d1-bafb-d52e19a17cea"
+  },
+  {
+    "Chinese": "问",
+    "Thai": "ถาม",
+    "phonetic": "T̄hām",
+    "English": null,
+    "type": "verb",
+    "uuid": "1cfc6c64-3523-40c4-b0fb-6d3e5ed337e3"
+  },
+  {
+    "Chinese": "回复",
+    "Thai": "ตอบ",
+    "phonetic": "Txb",
+    "English": null,
+    "type": "verb",
+    "uuid": "fb76836f-499d-4eec-86d0-57fa1a00258c"
+  },
+  {
+    "Chinese": "害怕",
+    "Thai": "กลัว",
+    "phonetic": "Klạw",
+    "English": null,
+    "type": "verb",
+    "uuid": "a86a27ab-6d32-473b-b3b0-c4d6a01ea673"
+  },
+  {
+    "Chinese": "希望",
+    "Thai": "หวัง",
+    "phonetic": "H̄wạng",
+    "English": null,
+    "type": "verb",
+    "uuid": "29a0277c-c502-42ff-a036-97fc0ab6b235"
+  },
+  {
+    "Chinese": "感觉",
+    "Thai": "รู้สึก",
+    "phonetic": "Rū̂s̄ụk",
+    "English": null,
+    "type": "verb",
+    "uuid": "ad997a42-96f0-473f-9bd2-23a8e084f54f"
   }
 ]
