@@ -9478,5 +9478,237 @@
     "English": null,
     "type": "verb",
     "uuid": "ad997a42-96f0-473f-9bd2-23a8e084f54f"
+  },
+  {
+    "Chinese": "重要",
+    "Thai": "สำคัญ",
+    "phonetic": "S̄ảkhạỵ",
+    "English": null,
+    "type": "adjective",
+    "uuid": "c651eb61-3ffb-4570-87ea-e6b37ab347ba"
+  },
+  {
+    "Chinese": "节日",
+    "Thai": "เทศกาล",
+    "phonetic": "Theṣ̄kāl",
+    "English": null,
+    "type": "noun",
+    "uuid": "9d04146d-af92-4700-9678-38ddbc76b5c6"
+  },
+  {
+    "Chinese": "周年",
+    "Thai": "วันครบรอบปี",
+    "phonetic": "Wạn khrb rxb pī",
+    "English": null,
+    "type": "noun",
+    "uuid": "840d5f02-e4e1-4625-a30b-78acaf272f18"
+  },
+  {
+    "Chinese": "禁止",
+    "Thai": "ห้าม",
+    "phonetic": "H̄̂ām",
+    "English": null,
+    "type": "verb",
+    "uuid": "c424ebc6-f3b8-4ed9-a0f2-e75f228cc1cd"
+  },
+  {
+    "Chinese": "别",
+    "Thai": "อย่า",
+    "phonetic": "Xỳā",
+    "English": null,
+    "type": "verb",
+    "uuid": "7f98af6f-30c1-4f62-b95c-c534bbde138a"
+  },
+  {
+    "Chinese": "给",
+    "Thai": "ให้",
+    "phonetic": "H̄ı̂",
+    "English": null,
+    "type": "verb",
+    "uuid": "2bf0585d-d944-44e6-8609-e34791b8a4c1"
+  },
+  {
+    "Chinese": "应该",
+    "Thai": "ควร",
+    "phonetic": "Khwr",
+    "English": null,
+    "type": "verb",
+    "uuid": "9581b99f-aa63-4de9-8a94-9563b3cffa96"
+  },
+  {
+    "Chinese": "立即地",
+    "Thai": "ทันที",
+    "phonetic": "Thạnthī",
+    "English": null,
+    "type": "adverb",
+    "uuid": "ab0fb307-a524-492d-9ab9-08d24d4a879d"
+  },
+  {
+    "Chinese": "救生衣",
+    "Thai": "เสื้อชูชีพ",
+    "phonetic": "S̄eụ̄̂x chūchīph",
+    "English": null,
+    "type": "noun",
+    "uuid": "96af862f-b712-4cd4-b298-7976c3c8deda"
+  },
+  {
+    "Chinese": "展示",
+    "Thai": "แสดง",
+    "phonetic": "S̄ædng",
+    "English": null,
+    "type": "verb",
+    "uuid": "c7f4b493-a596-4535-8cb5-681b112a2df5"
+  },
+  {
+    "Chinese": "祝你好运",
+    "Thai": "ขอให้โชคดี",
+    "phonetic": "K̄hx h̄ı̂ chokh dī",
+    "English": null,
+    "type": "conversation",
+    "uuid": "6764c8ca-7f15-4e3c-b3f1-b174ecdbd63a"
+  },
+  {
+    "Chinese": "恭喜你",
+    "Thai": "ยินดีด้วย",
+    "phonetic": "Yindī d̂wy",
+    "English": null,
+    "type": "conversation",
+    "uuid": "f24ebedb-843a-421e-ac85-e1895d27a7ff"
+  },
+  {
+    "Chinese": "爱好",
+    "Thai": "งานอดิเรก",
+    "phonetic": "Ngān xdirek",
+    "English": null,
+    "type": "noun",
+    "uuid": "5da4c95a-2534-454d-b644-6299fc3e2c44"
+  },
+  {
+    "Chinese": "擅长",
+    "Thai": "ถนัด",
+    "phonetic": "T̄hnạd",
+    "English": null,
+    "type": "verb",
+    "uuid": "7d304d95-ed71-41f9-98bd-b284ee97feae"
+  },
+  {
+    "Chinese": "能够",
+    "Thai": "สามารถ",
+    "phonetic": "S̄āmārt̄h",
+    "English": null,
+    "type": "verb",
+    "uuid": "98833657-e886-4db1-be7a-5a11d5af4181"
+  },
+  {
+    "Chinese": "读书",
+    "Thai": "อ่าน",
+    "phonetic": "X̀ān",
+    "English": null,
+    "type": "verb",
+    "uuid": "1bd3836f-d367-4a42-ab88-24754f4f1e69"
+  },
+  {
+    "Chinese": "运动",
+    "Thai": "กีฬา",
+    "phonetic": "Kīḷā",
+    "English": null,
+    "type": "noun",
+    "uuid": "fbaad795-8f67-4acd-8dcc-dc35e619e434"
+  },
+  {
+    "Chinese": "游泳",
+    "Thai": "ว่ายน้ำ",
+    "phonetic": "Ẁāy n̂ả",
+    "English": null,
+    "type": "noun",
+    "uuid": "2c28c863-368d-478c-ba71-89585a95f5a2"
+  },
+  {
+    "Chinese": "特别",
+    "Thai": "พิเศษ",
+    "phonetic": "Phiṣ̄es̄ʹ",
+    "English": null,
+    "type": "adjective",
+    "uuid": "8139a874-5e1f-4fc3-93e8-898429394684"
+  },
+  {
+    "Chinese": "空闲时间",
+    "Thai": "เวลาว่าง",
+    "phonetic": "Welā ẁāng",
+    "English": null,
+    "type": "noun",
+    "uuid": "4d0b2c20-f608-4e7d-bdc6-c311103b2389"
+  },
+  {
+    "Chinese": "听歌",
+    "Thai": "ฟังเพลง",
+    "phonetic": "Fạng phelng",
+    "English": null,
+    "type": "verb",
+    "uuid": "5b059896-fc18-4266-b533-b7d220cea58f"
+  },
+  {
+    "Chinese": "唱歌",
+    "Thai": "ร้องเพลง",
+    "phonetic": "R̂xng phelng",
+    "English": null,
+    "type": "verb",
+    "uuid": "82899a88-ef4d-4cb7-af93-d1e21f6a0702"
+  },
+  {
+    "Chinese": "音乐",
+    "Thai": "ดนตรี",
+    "phonetic": "Dntrī",
+    "English": null,
+    "type": "noun",
+    "uuid": "2dca013d-1623-4f1a-9184-7d7b597e81cd"
+  },
+  {
+    "Chinese": "划船",
+    "Thai": "พายเรือ",
+    "phonetic": "Phāy reụ̄x",
+    "English": null,
+    "type": "verb",
+    "uuid": "7e4df539-5b90-4ca0-a181-6a923b983963"
+  },
+  {
+    "Chinese": "森林",
+    "Thai": "ป่า",
+    "phonetic": "P̀ā",
+    "English": null,
+    "type": "noun",
+    "uuid": "373359db-50c5-4354-8f92-ad99f31d3241"
+  },
+  {
+    "Chinese": "画画",
+    "Thai": "วาด",
+    "phonetic": "Wād",
+    "English": null,
+    "type": "verb",
+    "uuid": "74c63da5-8434-4d71-84f5-89a5ab666fa7"
+  },
+  {
+    "Chinese": "小说",
+    "Thai": "นิยาย",
+    "phonetic": "Niyāy",
+    "English": null,
+    "type": "noun",
+    "uuid": "3bfae50c-0bb6-4ab3-a5cb-1bedf80a47df"
+  },
+  {
+    "Chinese": "种花",
+    "Thai": "ปลูกดอกไม้",
+    "phonetic": "Plūk dxkmị̂",
+    "English": null,
+    "type": "verb",
+    "uuid": "a2a6a0a5-96f1-4eb9-b510-5d5671ff657b"
+  },
+  {
+    "Chinese": "种树",
+    "Thai": "ปลูกต้นไม้",
+    "phonetic": "Plūk t̂nmị̂",
+    "English": null,
+    "type": "verb",
+    "uuid": "febbefdc-e9b0-4398-af50-79059f0c4e81"
   }
 ]
