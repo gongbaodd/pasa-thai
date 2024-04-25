@@ -9710,5 +9710,157 @@
     "English": null,
     "type": "verb",
     "uuid": "febbefdc-e9b0-4398-af50-79059f0c4e81"
+  },
+  {
+    "Chinese": "节日",
+    "Thai": "เทศกาล",
+    "phonetic": "theṣ̄kāl",
+    "English": null,
+    "type": "noun",
+    "uuid": "1cb7f3b4-4b19-4324-be0a-dd22dc270fa2"
+  },
+  {
+    "Chinese": "传统",
+    "Thai": "ประเพณี",
+    "phonetic": "Prapheṇī",
+    "English": null,
+    "type": "noun",
+    "uuid": "1849bf92-8e1a-4e6a-9d7f-e58ca74d3694"
+  },
+  {
+    "Chinese": "文化",
+    "Thai": "วัฒนธรรม",
+    "phonetic": "Wạtʹhnṭhrrm",
+    "English": null,
+    "type": "noun",
+    "uuid": "c7ce96e2-26ce-4233-bf9a-7a7a98124ee8"
+  },
+  {
+    "Chinese": "宗教",
+    "Thai": "ศาสนา",
+    "phonetic": "Ṣ̄ās̄nā",
+    "English": null,
+    "type": "noun",
+    "uuid": "9ddbd2d4-616e-400d-9355-7a22d08bf85f"
+  },
+  {
+    "Chinese": "信仰",
+    "Thai": "ความเชื่อ",
+    "phonetic": "Khwām cheụ̄̀x",
+    "English": null,
+    "type": "noun",
+    "uuid": "98b27bec-c567-45ad-8513-57c6f4c6d917"
+  },
+  {
+    "Chinese": "继承",
+    "Thai": "สืบทอด",
+    "phonetic": "S̄ụ̄bthxd",
+    "English": null,
+    "type": "verb",
+    "uuid": "f7bb12df-07e7-4ab3-9f1b-fffd63eed6c8"
+  },
+  {
+    "Chinese": "仪式",
+    "Thai": "พิธี",
+    "phonetic": "Phiṭhī",
+    "English": null,
+    "type": "noun",
+    "uuid": "22e81146-7722-46a8-a9f6-b734e2c6246e"
+  },
+  {
+    "Chinese": "崇拜",
+    "Thai": "บูชา",
+    "phonetic": "Būchā",
+    "English": null,
+    "type": "verb",
+    "uuid": "541d53c3-5a12-4793-b340-4a0b5608eb8e"
+  },
+  {
+    "Chinese": "装饰",
+    "Thai": "ตกแต่ง",
+    "phonetic": "Tktæ̀ng",
+    "English": null,
+    "type": "verb",
+    "uuid": "44e9ee5f-ade1-4b3a-b41d-aaa3f67e3f1d"
+  },
+  {
+    "Chinese": "祖先",
+    "Thai": "บรรพบุรุษ",
+    "phonetic": "Brrphburus̄ʹ",
+    "English": null,
+    "type": "noun",
+    "uuid": "be133c62-abc5-4456-ad22-c2aeb6df5867"
+  },
+  {
+    "Chinese": "许愿",
+    "Thai": "อธิษฐาน",
+    "phonetic": "Xṭhis̄ʹṭ̄hān",
+    "English": null,
+    "type": "verb",
+    "uuid": "2e7068b7-aa5a-434c-a054-ee20da6bc52d"
+  },
+  {
+    "Chinese": "熏香",
+    "Thai": "ธูป",
+    "phonetic": "Ṭhūp",
+    "English": null,
+    "type": "noun",
+    "uuid": "e6454ef1-2ba1-429b-a8ea-af237326f8d8"
+  },
+  {
+    "Chinese": "蜡烛",
+    "Thai": "เทียน",
+    "phonetic": "Theīyn",
+    "English": null,
+    "type": "noun",
+    "uuid": "b6c6e96f-785b-49f2-8854-ea2ffb4cff61"
+  },
+  {
+    "Chinese": "历史",
+    "Thai": "ประวัติ",
+    "phonetic": "Prawạti",
+    "English": null,
+    "type": "noun",
+    "uuid": "d1619383-b5f2-435e-b6a0-6dd2bd90f612"
+  },
+  {
+    "Chinese": "北方",
+    "Thai": "ภาคเหนือ",
+    "phonetic": "P̣hākh h̄enụ̄x",
+    "English": null,
+    "type": "noun",
+    "uuid": "9f583c7a-6c30-4954-bf87-c29e6f862f28"
+  },
+  {
+    "Chinese": "中央区域",
+    "Thai": "ภาคกลาง",
+    "phonetic": "P̣hākh klāng",
+    "English": null,
+    "type": "noun",
+    "uuid": "bc5d70a7-625d-48cd-94a5-ff11e9d7277c"
+  },
+  {
+    "Chinese": "南",
+    "Thai": "ภาคใต้",
+    "phonetic": "P̣hākh tı̂",
+    "English": null,
+    "type": "noun",
+    "uuid": "966c6d5e-c6c1-4beb-83ad-d7cac902a498"
+  },
+  {
+    "Chinese": "东北地区",
+    "Thai": "ภาคอีสาน",
+    "phonetic": "P̣hākh xīs̄ān",
+    "English": null,
+    "type": "noun",
+    "uuid": "50f35fda-7284-46b5-96c2-1be62d9ee07d"
+  },
+  {
+    "Chinese": "泼水",
+    "Thai": "สาดน้ำ",
+    "phonetic": "S̄ād n̂ả",
+    "English": null,
+    "type": "verb",
+    "uuid": "3404b59f-94c7-46d5-bcd9-422bae462d29"
   }
 ]
