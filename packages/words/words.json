@@ -9862,5 +9862,37 @@
     "English": null,
     "type": "verb",
     "uuid": "3404b59f-94c7-46d5-bcd9-422bae462d29"
+  },
+  {
+    "Chinese": "害怕",
+    "Thai": "กลัว",
+    "phonetic": "Klạw",
+    "English": null,
+    "type": "verb",
+    "uuid": "819a7704-05f4-49be-99d7-8638b3522a87"
+  },
+  {
+    "Chinese": "兴奋",
+    "Thai": "ตื่นเต้น",
+    "phonetic": "Tụ̄̀n tên",
+    "English": null,
+    "type": "adjective",
+    "uuid": "eb4d7542-9aaf-4ed3-852d-445511407e12"
+  },
+  {
+    "Chinese": "哈欠",
+    "Thai": "หาว",
+    "phonetic": "H̄āw",
+    "English": null,
+    "type": "noun",
+    "uuid": "48fd8bc0-c979-4aa3-8072-942488f7072b"
+  },
+  {
+    "Chinese": "参加测试",
+    "Thai": "สอบ",
+    "phonetic": "S̄xb",
+    "English": null,
+    "type": "verb",
+    "uuid": "d0230152-1308-43cf-b9bb-7a4c7a7a108e"
   }
 ]
