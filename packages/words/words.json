@@ -9894,5 +9894,85 @@
     "English": null,
     "type": "verb",
     "uuid": "d0230152-1308-43cf-b9bb-7a4c7a7a108e"
+  },
+  {
+    "Chinese": "唱歌",
+    "Thai": "ร้องเพลง",
+    "phonetic": "R̂xng phelng",
+    "English": null,
+    "type": "verb",
+    "uuid": "e81b8ebd-6e99-427a-ba91-a82315cdca87"
+  },
+  {
+    "Chinese": "筷子",
+    "Thai": "ตะเกียบ",
+    "phonetic": "Takeīyb",
+    "English": null,
+    "type": "noun",
+    "uuid": "e131d838-c332-43d3-834b-2973ab5f77a9"
+  },
+  {
+    "Chinese": "插",
+    "Thai": "ปัก",
+    "phonetic": "Pạk",
+    "English": null,
+    "type": "verb",
+    "uuid": "226ff303-9e98-48ba-8fdc-fa8ef5142467"
+  },
+  {
+    "Chinese": "土豆",
+    "Thai": "มันฝรั่ง",
+    "phonetic": "Mạn f̄rạ̀ng",
+    "English": null,
+    "type": "noun",
+    "uuid": "c0c38118-1061-4801-8f35-8feb6855d798"
+  },
+  {
+    "Chinese": "忙",
+    "Thai": "ยุ่ง",
+    "phonetic": "Yùng",
+    "English": null,
+    "type": "adjective",
+    "uuid": "34aadfb3-b882-402d-97d3-26802ad14e16"
+  },
+  {
+    "Chinese": "礼貌",
+    "Thai": "สุภาพ",
+    "phonetic": "S̄up̣hāph",
+    "English": null,
+    "type": "noun",
+    "uuid": "88798a85-4179-4835-82b2-2869417c8a06"
+  },
+  {
+    "Chinese": "规矩",
+    "Thai": "กฎ",
+    "phonetic": "Kḍ",
+    "English": null,
+    "type": "noun",
+    "uuid": "6518bb45-cbf1-49df-ade3-d85b8b88229d"
+  },
+  {
+    "Chinese": "别人",
+    "Thai": "คนอื่น",
+    "phonetic": "Khn xụ̄̀n",
+    "English": null,
+    "type": "noun",
+    "uuid": "38675629-b18c-4e78-8625-582a0602232f"
+  },
+  {
+    "Chinese": "偶然",
+    "Thai": "บังเอิญ",
+    "phonetic": "Bạngxeiỵ",
+    "English": null,
+    "type": "adverb",
+    "uuid": "c60c5c1b-43aa-4417-87fa-773ea728eff5"
+  },
+  {
+    "Chinese": "误会",
+    "Thai": "เข้าใจผิด",
+    "phonetic": "K̄hêācı p̄hid",
+    "English": null,
+    "type": "noun",
+    "uuid": "58114709-9960-4110-8b38-84b8b08dabbc"
   }
 ]
